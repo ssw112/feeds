@@ -1,0 +1,604 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>TLDR</title>
+    <link>https://dataval.tplinkdns.com</link>
+    <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
+    <language>en</language>
+    <item>
+      <title>Decomps on Mac are getting INSANE (even on M1)</title>
+      <link>https://dataval.tplinkdns.com/tldr/aF0Gr98s_HM</link>
+      <guid isPermaLink="false">yt-tldr-1792412458</guid>
+      <pubDate>Mon, 19 Oct 2026 12:20:58 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Native Mac ports of console games via decompilation&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video demonstrates that decompilation and recompilation projects allow classic console games (Xbox 360, GameCube, PS4) to run natively on Macs, including the base M1. Unlike emulation, these ports offer higher resolutions, unlocked frame rates, and proper graphics settings. The creator argues that AI is accelerating this process, potentially making it possible for users to create their own Mac ports for modern games in the near future, bypassing official publisher support.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Technical claims are consistent with current open-source projects; AI acceleration is a speculative prediction, not a proven fact.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=aF0Gr98s_HM" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,978 tokens • Output: 208 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Don't Buy a GPU Instead Build This 32GB Free AI Server Instead</title>
+      <link>https://dataval.tplinkdns.com/tldr/IMVjEsKX5UQ</link>
+      <guid isPermaLink="false">yt-tldr-1792411849</guid>
+      <pubDate>Mon, 19 Oct 2026 12:10:49 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Free 32 GB AI Server on Kaggle: T4 vs TPU – What’s Really Worth It&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video shows how to spin up a “free” 32 GB AI server on Kaggle using two Nvidia Tesla T4 GPUs (≈16 tokens / s) or, less known, a TPU VM (≈130 tokens / s). Both run under strict quotas (≈30 GPU‑hours / week) and time‑out after ~100 s of pre‑fill, making them unreliable for daily coding. For occasional experiments the free setup is handy, but a paid hosted model (a few dollars per million tokens) or a personal GPU is far more practical for consistent work or data‑privacy needs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Token rates, quota limits, and pricing cited align with Kaggle’s free tier specs and OpenRouter’s published costs.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=IMVjEsKX5UQ" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,778 tokens • Output: 622 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The 3 elements of stupidity, according to philosophy | Jonny Thomson: Full Interview</title>
+      <link>https://dataval.tplinkdns.com/tldr/HbQ-t8GXYTA</link>
+      <guid isPermaLink="false">yt-tldr-1792411234</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:34 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · CULTURE] Dietrich Bonhoeffer's Three Elements of Stupidity&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explains Dietrich Bonhoeffer's philosophical view that stupidity—defined as outsourcing critical thinking, willful ignorance, and unthinking conformity—poses a greater threat to civilization than malice. The implication is that individuals must actively question their beliefs, escape echo chambers, and stop outsourcing moral reasoning to technology or groupthink.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video accurately attributes Bonhoeffer's historical context and philosophical concepts. No disinforming claims made; claim is philosophical interpretation vs fact.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HbQ-t8GXYTA" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 11,063 tokens • Output: 176 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We Finally Know Man City’s Evidence And It’s Weird</title>
+      <link>https://dataval.tplinkdns.com/tldr/Dcufq9MOvgc</link>
+      <guid isPermaLink="false">yt-tldr-1792410616</guid>
+      <pubDate>Mon, 19 Oct 2026 11:50:16 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[MONEY] Manchester City’s FFP Legal Strategy Relies on UAE Documents and Procedural Delays&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video analyzes details published by &lt;em&gt;The Telegraph&lt;/em&gt; regarding Manchester City’s legal defense against Premier League financial charges. City claims official documents and testimony from the Abu Dhabi government prove sponsorship deals were funded by government entities rather than club owners, challenging the appeal panel to question foreign state records. City also argues crucial witnesses were improperly dismissed and no direct insider evidence proves deliberate wrongdoing. The video implies City's strategy aims to create geopolitical complications and procedural delays, potentially forcing a retrial that could drag the legal process out for years.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video summarizes a report by &lt;em&gt;The Telegraph&lt;/em&gt;; claims reflect City's legal defense arguments rather than proven facts.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Dcufq9MOvgc" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,334 tokens • Output: 219 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solar Panels Are Doing Something Nobody Expected</title>
+      <link>https://dataval.tplinkdns.com/tldr/kcQ7n9-hkRU</link>
+      <guid isPermaLink="false">yt-tldr-1792409397</guid>
+      <pubDate>Mon, 19 Oct 2026 11:29:57 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[SCIENCE] Solar Farms May Induce Rain in Coastal Deserts, Study Finds&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Researchers propose large solar farms in coastal deserts could trigger rain by absorbing heat and altering atmospheric convection. UAE-funded simulations suggest sufficient rainfall for thousands, but scaling raises costs, risks unintended global climate shifts, and reveals an irony: panels must be inefficient (heat-generating) to work, while more efficient panels reduce rain potential.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video claims solar farms can induce rain; simulations show promise but lack real-world validation and carry climate side-effect risks.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=kcQ7n9-hkRU" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,488 tokens • Output: 3,306 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Бронювання змінюють | Starlink обмежують | AI знайшов тисячі вразливостей — DOU News #272</title>
+      <link>https://dataval.tplinkdns.com/tldr/vd-vvZnmw1E</link>
+      <guid isPermaLink="false">yt-tldr-1792408766</guid>
+      <pubDate>Mon, 19 Oct 2026 11:19:26 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[NEWS-UA] Зміни в бронюванні та обмеження Starlink для військових&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Уряд України готує зміни до правил бронювання: працівників з відстрочкою виключать із квот, що зменшить кількість заброньованих фахівців. Також обговорюється зниження лімітів бронювання для енергетики та оборонки. Тим часом Starlink обмежив роботу терміналів на високій швидкості для військових за вказівкою США, що створило проблеми для логістики та бойових завдань. Відео також висвітлює банкрутство Character.ai та використання AI для пошуку вразливостей у Bank of America. Ці події вказують на посилення державного контролю над критичними технологіями та зміну підходів до мобілізації в IT-секторі.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео базується на публічних заявах урядовців та звітах Reuters. Інформація про обмеження Starlink та зміни в бронюванні є фактологічною, хоча автор додає власні оціночні судження щодо політики США та ефективності рішень Кабміну.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=vd-vvZnmw1E" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 8,848 tokens • Output: 321 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The ElevenLabs Situation Is Crazy</title>
+      <link>https://dataval.tplinkdns.com/tldr/lxDNHLgWInU</link>
+      <guid isPermaLink="false">yt-tldr-1792408158</guid>
+      <pubDate>Mon, 19 Oct 2026 11:09:18 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[AI] The Legal and Ethical Gray Area of AI Voice Cloning&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explores the creator's discovery that an AI voice on the ElevenLabs platform sounded identical to his own, raising concerns about identity theft and the lack of legal recourse. He discusses the psychological impact of having one's "vocal fingerprint" misappropriated and the difficulty of proving ownership in an unregulated AI landscape. The implication for viewers is that personal identity is increasingly vulnerable to AI exploitation, and current legal frameworks—largely based on outdated precedents—are currently insufficient to protect individuals from unauthorized digital impersonation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video is a personal account; claims regarding ElevenLabs' internal testing and legal status are presented as the creator's experience.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=lxDNHLgWInU" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,866 tokens • Output: 208 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>4 Home Assistant Integrations I Wish I'd Found Sooner</title>
+      <link>https://dataval.tplinkdns.com/tldr/tZuNrKEEcXQ</link>
+      <guid isPermaLink="false">yt-tldr-1792192067</guid>
+      <pubDate>Fri, 16 Oct 2026 23:07:47 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Four Home Assistant Integrations to Automate Home Maintenance&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video walks through four Home Assistant add‑ons—Mate, Intellip, Homekeeper, and Maintenance Supporter—that let you create recurring maintenance tasks, link them to devices, sync with calendars, and even trigger actions based on sensor data. After showing how to install each via HACS and configure basic schedules, the presenter explains how the more advanced tools can track warranties, consumables, and usage‑based upkeep, turning Home Assistant into a full‑featured home‑maintenance manager.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video offers a personal demo; all claims are verifiable within Home Assistant, no misinformation detected.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=tZuNrKEEcXQ" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,200 tokens • Output: 1,036 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This May Be The Most Important Video You'll Watch This Year.</title>
+      <link>https://dataval.tplinkdns.com/tldr/n5U8M2JtAHk</link>
+      <guid isPermaLink="false">yt-tldr-1792191459</guid>
+      <pubDate>Fri, 16 Oct 2026 22:57:39 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[SCIENCE] Bioelectricity May Control Body Development Beyond DNA&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video profiles Professor Michael Levin’s research suggesting bioelectric signals, not just DNA, dictate how bodies form. By manipulating cell voltage, his team grew eyes on frog tails, created two-headed planarians, and induced limb regeneration in adult frogs using brief chemical treatments. This implies that reprogramming electrical states could eventually enable advanced regenerative medicine and cancer treatments, challenging the traditional view of genetics as the sole blueprint for life.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Accurate summary of published peer-reviewed research by Levin; no disinformation detected.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=n5U8M2JtAHk" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,777 tokens • Output: 189 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Something Weird Is Going On With Placebos</title>
+      <link>https://dataval.tplinkdns.com/tldr/s8wLP9vjaOg</link>
+      <guid isPermaLink="false">yt-tldr-1792190851</guid>
+      <pubDate>Fri, 16 Oct 2026 22:47:31 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · SCIENCE] Placebos Getting More Effective in America Due to Belief and Ritual&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video notes placebos are becoming clinically stronger, especially in the US, where longer clinical trials and pervasive pharmaceutical ads boost patient belief and ritual, narrowing the gap between sugar pills and real drugs for pain and depression. This implies that belief and care matter as much as chemistry in treatment outcomes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video claims US placebo efficacy rose due to longer trials, pharma ads; research supports trend, mechanisms still debated.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=s8wLP9vjaOg" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 10,640 tokens • Output: 4,287 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>F1 in Rwanda: Sportswashing Slop</title>
+      <link>https://dataval.tplinkdns.com/tldr/p0QxmrVTHuo</link>
+      <guid isPermaLink="false">yt-tldr-1792067180</guid>
+      <pubDate>Thu, 15 Oct 2026 12:26:20 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[WORLD] F1 Rwanda Deal Criticized as Sportswashing&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that Formula 1’s 2030 Rwanda Grand Prix is a "sportswashing" scheme benefiting dictator Paul Kagame and Qatar, not local citizens. It claims the race is funded by vague Qatari interests and taxpayer money from one of the world's poorest nations, ignoring basic needs like schools and hospitals. The creator suggests South Africa, which already has a renovated circuit, would have been a more logical and ethical choice for expanding F1 into Africa.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; F1 Rwanda is confirmed. Qatar’s airport stake is factual. "Sportswashing" is opinion, not verified fact.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=p0QxmrVTHuo" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,719 tokens • Output: 208 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Everyone is Bad at Languages Until They Learn THIS</title>
+      <link>https://dataval.tplinkdns.com/tldr/doBxlUxVZxY</link>
+      <guid isPermaLink="false">yt-tldr-1791965980</guid>
+      <pubDate>Wed, 14 Oct 2026 08:19:40 GMT</pubDate>
+      <description>&lt;div&gt;&lt;h2&gt;[ACTION · CULTURE] Mastering Languages Through Comprehensible Input&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that most language learners fail because they lack enough comprehensible input—language they can understand enough to follow the meaning. Drawing on Krashen’s theory, it shows that listening and reading at a pace you control, especially with graded readers or simple stories, lets you absorb vocabulary and grammar naturally. The key is to keep the input understandable, let new words surface, and avoid stopping to look up every word. The speaker offers a free guide and practical tips for applying this method.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Claims comprehensible input is key; no disinformation detected, but relies on Krashen’s theory, which is widely accepted.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=doBxlUxVZxY" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,288 tokens • Output: 911 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I don't trust F1 anymore.</title>
+      <link>https://dataval.tplinkdns.com/tldr/T_HOohEoiDw</link>
+      <guid isPermaLink="false">yt-tldr-1791964158</guid>
+      <pubDate>Wed, 14 Oct 2026 07:49:18 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] F1 2026 Engine Rules Spark Trust Crisis Over AI‑Driven Car Issues&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that the new 2026 F1 engine regulations, which rely heavily on AI‑controlled battery management and a standardized ECU, caused a 45‑minute start‑delay and ongoing performance glitches at the Malaysian Grand Prix. The presenter claims these technical glitches undermine competitive integrity, making qualifying and race results unreliable. He urges fans to question the fairness of the sport and calls for greater human control over power‑unit systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video alleges ECU AI faults caused race delays; no independent data or official statements are cited to confirm these claims.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_HOohEoiDw" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,111 tokens • Output: 1,168 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We Finally Know More About Humanity’s First Civilization</title>
+      <link>https://dataval.tplinkdns.com/tldr/_y9JuojAIg0</link>
+      <guid isPermaLink="false">yt-tldr-1791661427</guid>
+      <pubDate>Sat, 10 Oct 2026 19:43:47 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[HISTORY-MYSTERY] New Evidence Sheds Light on Humanity’s First Civilization&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that recent DNA, dating, and lidar studies show that the first truly connected human societies emerged around 12,000 years ago in southern Anatolia and Syria, marking the start of civilization. It highlights early settlements such as Karahan Tepe, the rise of agriculture, and the gradual spread of farming, trade, and writing. The implication is that our calendar should begin at this point, reframing human history as a continuous 12,000‑year era.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video claims early settlements mark civilization start; evidence supports but some interpretations remain speculative.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_y9JuojAIg0" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,080 tokens • Output: 1,000 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vsauce's Secret War on AI</title>
+      <link>https://dataval.tplinkdns.com/tldr/8lNK7gjUCEs</link>
+      <guid isPermaLink="false">yt-tldr-1791660820</guid>
+      <pubDate>Sat, 10 Oct 2026 19:33:40 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · AI] Vsauce’s battle against AI‑driven content farms&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that Vsauce’s success stems from curiosity‑focused, high‑effort videos that resist the rise of low‑effort, AI‑generated “content farms.” It warns creators not to chase the algorithm or profit alone, urging passion‑driven content and even small actions like buying human‑made apparel to support authentic creators. The implication: prioritize genuine curiosity and quality to keep YouTube meaningful.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Opinion‑heavy, no factual errors, but largely speculative and one‑sided.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=8lNK7gjUCEs" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,909 tokens • Output: 608 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Doctor Ranks Popular Supplements (Most Don´t Work!)</title>
+      <link>https://dataval.tplinkdns.com/tldr/XEnLAO9DIMw</link>
+      <guid isPermaLink="false">yt-tldr-1791574748</guid>
+      <pubDate>Fri, 09 Oct 2026 19:39:08 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · HEALTH] Doctor Ranks Popular Supplements (Most Don´t Work!)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video evaluates popular supplements, finding most lack evidence for claims like anti-aging or heart health. Creatine and protein powder are exceptions with strong evidence for muscle/strength. Fish oil may help if you lack dietary omega-3s. The doctor advises prioritizing diet over supplements and warns against unproven products like AG1 or K2 for heart health. Key takeaway: Bigger promises often mean weaker evidence.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Claims are based on clinical trials and expert analysis, though some supplements have mixed data. The doctor’s 30-year medical background supports credibility, but individual results may vary.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=XEnLAO9DIMw" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 12,048 tokens • Output: 547 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Орбітальні датацентри Маска | Альтман каже буде гірше | Новий запуск Doom</title>
+      <link>https://dataval.tplinkdns.com/tldr/Qwz3EEs3t-0</link>
+      <guid isPermaLink="false">yt-tldr-1791574129</guid>
+      <pubDate>Fri, 09 Oct 2026 19:28:49 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Орбітальні датацентри SpaceX та нові тренди у сфері штучного інтелекту&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Відео розповідає про плани SpaceX запустити орбітальні датацентри під назвою Starmind за допомогою ракет Starship, а також про попередження Сема Альтмана щодо неминучих проблем і втрати робіт через розвиток ШІ. Крім того, розглядаються закриття програму безпеки Google через AI-спам, маркування контенту від OpenAI в ЄС, успіх ШІ-агентів Meta та новий запуск культової гри Doom на старовинній консолі Vectrix. Це означає стрімку міграцію інфраструктури в космос та адаптацію суспільства до епохи автоматизації.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео базується на реальних новинах індустрії та анонсах компаній (SpaceX, OpenAI, Google); подано в розважально-аналітичному авторському стилі без маніпуляцій.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Qwz3EEs3t-0" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 9,133 tokens • Output: 284 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Теорії змов що виявились правдою</title>
+      <link>https://dataval.tplinkdns.com/tldr/eGEE1kEn3_k</link>
+      <guid isPermaLink="false">yt-tldr-1791573514</guid>
+      <pubDate>Fri, 09 Oct 2026 19:18:34 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[HISTORY-MYSTERY] Теорії змов, що виявилися реальною історією&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Відео аналізує історичні випадки, коли теорії про державне стеження та нелюдські експерименти виявилися правдою. Автор розглядає діяльність АНБ США, розсекречені звіти про незаконні операції спецслужб (як-от «Хаос» чи «PRISM»), а також жахливі біологічні випробування на власних громадянах (операція «Морський бриз» та інші). Основний висновок: уряди часто використовують секретність для приховування неетичних дій, що робить критичне мислення та незалежні журналістські розслідування необхідними для контролю влади.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео базується на підтверджених історичних фактах та розсекречених документах США. Інформація достовірна, хоча подача має виражений критичний тон щодо спецслужб.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=eGEE1kEn3_k" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 7,747 tokens • Output: 285 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why modern fitness culture misunderstands human bodies | Daniel Lieberman</title>
+      <link>https://dataval.tplinkdns.com/tldr/-8cPMuMm2BE</link>
+      <guid isPermaLink="false">yt-tldr-1791569893</guid>
+      <pubDate>Fri, 09 Oct 2026 18:18:13 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · HEALTH] Evolutionary perspective reframes exercise as voluntary, not instinctual&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video claims modern fitness culture misunderstands human biology by treating exercise as a moral obligation rather than a voluntary, modern necessity. Daniel Lieberman explains humans evolved to conserve energy, not to exercise for health. Ancestors were active only when necessary; they weren't "natural athletes." Myths about noble savages and perfect exercise types cause guilt. He suggests compassion for our instincts to avoid exertion and finding ways to make movement enjoyable or necessary (social, play) rather than relying on willpower alone. Implications: Stop feeling guilty; structure environment to make activity fun or essential.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video presents evolutionary anthropology perspective; cites CDC data; acknowledges commercial myths; no medical advice given. Balanced, evidence-based.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-8cPMuMm2BE" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,296 tokens • Output: 734 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Зустріч президента з НАБУ і САП / Гра Арахамії / Скільки коштував «дах» від ОГП – ТКАЧ</title>
+      <link>https://dataval.tplinkdns.com/tldr/qXXeVc8XZfk</link>
+      <guid isPermaLink="false">yt-tldr-1791424750</guid>
+      <pubDate>Thu, 08 Oct 2026 01:59:10 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[NEWS-UA] Відставка генпрокурора Кравченка після спецоперації НАБУ і САП&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Відео обговорює наслідки антикорупційної операції «Карфаген» НАБУ і САП, під час якої викрито масштабну схему кришування нелегальних кол-центрів посадовцями Офісу генпрокурора. Головний фігурант Сергій Кропива згадував довірену особу — генпрокурора Руслана Кравченка. Попри спроби депутата Давида Арахамії врятувати Кравченка від звільнення, той зрештою подав у відставку після зустрічі президента з антикорупційними органами. Це оголює глибоку кризу силової вертикалі.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео містить оцінні судження та посилання на джерела «Української правди» без остаточних судових вироків щодо особисто Кравченка.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=qXXeVc8XZfk" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 10,946 tokens • Output: 288 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Doubled My Dopamine Everyday For 7 Days</title>
+      <link>https://dataval.tplinkdns.com/tldr/JgHkKNHv6tE</link>
+      <guid isPermaLink="false">yt-tldr-1791424143</guid>
+      <pubDate>Thu, 08 Oct 2026 01:49:03 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · HEALTH] The Dangers of Chasing Constant Dopamine Stimulation&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video documents a seven-day experiment where the creator progressively increases daily dopamine-heavy activities, including doom-scrolling, gambling, impulse shopping, and binge-eating. The experiment demonstrates that constant, high-intensity stimulation leads to a "contrast effect," where ordinary life becomes unfulfilling and motivation plummets. The creator concludes that chasing instant gratification creates a cycle of overstimulation and emotional numbness, ultimately suggesting that lasting fulfillment comes from slow-burn, meaningful pursuits rather than the constant pursuit of high-intensity rewards. The implication is that reducing digital and sensory overload can help restore one's baseline capacity for enjoyment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video is a subjective, anecdotal self-experiment. While the "dopamine detox" concept is popular, the creator’s claims about "dopamine bankruptcy" are simplified metaphors rather than clinical medical findings.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=JgHkKNHv6tE" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 10,547 tokens • Output: 254 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How can we beat the heat without AC?</title>
+      <link>https://dataval.tplinkdns.com/tldr/uP8q5EdqX1U</link>
+      <guid isPermaLink="false">yt-tldr-1791423537</guid>
+      <pubDate>Thu, 08 Oct 2026 01:38:57 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · SCIENCE] How to keep buildings cool without relying on air conditioning&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explores how to combat extreme indoor heat in regions like Europe, where buildings were historically designed for cold climates. It argues that relying solely on air conditioning is unsustainable due to energy consumption and the "vicious cycle" of heating the outdoors. Instead, the video advocates for "passive cooling" techniques: installing external shading (shutters/awnings), adding green roofs or facades, and improving building insulation through prefabricated modules. These methods can significantly lower indoor temperatures, reduce energy demand, and create more resilient urban environments as global temperatures continue to rise.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video provides a balanced, evidence-based overview of architectural climate adaptation. Claims are supported by architectural experts and current urban planning initiatives.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=uP8q5EdqX1U" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,621 tokens • Output: 221 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hallway Hypothesis (Full Episode) | The Stanford Prison Experiment: Unlocking the Truth | Nat Geo</title>
+      <link>https://dataval.tplinkdns.com/tldr/ibmVwf-SARM</link>
+      <guid isPermaLink="false">yt-tldr-1791422931</guid>
+      <pubDate>Thu, 08 Oct 2026 01:28:51 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[HISTORY-MYSTERY] What Really Happened in the Stanford Prison Experiment?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; This video revisits the 1971 Stanford Prison Experiment, where college students were assigned as guards and prisoners in a mock prison. It presents Zimbardo's original narrative — that situational power corrupts ordinary people — alongside later critiques. Historian Thibault Le Texier found discrepancies between the official story and archival evidence, suggesting participants weren't truly trapped and the experimenter influenced outcomes. Former participants also question Zimbardo's control of the narrative and the experiment's ethical legacy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Conflicting accounts: Zimbardo's narrative vs. archival evidence and participant testimonies. Methodology and conclusions challenged by later researchers. No independent verification provided.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ibmVwf-SARM" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 9,377 tokens • Output: 948 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>❗️ПІДОЗРА Генпрокурору. Таємна угода з АРАХАМІЄЮ. НОВА АТАКА на НАБУ і САП! | Є ПИТАННЯ</title>
+      <link>https://dataval.tplinkdns.com/tldr/0uK41N00Paw</link>
+      <guid isPermaLink="false">yt-tldr-1791422310</guid>
+      <pubDate>Thu, 08 Oct 2026 01:18:30 GMT</pubDate>
+      <description>&lt;div&gt;
+  &lt;h2&gt;[NEWS-UA] Відставка генпрокурора та корупційний скандал із «кол-центрами»&lt;/h2&gt;
+  &lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; У відео обговорюють відставку генерального прокурора на тлі скандалу з «кришуванням» шахрайських кол-центрів. Зазначається, що Давид Арахамія намагався захистити посадовця через політичні домовленості. НАБУ та САП викрили масштабну схему, де прокурори щомісяця отримували сотні тисяч доларів хабарів. Для громадян це означає, що антикорупційні органи залишаються єдиним дієвим інструментом контролю влади, попри спроби тиску.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео спирається на розслідування та заяви ЦПК. Проте авторка помилково називає Руслана Кравченка генпрокурором замість Андрія Костіна.&lt;/p&gt;
+  &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=0uK41N00Paw" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 10,136 tokens • Output: 276 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Booking.com Fails Tourists Right Now</title>
+      <link>https://dataval.tplinkdns.com/tldr/4t6-oXLYfbY</link>
+      <guid isPermaLink="false">yt-tldr-1791421694</guid>
+      <pubDate>Thu, 08 Oct 2026 01:08:14 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · MONEY] Booking.com scam leaves tourists stranded and refunds short&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video claims that during a film festival in Karlovy Vary, a Booking.com listing for “Excellent Apartments” was a scam: the host posted a door note saying they couldn’t accommodate guests, Booking delayed response, eventually cancelled the reservation but kept the 5‑euro insurance fee, and refunded only 115 € of the 190 € paid. The listing stayed online despite dozens of scam reports. The video advises never cancelling on your side and contacting Booking immediately if you’re stranded.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video claims Booking kept insurance and delayed action; this has not been independently verified.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=4t6-oXLYfbY" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,204 tokens • Output: 557 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>КУЛЬОВА БЛИСКАВКА ІСНУЄ? | ЗАКОН ОМА</title>
+      <link>https://dataval.tplinkdns.com/tldr/PnSqzLW6we0</link>
+      <guid isPermaLink="false">yt-tldr-1791421066</guid>
+      <pubDate>Thu, 08 Oct 2026 00:57:46 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[SCIENCE] Закон Ома: як знання фізики може рятувати життя&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Відео пояснює закон Ома (струм, напруга, опір) за допомогою метро та прикладу падіння високовольтного дроту: стрибки на одній нозі або мікрокроки знижують різницю потенціалів між ногами, уникаючи протікання струму крізь тіло. Також розглядається кульова блискавка — реальне явище, зафіксоване вченими у 2012 році, та теорія запиленого пилу. Відео закінчується поясненням природи світла та кольорів.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео поєднує наукові факти (закон Ома, спектроскопія) з роз’ясненнями. Деякі твердження (наприклад, про кульову блискавку) підкріплені дослідженнями, інші — теоретичні.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=PnSqzLW6we0" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 9,107 tokens • Output: 434 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>МАТРИЦЯ: НАБАГАТО СТРАШНІША, НІЖ ТИ ПАМ’ЯТАЄШ</title>
+      <link>https://dataval.tplinkdns.com/tldr/J3xiFY5TfFw</link>
+      <guid isPermaLink="false">yt-tldr-1791420448</guid>
+      <pubDate>Thu, 08 Oct 2026 00:47:28 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[CULTURE] Матриця: система свободи або її імітація&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Відео розглядає «Матрицю» не як просту війну людства проти машин, а як складну систему, де машини намагаються зрозуміти людину через вибір, а не просто контролювати. Архітектор створює світи, а Оракул додає вибір, що робить систему стабільнішою. У новій версії машини використовують почуття, особливо любов, як джерело енергії та контролю. Це підкидає філософське питання: чи може свобода існувати всередині штучної реальності?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео подає інтерпретацію фільмів, а не документальні факти. Деякі твердження є спекулятивними, проте добре обґрунтовані.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=J3xiFY5TfFw" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 18,670 tokens • Output: 411 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Do So Many Myths Say “DON’T LOOK BACK”?</title>
+      <link>https://dataval.tplinkdns.com/tldr/ug4NZNWS7yk</link>
+      <guid isPermaLink="false">yt-tldr-1791419828</guid>
+      <pubDate>Thu, 08 Oct 2026 00:37:08 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · HISTORY-MYSTERY] Why many myths warn “Don’t look back” – a cross‑cultural taboo&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video shows that myths from Greece, the Bible, Korea, Africa and Inuit cultures all share a “don’t look back” command that protagonists inevitably break. Folklorist Stith Thompson classifies this as motif C331 – the looking‑back taboo. The repeated failure occurs at a liminal boundary between an old world and a new one, symbolising the danger of lingering on the past. The implied lesson: keep moving forward and avoid dwelling on what’s behind you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Folklore examples are accurate; the psychological reading is interpretive, not disinformation.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ug4NZNWS7yk" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 7,413 tokens • Output: 483 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>НОВИНИ Al: OpenAl vs Anthropic - хто зробив цей тиждень?</title>
+      <link>https://dataval.tplinkdns.com/tldr/mpEzCmWy7Oc</link>
+      <guid isPermaLink="false">yt-tldr-1791419220</guid>
+      <pubDate>Thu, 08 Oct 2026 00:27:00 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · AI] OpenAI та Anthropic: нові моделі та benchmark порівняння&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Відео розглядає тижневі анонси нових моделей: OpenAI представила GBT6 Astra, яка показує високі результати у довготривалих завданнях та нижчу вартість за одиницю роботи; Anthropic оновила Claude Fable 5.1 з здешевленням через кешування; Google випустила Gemini Flash 3.8. Обговорюються benchmarkи, можливості автономної роботи в додатках, а також питання кібербезпеки та монетизації реклами. Надаються поради як ефективно використовувати моделі через приклади та зворотній зв’язок.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео подає заявки про переваги моделей без зовнішньої верифікації; частина інформації є просуванням продуктів.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=mpEzCmWy7Oc" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 12,171 tokens • Output: 1,505 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>No, Argentina’s Economy is Not Booming</title>
+      <link>https://dataval.tplinkdns.com/tldr/2efopIZR_xY</link>
+      <guid isPermaLink="false">yt-tldr-1791418601</guid>
+      <pubDate>Thu, 08 Oct 2026 00:16:41 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[WORLD] Argentina's Economic Boom Fails to Materialize&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that President Milei’s economic recovery is stalling. While he successfully stabilized inflation and deficits in the first phase, the promised private-sector boom has not arrived. GDP growth is slowing, unemployment is rising, and inflation remains dangerously high due to entrenched expectations. The analysis suggests that fixing Argentina’s deep structural issues requires a longer, more political process than a single term allows, implying that Milei’s initial success was overstated and current challenges are severe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video presents a balanced economic analysis, acknowledging Milei's initial successes while highlighting current data showing slowing growth and persistent inflation.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=2efopIZR_xY" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,374 tokens • Output: 205 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Germany's Worst Leader - Angela Merkel</title>
+      <link>https://dataval.tplinkdns.com/tldr/vwgUxO0_FYw</link>
+      <guid isPermaLink="false">yt-tldr-1791417994</guid>
+      <pubDate>Thu, 08 Oct 2026 00:06:34 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[WORLD] Merkel's caution: stability or deferred crises?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video claims Angela Merkel prioritized stability over reform, arguing her "if it ain't broke, don't fix it" approach led to long-term problems: energy dependency on Russia, outdated digital infrastructure, housing shortages, and polarized politics. It implies her legacy is postponed crises rather than solutions, leaving Germany with crumbling infrastructure and unresolved structural issues.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; One-sided editorializing; mixes sponsored stock promotion with critique. Video claims Merkel caused crises, but she inherited policies and global constraints.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=vwgUxO0_FYw" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,254 tokens • Output: 3,796 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why we're so sure our phones are listening</title>
+      <link>https://dataval.tplinkdns.com/tldr/U0-8SrbG0xA</link>
+      <guid isPermaLink="false">yt-tldr-1791417366</guid>
+      <pubDate>Wed, 07 Oct 2026 23:56:06 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Why targeted ads feel like eavesdropping&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that phones likely do not record conversations to serve ads, as suggested by a 2018 study and technical constraints. Instead, "creepy" ads result from real-time bidding, where companies auction access to your browsing history, location, and inferred interests. This system creates detailed profiles that can be sold to data brokers or even government agencies, posing significant privacy risks beyond just unwanted advertisements.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Claims align with cited 2018 study and expert interviews; no evidence of active microphone eavesdropping found.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=U0-8SrbG0xA" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,053 tokens • Output: 197 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI став іншим! Це вже далеко не чат-бот та пошук в інтернеті</title>
+      <link>https://dataval.tplinkdns.com/tldr/zke9f2Wa250</link>
+      <guid isPermaLink="false">yt-tldr-1791416761</guid>
+      <pubDate>Wed, 07 Oct 2026 23:46:01 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · AI] AI перетворюється на автономних агентів: новий рівень продуктивності&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; У відео йдеться про революційний крок у штучному інтелекті: від чат‑ботів до «persistent» агентів, що працюють 24/7, планують, оркеструють задачі і приймають рішення без постійного людського втручання. Автор підкреслює, що це вже не просто пошук чи генерація тексту, а повноцінна автономна система, яку можна інтегрувати у власні робочі процеси. Для користувачів це означає зміну парадигми: треба експериментувати, створювати власну агентську екосистему і не зупинятись на останніх моделях, а розвивати довгострокові процеси.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео стверджує про вже існуючі persistent агенти і AGI 2026; це спекуляція, підтверджена лише оголошеннями компаній.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zke9f2Wa250" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 7,033 tokens • Output: 582 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why aren't characters iconic anymore?</title>
+      <link>https://dataval.tplinkdns.com/tldr/FlmhIyff0Kc</link>
+      <guid isPermaLink="false">yt-tldr-1791415414</guid>
+      <pubDate>Wed, 07 Oct 2026 23:23:34 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[CULTURE] Media fragmentation and influencers replace traditional movie icons&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that modern films fail to produce iconic characters because media consumption has fragmented. Unlike the shared cultural moments of the 2000s, today’s audiences inhabit algorithmic bubbles, causing movies to fade quickly. Consequently, the "iconic" status has shifted from fictional characters to real-world influencers and YouTubers who dominate attention through constant, optimized content rather than narrative depth or design.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Opinion-based cultural analysis. Uses anecdotal evidence and subjective metrics like Google Trends and Fortnite skins to support claims.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FlmhIyff0Kc" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 6,079 tokens • Output: 192 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Actual Difference Between Cheap and Expensive Olive Oil</title>
+      <link>https://dataval.tplinkdns.com/tldr/DkhHahSNLVI</link>
+      <guid isPermaLink="false">yt-tldr-1791414809</guid>
+      <pubDate>Wed, 07 Oct 2026 23:13:29 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · FOOD] What Drives Olive Oil Price Differences&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video claims price differences stem from grove type, sourcing, and harvest timing rather than quality alone. High-density groves yield more cheaply; traditional low-density groves cost 3–10× more but produce nearly identical oil. Early harvest boosts polyphenols and flavor but requires 2–3× more olives. Brands like Pompeian blend refined oils; Cobram vertically integrates; Graza sells single-origin premium oil. The video offers a free pricing-tactics database for entrepreneurs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video relies on brand self-reporting; taste differences are subjective, and lampante oil is indeed unfit before refining.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=DkhHahSNLVI" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,795 tokens • Output: 2,717 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recent discoveries rewrite human history as we know | BBC Timestamp</title>
+      <link>https://dataval.tplinkdns.com/tldr/HZu0l7rHt10</link>
+      <guid isPermaLink="false">yt-tldr-1791414188</guid>
+      <pubDate>Wed, 07 Oct 2026 23:03:08 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[HISTORY-MYSTERY] New Finds Reveal Six Human Species Coexisted Until 50,000 Years Ago&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video presents recent archaeological and genetic discoveries—such as the 300,000‑year‑old Jebel Irhoud skull, Homo floresiensis “hobbits,” Neanderthal DNA in modern humans, and ancient tools—that together rewrite human history. These findings show multiple human species lived alongside Homo sapiens, interbred, and that our origins are far older and more complex than once believed, emphasizing our shared genetic legacy and the fragility of our species’ past.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video claims six human species coexisted; evidence includes fossils, DNA, and artifacts, though exact numbers and timelines remain debated by scientists.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HZu0l7rHt10" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 7,603 tokens • Output: 729 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Як Нацбанк тримає ціни, курс і кредитування, поки ворог щоночі б'є по економіці - розмова з Пишним</title>
+      <link>https://dataval.tplinkdns.com/tldr/292-j_uf6Dw</link>
+      <guid isPermaLink="false">yt-tldr-1791413574</guid>
+      <pubDate>Wed, 07 Oct 2026 22:52:54 GMT</pubDate>
+      <description>&lt;div&gt;
+  &lt;h2&gt;[MONEY] Як Національний банк України забезпечує фінансову стабільність під час війни&lt;/h2&gt;
+  &lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Голова НБУ Андрій Пишний розповідає, як регулятор підтримує стабільність гривні та фінансової системи в умовах війни. Перехід до керованої гнучкості курсу допоміг уникнути множинності курсів, а валютна лібералізація полегшує життя бізнесу та громадянам. Банківська система залишається прибутковою та активно кредитує ОПК та енергетику. Для читача це означає прогнозованість заощаджень у гривні, збереження купівельної спроможності та поступове розширення можливостей для інвестування, зокрема через збільшення лімітів на купівлю валюти.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео представляє офіційну позицію НБУ без критичної альтернативної думки, проте наведені макроекономічні дані є верифікованими та точними.&lt;/p&gt;
+  &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=292-j_uf6Dw" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 25,734 tokens • Output: 289 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>В глибинах українського інтернету</title>
+      <link>https://dataval.tplinkdns.com/tldr/i69-UFezXJc</link>
+      <guid isPermaLink="false">yt-tldr-1791412961</guid>
+      <pubDate>Wed, 07 Oct 2026 22:42:41 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[CULTURE] Розслідування загадкового українського веб-ресурсу&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Відео розповідає про розслідування дивного українського веб-сайту «Web Translation Utility», який вперше з’явився на форумах у 2008 році. Автор намагається розгадати призначення ресурсу, що містить примітивний чат-бот, неробочий перекладач та абсурдні кулінарні рецепти. Історія перетворюється на детектив із пошуком розробників та спробами зламати доступ до прихованого архіву. Відео демонструє, як інтернет-легенди та «шизофренічні» теорії змови формують специфічну культуру раннього українського вебу, спонукаючи глядача до критичного мислення та обережності під час пошуку інформації в мережі.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео є розважальним контентом у жанрі інтернет-археології. Це суб'єктивне розслідування, а не документальна хроніка; факти про «секретні сайти» мають ознаки містифікації.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=i69-UFezXJc" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 7,474 tokens • Output: 317 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Посада ВІЛЬНА! Влада хоче ЗУПИНИТИ САП. Проста СХЕМА, яку можна ЗЛАМАТИ. Ось як все ПРАЦЮЄ</title>
+      <link>https://dataval.tplinkdns.com/tldr/eBa7oJpkCns</link>
+      <guid isPermaLink="false">yt-tldr-1791412350</guid>
+      <pubDate>Wed, 07 Oct 2026 22:32:30 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · NEWS-UA] Конкурс на посаду заступника керівника САП: чому це важливо&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Відео пояснює, що конкурс на посаду заступника керівника САП є критично важливим, оскільки ця особа може очолити відомство після завершення повноважень чинного керівника. Автор Ярослав Железняк стверджує, що Офіс Президента намагається вплинути на склад комісії, щоб поставити лояльну людину. Це загрожує незалежності антикорупційних органів та фінансуванню від ЄС і МВФ. Глядачам пропонується: 1) кваліфікованим юристам подаватися на конкурс; 2) поширювати інформацію про порушення; 3) стежити за кандидатами, щоб не допустити призначення «людей Банкової».&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео є суб'єктивним аналізом політика. Твердження про «схеми Офісу Президента» базуються на оціночних судженнях автора та даних ЦПК, а не на вироках суду.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=eBa7oJpkCns" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,079 tokens • Output: 312 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit’s Darkest Drug Subreddit</title>
+      <link>https://dataval.tplinkdns.com/tldr/DTeT5w-k0V4</link>
+      <guid isPermaLink="false">yt-tldr-1791411743</guid>
+      <pubDate>Wed, 07 Oct 2026 22:22:23 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · HEALTH] The Severe Dangers of Recreational DPH Abuse&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explores r/DPH, a Reddit community focused on abusing diphenhydramine (Benadryl) for hallucinations. It details horrific trip reports, severe physical and mental health toll, addiction, and tragic outcomes like fatal overdoses. The takeaway: over-the-counter allergy meds can cause extreme delirium, permanent organ damage, and death.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Claim: DPH abuse causes terrifying hallucinations, addiction, and permanent damage. Fact: Well-documented medical reality; high-dose antihistamines cause toxic psychosis and delirium.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=DTeT5w-k0V4" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 7,598 tokens • Output: 188 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>China's $3 Glasses Are Destroying a $165 Billion Monopoly — Here's How</title>
+      <link>https://dataval.tplinkdns.com/tldr/xC68t6CeJCk</link>
+      <guid isPermaLink="false">yt-tldr-1791410395</guid>
+      <pubDate>Wed, 07 Oct 2026 21:59:55 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · MONEY] How Chinese Manufacturing Challenges a Global Eyewear Monopoly&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video claims EssilorLuxottica controls 80% of the eyewear industry through vertical integration (brands, retail, insurance), enabling $200+ prices for $5 products. It argues China’s Danyang produces 50% of global lenses at lower costs, enabling brands like Zenni ($6 glasses) to undercut monopolies. Consumers can save by buying online, bypassing retail markups.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video cites specific acquisitions and market data but omits counterarguments. Claims about shared manufacturing are plausible but unverified. One-sided narrative.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=xC68t6CeJCk" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,040 tokens • Output: 632 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Мільйони на обмані: як влаштовані і на чому заробляють "офіси"? | УП. Голос автора</title>
+      <link>https://dataval.tplinkdns.com/tldr/J9-Rqvy5Jsw</link>
+      <guid isPermaLink="false">yt-tldr-1791409766</guid>
+      <pubDate>Wed, 07 Oct 2026 21:49:26 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[NEWS-UA] Тіньова індустрія шахрайських кол-центрів та корупційне прикриття&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Відео розкриває механізм дії українських шахрайських «офісів», які обманом виводять кошти з ЄС. За даними УП, мережа налічує тисячі центрів, а працівники заробляють до $10 000 на місяць. Ключова проблема — системна корупція: слідство встановило, що чиновники отримували гроші за приховування злочинів. Це демонструє, як тіньовий бізнес руйнує довіру до державних інституцій та поглиблює міжнародну ізоляцію України через тиск західних партнерів.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Факти підтверджуються цитатами експертів та даними слідства. Наявність анонімних джерел обмежує повну верифікацію внутрішніх деталей.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=J9-Rqvy5Jsw" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,886 tokens • Output: 312 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>When Was The Clitoris DISCOVERED?</title>
+      <link>https://dataval.tplinkdns.com/tldr/a3UsFQuHP0M</link>
+      <guid isPermaLink="false">yt-tldr-1791409161</guid>
+      <pubDate>Wed, 07 Oct 2026 21:39:21 GMT</pubDate>
+      <description>&lt;div&gt;
+  &lt;h2&gt;[HISTORY-MYSTERY] The Erasure and Rediscovery of the Clitoris in Medical History&lt;/h2&gt;
+  &lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video claims that despite being documented in 400 BCE, the clitoris was repeatedly erased from medical textbooks due to male-centric biases, notably by Galen and Vesalius. It was only fully mapped via MRI in 2005 and properly labeled in &lt;em&gt;Gray's Anatomy&lt;/em&gt; in 2008. The video implies that historical neglect of female anatomy has led to systemic medical ignorance and unnecessary surgeries. Understanding this history highlights the ongoing need for accurate, unbiased medical education regarding female pleasure and health.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video accurately reflects historical medical texts, though its evolutionary theory on female pleasure is speculative rather than scientific consensus.&lt;/p&gt;
+  &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=a3UsFQuHP0M" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,788 tokens • Output: 223 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>so THAT's why everyone hates VR</title>
+      <link>https://dataval.tplinkdns.com/tldr/2VYcFNElNtc</link>
+      <guid isPermaLink="false">yt-tldr-1791408547</guid>
+      <pubDate>Wed, 07 Oct 2026 21:29:07 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] VR discomfort stems from vergence‑accommodation mismatch and screen flicker&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that VR nausea and eye strain arise from a vergence‑accommodation mismatch, OLED screen PWM flicker, and noise‑canceling headphones creating false silence. It says tech must improve, while users can build tolerance but fundamental limits remain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Claims align with established research on VR vergence‑accommodation conflict and OLED PWM flicker; no evident misinformation.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=2VYcFNElNtc" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,117 tokens • Output: 1,496 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>it's down -99%</title>
+      <link>https://dataval.tplinkdns.com/tldr/u7AesFaTEVk</link>
+      <guid isPermaLink="false">yt-tldr-1791407904</guid>
+      <pubDate>Wed, 07 Oct 2026 21:18:24 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[MONEY] Hunter Biden's Meme Coin Plunges 99% Amid Scam Fears&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video claims Hunter Biden launched a meme coin that immediately crashed 99%, calling it a scam and warning viewers about broader risks in meme coins. It cites a Wall Street Journal reporter suggesting the coin was intended to troll Trump supporters. The video implies most investors lost money while insiders benefited. It advises viewers to avoid such speculative investments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video presents claims from a WSJ reporter and on-chain data, but lacks independent verification. Tone is highly opinionated and sensationalist.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=u7AesFaTEVk" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,710 tokens • Output: 192 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Plugged a $20 ESP32 Into Claude Code: No Manuals</title>
+      <link>https://dataval.tplinkdns.com/tldr/Zvb01TRY6UY</link>
+      <guid isPermaLink="false">yt-tldr-1791407284</guid>
+      <pubDate>Wed, 07 Oct 2026 21:08:04 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Using Claude Code to Program ESP32 Boards Without Manuals&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video shows how plugging inexpensive ESP32 development boards into Claude Code via USB‑C lets the AI read board details, generate and flash custom firmware—such as a live sea‑condition display, a Bluetooth audio spectrum analyzer, and an e‑paper voice recorder—without consulting manuals, enabling rapid IoT prototyping for hobbyists.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Claude Code helps generate and flash code, but the video exaggerates full autonomy; some manual work is still needed.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Zvb01TRY6UY" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 6,159 tokens • Output: 1,623 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The George Russell Situation Is INSANE</title>
+      <link>https://dataval.tplinkdns.com/tldr/bX-8h1wt8Yw</link>
+      <guid isPermaLink="false">yt-tldr-1791406660</guid>
+      <pubDate>Wed, 07 Oct 2026 20:57:40 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[CULTURE] George Russell’s precarious future at Mercedes&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that George Russell is falling behind his younger teammate Kimmy Antonelli at Mercedes, citing recent qualifying and race results, a widening points gap, and inconsistent performance. It suggests Russell’s seat may be at risk unless he improves qualifying consistency, while the team may start favoring Antonelli. For viewers, it signals that the driver hierarchy at Mercedes could shift this season.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video mixes opinion with selective stats; claims about team priority lack official confirmation.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=bX-8h1wt8Yw" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,492 tokens • Output: 677 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pascal's Critique of Reason: Why You Can't Prove Everything</title>
+      <link>https://dataval.tplinkdns.com/tldr/VQOPsdWhzOw</link>
+      <guid isPermaLink="false">yt-tldr-1791406053</guid>
+      <pubDate>Wed, 07 Oct 2026 20:47:33 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · CULTURE] Pascal’s Limits on Human Reason&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Pascal argues that human reason is not autonomous because it’s shaped by desires, health, and imagination; it’s fallible, as people reach conflicting conclusions; and it’s unjustifiably privileged over other knowledge sources. He urges humility, suggesting we rely on something beyond reason—like faith or prayer—to find truth.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video accurately summarizes Pascal’s arguments from Pensées; no evident bias or misinformation.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=VQOPsdWhzOw" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,830 tokens • Output: 1,135 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Controversy Behind AI Solving A Million Dollar Math Problem</title>
+      <link>https://dataval.tplinkdns.com/tldr/cvTHBXyXM2I</link>
+      <guid isPermaLink="false">yt-tldr-1791405425</guid>
+      <pubDate>Wed, 07 Oct 2026 20:37:05 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[AI] OpenAI claims AI solved Navier‑Stokes Millennium problem amid credit dispute&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explains that OpenAI announced an AI‑generated analytical proof and Lean formalization that a smooth, forced fluid can develop a singularity, which they say resolves the Navier‑Stokes Millennium Prize problem. It also details a heated controversy over who deserves credit, accusations that OpenAI may have used competitor‑derived data, and the lack of independent verification. If the proof stands, it would be a historic AI breakthrough; the dispute highlights ethical and scientific scrutiny needed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; OpenAI’s claim is unverified by the mathematics community; controversy centers on data use and authorship.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=cvTHBXyXM2I" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,927 tokens • Output: 433 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Brilliant Scam of Apple Devices</title>
+      <link>https://dataval.tplinkdns.com/tldr/w3EHfpkmnpA</link>
+      <guid isPermaLink="false">yt-tldr-1791404816</guid>
+      <pubDate>Wed, 07 Oct 2026 20:26:56 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] The Brilliant Scam of Apple Devices&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that Apple has artificially segmented its hardware—iPhone, iPad, Mac, and Vision Pro—into distinct categories to force consumers to buy multiple devices. While Apple Silicon (M-series chips) has made these devices technically capable of performing the same tasks, Apple uses software limitations to prevent "convergence." The goal is to keep users locked into a high-friction ecosystem of services and recurring subscriptions. The implication for the reader is to stop buying devices based on Apple's marketing categories and instead audit your own tech to eliminate redundant hardware that adds unnecessary friction.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video presents a subjective analysis of Apple's business strategy. It is opinion-based, not disinformation, though it reflects a specific "power user" perspective.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=w3EHfpkmnpA" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 6,482 tokens • Output: 224 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
