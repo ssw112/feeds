@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-10-20T10:55:14Z</updated>
+  <updated>2026-10-20T11:27:47Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles</title>
+    <id>urn:newsdigest:b0727756cdabfe85810beb85c3b06433f6acd144</id>
+    <link href="https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles" rel="alternate" />
+    <published>2026-10-20T11:27:47Z</published>
+    <updated>2026-10-20T11:27:47Z</updated>
+    <content type="html">&lt;p&gt;Aung San Suu Kyi, the detained former leader of Myanmar, was photographed receiving a package delivered by King Charles III in Myanmar. The military‑backed government said the package contained two books and diplomatic correspondence, while other reports described it as a gift.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles"&gt;Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss"&gt;Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>Macron kicks off three-day Gulf tour, seeks securing fuel supplies amid crisis</title>
     <id>urn:newsdigest:24071202d1cf0d3cc44970dddfd37447882fd7cb</id>
