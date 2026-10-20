@@ -6,6 +6,18 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Why Every Website Looks Like This</title>
+      <link>https://dataval.tplinkdns.com/tldr/nDI43WVDxHo</link>
+      <guid isPermaLink="false">yt-tldr-1792528224</guid>
+      <pubDate>Tue, 20 Oct 2026 20:30:24 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Why Every Modern Website Looks Identical&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explains that AI-generated and modern websites look the same—featuring purple gradients, specific fonts, and predictable layouts—not because of AI, but due to decades of human design evolution. As mobile devices, responsive design, and reusable component libraries (like Bootstrap and Tailwind) emerged, developers gravitated toward standardized "safe" choices. This copying behavior, known in sociology as memetic isomorphism, is now supercharged by AI, resulting in ubiquitous uniform web design.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Accurate analysis; traces web design history from the 2007 iPhone to modern CSS frameworks without relying on clickbait or disinformation.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=nDI43WVDxHo" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,894 tokens • Output: 198 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Decomps on Mac are getting INSANE (even on M1)</title>
       <link>https://dataval.tplinkdns.com/tldr/aF0Gr98s_HM</link>
       <guid isPermaLink="false">yt-tldr-1792412458</guid>
