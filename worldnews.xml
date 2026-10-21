@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-10-21T19:11:54Z</updated>
+  <updated>2026-10-21T19:47:53Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Greece: Protesters demand increased funding for public education</title>
+    <id>urn:newsdigest:f9086d05771e325568a822a09cf82bd4a9685d76</id>
+    <link href="https://www.france24.com/en/greece-protesters-demand-increased-funding-for-public-education" rel="alternate" />
+    <published>2026-10-21T19:47:53Z</published>
+    <updated>2026-10-21T19:47:53Z</updated>
+    <content type="html">&lt;p&gt;Protesters in Greece demanded increased funding for public education. Students, teachers, and civil servants participated in the demonstration. The protest took place across Greece.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/greece-protesters-demand-increased-funding-for-public-education"&gt;Greece: Protesters demand increased funding for public education&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/10/21/thousands-march-for-school-funding-in-greece?traffic_source=rss"&gt;Thousands march for school funding in Greece&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>Israeli military detains US politician Brad Lander and rabbis at olive harvest</title>
     <id>urn:newsdigest:6497e11b3cb8f6a5b3e9e06e5e8fec6e40656744</id>
