@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-10-21T06:23:44Z</updated>
+  <updated>2026-10-21T06:41:00Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Gaza children face worsening food shortages as prices rise and aid is cut</title>
+    <id>urn:newsdigest:d03bacb078e63c4a4ef407f89c9377370ac2faa4</id>
+    <link href="https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss" rel="alternate" />
+    <published>2026-10-21T06:41:00Z</published>
+    <updated>2026-10-21T06:41:00Z</updated>
+    <content type="html">&lt;p&gt;Aid shipments to Gaza have reportedly resumed after Hamas withdrew extortion threats against private merchants. However, other reports say aid has been cut, leaving families struggling with food shortages.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss"&gt;Gaza children face worsening food shortages as prices rise and aid is cut&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.jpost.com/middle-east/article-912273"&gt;Gaza aid shipments resume as Hamas backs down from extortion threats targeting private merchants&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xao93q/"&gt;9 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xao93q"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Trump: ‘Paris is going to be a Muslim city very soon’</title>
     <id>urn:newsdigest:b865dae7db0832afda13884ec0a6358cd673680f</id>
