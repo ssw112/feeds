@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-10-21T20:42:28Z</updated>
+  <updated>2026-10-21T21:01:27Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Indian court orders release of two leaders of Cockroach movement</title>
+    <id>urn:newsdigest:9dbafccc19837317fa22ad2a05668fa57546af66</id>
+    <link href="https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown" rel="alternate" />
+    <published>2026-10-21T21:01:27Z</published>
+    <updated>2026-10-21T21:01:27Z</updated>
+    <content type="html">&lt;p&gt;An Indian court has ordered the release of Saurav Das and Ashutosh Ranka, two leaders of the Cockroach movement, following a week in jail. The pair were detained in Delhi after defying restrictions on protests amid a government crackdown.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown"&gt;Indian court orders release of two leaders of Cockroach movement&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss"&gt;India’s ‘Cockroach’ leaders free after a week in jail&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>Booking.com under investigation by EU regulators over fake listings and scams</title>
     <id>urn:newsdigest:1112017233142b7abe49b4965d0223d231cb6a7a</id>
