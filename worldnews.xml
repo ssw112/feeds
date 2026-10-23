@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-10-23T10:48:45Z</updated>
+  <updated>2026-10-23T11:06:34Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Taiwan shuts down schools and businesses as Typhoon Champi approaches</title>
+    <id>urn:newsdigest:54bbc7fd7cecfc1ec3cf726a3ceec852b3eb2fbb</id>
+    <link href="https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches" rel="alternate" />
+    <published>2026-10-23T11:06:34Z</published>
+    <updated>2026-10-23T11:06:34Z</updated>
+    <content type="html">&lt;p&gt;Typhoon Champi is approaching Taiwan, resulting in the closure of schools and businesses across the island. Flight cancellations have been reported, with figures ranging from hundreds to nearly 1,000, and the typhoon has disrupted US-Japan military drills.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches"&gt;Taiwan shuts down schools and businesses as Typhoon Champi approaches&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.reuters.com/business/environment/taiwan-issues-land-warning-ahead-arrival-powerful-typhoon-champi-2026-10-22/"&gt;Typhoon Champi nears Taiwan, causing flight cancellations and disrupting US-Japan drills&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.reuters.com/business/environment/taiwan-shuts-down-ahead-weakening-typhoon-champi-hundreds-flights-cancelled-2026-10-22/"&gt;Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xdae2g/"&gt;3 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xdae2g"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases</title>
     <id>urn:newsdigest:5ebbf798178045ccea55b98c41baffb1e5fb5a0a</id>
