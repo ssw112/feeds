@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-10-23T11:24:10Z</updated>
+  <updated>2026-10-23T12:00:43Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Oil hits five-month high amid fears US will renew strikes on Iran</title>
+    <id>urn:newsdigest:b483ff52beed32919b2d262736aeae5a431dd511</id>
+    <link href="https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran" rel="alternate" />
+    <published>2026-10-23T12:00:43Z</published>
+    <updated>2026-10-23T12:00:43Z</updated>
+    <content type="html">&lt;p&gt;Iran warned it would target oil and artificial‑intelligence facilities throughout the Gulf region if the United States and Israel resume attacks. The threat coincided with Brent crude rising to $114.72 a barrel, its highest level in five months.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"&gt;Oil hits five-month high amid fears US will renew strikes on Iran&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks"&gt;Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xd4t4e/"&gt;86 points, 38 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xd4t4e"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Taiwan shuts down schools and businesses as Typhoon Champi approaches</title>
     <id>urn:newsdigest:54bbc7fd7cecfc1ec3cf726a3ceec852b3eb2fbb</id>
