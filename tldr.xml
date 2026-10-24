@@ -6,6 +6,31 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Is This the END of LLMs? NCM Could Change Everything</title>
+      <link>https://dataval.tplinkdns.com/tldr/TbiwSOUb68E</link>
+      <guid isPermaLink="false">yt-tldr-1792877180</guid>
+      <pubDate>Sat, 24 Oct 2026 21:26:20 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[AI] New “Next Concept Modeling” promises faster, greener AI but remains unproven at scale&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explains Stanford’s “Next Concept Modeling” (NCM), which generates an entire response in parallel across multiple layers instead of token‑by‑token. In tests with 730 M‑parameter models, NCM needed only ~32 inference passes for a 1 000‑token output, cutting memory bandwidth and inference time dramatically compared to traditional LLMs. However, it trades memory savings for higher compute load, and its advantages have not been demonstrated for trillion‑parameter models, so its impact on the LLM market is still uncertain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video correctly cites the Stanford paper’s benchmarks, but the 31× speed claim is against diffusion‑style models, not standard LLMs, and scalability is unverified.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=TbiwSOUb68E" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,974 tokens • Output: 607 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Did 1,400 Vulnerabilities Show Up in One Hour?</title>
+      <link>https://dataval.tplinkdns.com/tldr/g2CavcAXRRw</link>
+      <guid isPermaLink="false">yt-tldr-1792876572</guid>
+      <pubDate>Sat, 24 Oct 2026 21:16:12 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Why Vulnerability Disclosures Are Spiking&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explains that the recent surge in reported software vulnerabilities—including 1,400 in one hour—is driven by AI tools that allow researchers to identify bugs in legacy codebases like PHP much faster than before. While many of these reports are minor or non-exploitable, the speed of discovery is straining traditional "coordinated disclosure" embargoes. The consequence is a high-pressure environment where security teams struggle to patch systems before exploits become public, highlighting the fragility of open-source projects that rely on volunteer labor and limited funding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video accurately summarizes the PHP "2 Shell" incident and the broader trend of rising CVE counts; it is well-researched and balanced.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; If you host PHP applications, check your distribution's package changelog for recent CVE patches and restart your web server services to ensure updates take effect.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=g2CavcAXRRw" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,009 tokens • Output: 258 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>No device could prove our theory of gravity wrong... until now</title>
       <link>https://dataval.tplinkdns.com/tldr/eyZEqSPeMwg</link>
       <guid isPermaLink="false">yt-tldr-1792874755</guid>
