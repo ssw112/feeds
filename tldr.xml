@@ -6,6 +6,32 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Every Uncontacted Tribe That Still Exists Today</title>
+      <link>https://dataval.tplinkdns.com/tldr/1A4BEPHV9pc</link>
+      <guid isPermaLink="false">yt-tldr-1792872917</guid>
+      <pubDate>Sat, 24 Oct 2026 20:15:17 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · WORLD] Uncontacted Tribes Still Hidden From the World&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video surveys several uncontacted tribes—Sentinel, Awa, Mashko Piro, Yo, Rook, and the Pentupi 9—detailing their isolation, cultural threats, and the dangers of outside contact. It warns that disease, logging, and conflict jeopardize their survival, while also promoting the creator’s Brody plush merchandise. The takeaway is that these groups remain largely untouched but increasingly vulnerable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video claims 100+ uncontacted tribes; experts say exact numbers are unknown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Buy the Trust Me Brody plush at trustbro.co for a cheaper, cozy companion.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=1A4BEPHV9pc" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,885 tokens • Output: 1,797 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek Is Free Now but What’s the Catch?</title>
+      <link>https://dataval.tplinkdns.com/tldr/zIWxzkO1nak</link>
+      <guid isPermaLink="false">yt-tldr-1792872300</guid>
+      <pubDate>Sat, 24 Oct 2026 20:05:00 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] How to lower your AI API bills by choosing the right provider&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explains that DeepSeek’s low costs aren't just about efficient hardware, but a massive "KV cache" system that stores previous conversation context to avoid recomputing tokens. While DeepSeek open-sourced their inference engine, they kept their proprietary distributed cache system private. This means that even if providers list the same price per token, your actual bill depends on their cache retention policy. Choosing a provider that guarantees cache persistence across their entire server cluster—rather than just on a single machine—can reduce your AI costs by up to 7x for long-context agentic workloads.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video accurately explains KV caching and the economics of AI inference. Claims are supported by technical documentation and industry benchmarks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Check your AI provider's documentation for "cache retention" or "cross-node cache" policies and switch to one that guarantees persistence to slash your long-context API costs.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zIWxzkO1nak" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,225 tokens • Output: 271 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Коррупция в Европе: вы не понимаете, это другое!</title>
       <link>https://dataval.tplinkdns.com/tldr/gDvyStQ3YAI</link>
       <guid isPermaLink="false">yt-tldr-1792702952</guid>
