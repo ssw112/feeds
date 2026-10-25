@@ -6,6 +6,19 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>The USB-C Dock Problem Is Out of Control</title>
+      <link>https://dataval.tplinkdns.com/tldr/JmOribNFTVU</link>
+      <guid isPermaLink="false">yt-tldr-1792968128</guid>
+      <pubDate>Sun, 25 Oct 2026 22:42:08 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] USB‑C Docking Chaos: What You’re Really Paying For&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Video shows most USB‑C docks are just 10 Gbps USB hubs using DisplayPort Alt Mode or MST, not true USB‑4 or Thunderbolt. Cheap models give one 4K 60 Hz monitor, no Ethernet or audio. Mid‑range docks add ports but share the same 10 Gbps link, so performance drops with multiple devices. Thunderbolt docks are the only reliable way to get multiple native displays and high refresh rates on Macs, but they’re expensive. The real value comes from a Thunderbolt hub plus a separate HDMI 2.1 adapter for 4K 120 Hz.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Claims about port speeds and Mac MST support are accurate; no evidence of false advertising.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Buy a Cable Matters USB‑C to HDMI 2.1 adapter and plug it into a Thunderbolt 4 port to get 4K 120 Hz on a Mac.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=JmOribNFTVU" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,879 tokens • Output: 1,773 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>ЗАГАДКИ ЛЮДСТВА, ЯКІ ОТРИМАЛИ НЕСПОДІВАНЕ ПОЯСНЕННЯ</title>
       <link>https://dataval.tplinkdns.com/tldr/kIzf6iN-fBk</link>
       <guid isPermaLink="false">yt-tldr-1792967512</guid>
