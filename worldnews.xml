@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-10-25T17:38:57Z</updated>
+  <updated>2026-10-25T17:56:00Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>West Bank: Families forcibly displaced in Hebron</title>
+    <id>urn:newsdigest:2b983fb20b1c62e35a169fd6daa366e939894985</id>
+    <link href="https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron" rel="alternate" />
+    <published>2026-10-25T17:56:00Z</published>
+    <updated>2026-10-25T17:56:00Z</updated>
+    <content type="html">&lt;p&gt;Israeli forces have displaced thousands of Palestinian families in Hebron, West Bank, following a shooting incident that killed two Israeli soldiers on Friday.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron"&gt;West Bank: Families forcibly displaced in Hebron&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss"&gt;Jerusalem Daily: Israel expels thousands from Hebron&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats</title>
     <id>urn:newsdigest:e6eafeefd87c2fc27c84fb58e3395295f03ccb64</id>
@@ -1598,13 +1606,5 @@
     <published>2026-10-20T15:45:08Z</published>
     <updated>2026-10-20T15:45:08Z</updated>
     <content type="html">&lt;p&gt;United States President Donald Trump’s approval rating has fallen to a record low of 31 percent ahead of November&amp;#x27;s midterm elections. A poll shows Democrats leading Republicans by 12 points in generic congressional ballot surveys. Sitting presidents typically see a dip in approval ratings before midterms, leaving Republicans facing mounting concerns ahead of the vote.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss"&gt;Trump approval hits record-low 31 percent, polls show Republican struggles&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss"&gt;Trump’s approval ratings plummet: what that means for the US midterms&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/video/20261020-us-midterm-elections-trump-approval-rating-falls-to-new-low"&gt;US midterm elections: Trump approval rating falls to new low&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees</title>
-    <id>urn:newsdigest:baa79199ab7573cf4343c9c055abd21b3f797c9e</id>
-    <link href="https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati" rel="alternate" />
-    <published>2026-10-20T15:09:01Z</published>
-    <updated>2026-10-20T18:16:28Z</updated>
-    <content type="html">&lt;p&gt;A US expedition to the remote Pacific atoll of Nikumaroro concluded without finding evidence related to Amelia Earhart, after an object initially identified as metallic plane debris was determined to be a clump of trees.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati"&gt;Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.cbsnews.com/news/amelia-earhart-missing-plane-not-found-nikumaroro-expedition/"&gt;So the expedition to find Amelia Earhart&amp;#x27;s plane has come up empty.&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xa2oig/"&gt;41 points, 38 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xa2oig"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
   </entry>
 </feed>
