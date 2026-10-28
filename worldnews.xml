@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-10-28T16:47:56Z</updated>
+  <updated>2026-10-28T17:05:21Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Arsenal knocked out of League Cup by fourth-tier Fleetwood Town</title>
+    <id>urn:newsdigest:e883ca6e15dd99dab8a1a7a5c8fe2b3038e119ec</id>
+    <link href="https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss" rel="alternate" />
+    <published>2026-10-28T17:05:21Z</published>
+    <updated>2026-10-28T17:05:21Z</updated>
+    <content type="html">&lt;p&gt;Arsenal were eliminated from the League Cup after a 1‑1 draw with Fleetwood Town. The match ended 5‑3 on penalties in favour of the fourth‑tier club. The game took place on the north‑west coast of England.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss"&gt;Arsenal knocked out of League Cup by fourth-tier Fleetwood Town&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/sports/2026/10/28/where-does-arsenals-fleetwood-humiliation-rank-english-cup-shocks?traffic_source=rss"&gt;Where does Arsenal’s Fleetwood humiliation place in English cup shocks?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/football/2026/oct/28/this-isnt-supposed-to-happen-giant-slaying-fleetwood-revels-in-fairytale-win"&gt;‘This isn’t supposed to happen’: giant-slaying Fleetwood revels in fairytale win&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>Israeli forces continue West Bank raids as Hebron lockdown enters sixth day</title>
     <id>urn:newsdigest:e9b1e5249937efa5e8cada2ee1371d9b8bd5dd01</id>
@@ -1598,13 +1606,5 @@
     <published>2026-10-22T18:06:31Z</published>
     <updated>2026-10-22T18:06:31Z</updated>
     <content type="html">&lt;p&gt;Iran says seven oil tankers were hit in the Strait of Hormuz. The United States has denied the claims, calling them an attempt to influence oil prices.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss"&gt;Iran says seven ships hit in Hormuz Strait, warns US of wider response&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://apnews.com/article/iran-united-states-war-hormuz-trump-israel-2abebce2fca2c085e0e0ee717e42cf28"&gt;Iran says 7 oil tankers are on fire or damaged in a key strait as fears grow of a return to war&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xcfa1o/"&gt;27 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xcfa1o"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>'Backbone of the web': What is PHP and how has it raised AI hacking fears?</title>
-    <id>urn:newsdigest:b023416d3a70fdeb72fd000d7af764b831a9d5be</id>
-    <link href="https://www.france24.com/en/technology/20261022-backbone-of-the-web-what-is-php-and-how-has-it-raised-ai-hacking-fears" rel="alternate" />
-    <published>2026-10-22T17:30:44Z</published>
-    <updated>2026-10-22T23:42:16Z</updated>
-    <content type="html">&lt;p&gt;Governments and companies are deploying patches to address security flaws in the PHP programming language, which powers a large share of websites worldwide. The effort follows a surge of hacking attempts targeting the vulnerabilities, prompting a coordinated response across multiple sectors.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/technology/20261022-backbone-of-the-web-what-is-php-and-how-has-it-raised-ai-hacking-fears"&gt;&amp;#x27;Backbone of the web&amp;#x27;: What is PHP and how has it raised AI hacking fears?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/"&gt;Millions of hacking attempts as companies, governments rush to patch PHP flaws&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xcoohu/"&gt;32 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xcoohu"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
   </entry>
 </feed>
