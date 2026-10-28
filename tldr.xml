@@ -6,6 +6,18 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Why Google Maps sucks now</title>
+      <link>https://dataval.tplinkdns.com/tldr/uZZo2-uSAXo</link>
+      <guid isPermaLink="false">yt-tldr-1793173449</guid>
+      <pubDate>Wed, 28 Oct 2026 07:44:09 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] GPS Saturation Creates Braess's Paradox in Urban Traffic&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that widespread GPS navigation usage has degraded routing efficiency. When over 60% of drivers use dynamic routing, algorithms send everyone to the same "faster" alternate routes, causing diffuse, chaotic congestion rather than predictable choke points. This phenomenon, known as Braess's paradox, means the system slows down as adoption increases. Proposed fixes involve connected vehicles sharing data, but this raises significant privacy concerns and requires trusting tech corporations with sensitive location histories. The video concludes that while GPS is beneficial, its current saturation creates a trade-off between individual convenience and collective traffic flow, with no easy solution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Cites specific studies on traffic saturation and Braess's paradox; anecdotal examples like North Oaks are illustrative, not systemic proof.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=uZZo2-uSAXo" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,511 tokens • Output: 238 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Anthropic Just Shipped Claude 2.0 (Master it in 17 minutes)</title>
       <link>https://dataval.tplinkdns.com/tldr/yMnFHFf43Qg</link>
       <guid isPermaLink="false">yt-tldr-1793172839</guid>
