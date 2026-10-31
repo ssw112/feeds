@@ -6,6 +6,19 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>So I tried Matt's skills...</title>
+      <link>https://dataval.tplinkdns.com/tldr/0oXOOlqVu5M</link>
+      <guid isPermaLink="false">yt-tldr-1793469863</guid>
+      <pubDate>Sat, 31 Oct 2026 18:04:23 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Testing AI coding skills from Matt Pocock and P-Stack reveals workflow improvements&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video reviews two GitHub repositories of markdown "skills" for AI coding agents: Matt Pocock's engineering skills (200k+ stars) and Lauren "Potato" Tan's P-Stack. The creator audits both against his own usage, tests skills like "unslop" (removes AI writing patterns), "grill" (relentless design questioning), "blast radius" (finds breaking changes), and "wizard" (guides human-only steps). He finds P-Stack's writing more readable and its skills more immediately applicable, but values Pocock's structured workflow (grill→spec→tickets→implement→review). He warns against blindly copying setups; instead, viewers should audit skills against their own history, read the markdown before installing, and adopt only what fits. The "unslop" skill alone dramatically improves output readability.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video claims subjective workflow improvements; no independent benchmarks provided. Skills are open-source markdown, verifiable on GitHub.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Install the "unslop" skill from P-Stack repo to make AI agent output concise, human-readable, and free of generic patterns.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=0oXOOlqVu5M" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 10,072 tokens • Output: 2,382 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Yikes, Proton</title>
       <link>https://dataval.tplinkdns.com/tldr/gZ-PfyCcH0k</link>
       <guid isPermaLink="false">yt-tldr-1793468587</guid>
