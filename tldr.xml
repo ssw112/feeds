@@ -6,6 +6,18 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>I discovered a sound that leaks your exact location (and it's everywhere)</title>
+      <link>https://dataval.tplinkdns.com/tldr/UytYrhYLOKI</link>
+      <guid isPermaLink="false">yt-tldr-1793657916</guid>
+      <pubDate>Mon, 02 Nov 2026 22:18:36 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Aircraft Doppler curves can geolocate videos using ADSB data and spectrogram analysis&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video demonstrates a technique to pinpoint a video's exact location using just 1 minute of audio. By analyzing inaudible aircraft Doppler curves and cross-referencing ADSB flight data, the creator models radial velocity and timing to triangulate the recording site to within a few hundred feet. The method reveals that background plane sounds can carry hidden geolocation data, though the odds of active exploitation are low, and simple audio edits can mitigate the risk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Claim: audio Doppler curves can pinpoint location via ADSB. Fact: method works; odds of exploitation are slim, video confirms.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=UytYrhYLOKI" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 7,737 tokens • Output: 7,142 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Dirt-Cheap Solar Generator Setup from Amazon</title>
       <link>https://dataval.tplinkdns.com/tldr/ELrQewHxjj0</link>
       <guid isPermaLink="false">yt-tldr-1793657247</guid>
