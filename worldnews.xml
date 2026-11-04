@@ -3,10 +3,34 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-11-04T09:31:25Z</updated>
+  <updated>2026-11-04T09:48:35Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Californians vote on billionaire tax to replace federal cuts in healthcare funding</title>
+    <id>urn:newsdigest:94fc5719bb271d259d7fa66db1029cff1ed24690</id>
+    <link href="https://www.france24.com/en/video/20261103-californians-vote-on-billionaire-tax-to-replace-federal-cuts-in-healthcare-funding" rel="alternate" />
+    <published>2026-11-04T09:48:35Z</published>
+    <updated>2026-11-04T09:48:35Z</updated>
+    <content type="html">&lt;p&gt;On Tuesday, California voters are deciding on a ballot measure to impose a tax on billionaires to fund the state&amp;#x27;s healthcare system. The reports differ on whether the proposed levy is a recurring net worth tax or a one-time tax.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/video/20261103-californians-vote-on-billionaire-tax-to-replace-federal-cuts-in-healthcare-funding"&gt;Californians vote on billionaire tax to replace federal cuts in healthcare funding&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/tv-shows/business/20261103-californians-vote-on-ballot-initiative-to-impose-one-time-tax-on-billionaires"&gt;Californians vote on ballot initiative to impose one-time tax on billionaires&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/4/key-takeaways-from-the-2026-midterm-elections-in-california?traffic_source=rss"&gt;Key takeaways from the 2026 midterm elections in California&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>Democrats aim to sweep most US governor elections after wins in key states</title>
+    <id>urn:newsdigest:1a5bcd0e22cd62b594306ca53f00f3365be45b8f</id>
+    <link href="https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins" rel="alternate" />
+    <published>2026-11-04T09:48:35Z</published>
+    <updated>2026-11-04T09:48:35Z</updated>
+    <content type="html">&lt;p&gt;Democrats won several gubernatorial races in the U.S. midterm elections, including victories in Texas, Georgia, Ohio and Iowa, with candidates such as Gina Hinojosa in Texas and Keisha Lance Bottoms in Georgia. The wins marked several historic firsts for women and minorities, though reports differ on whether Bottoms is the first Black female governor in the United States.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins"&gt;Democrats aim to sweep most US governor elections after wins in key states&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/4/firsts-for-women-and-minorities-in-us-midterm-elections?traffic_source=rss"&gt;Firsts for women and minorities in US midterm elections&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>Adam Hamilton wins in Kansas to become state’s first Democrat in Senate since 1932</title>
+    <id>urn:newsdigest:91c7373a80fffa9ace881a25fc8370c398492d54</id>
+    <link href="https://www.theguardian.com/us-news/2026/nov/03/adam-hamilton-roger-marshall-kansas-senate" rel="alternate" />
+    <published>2026-11-04T09:48:35Z</published>
+    <updated>2026-11-04T09:48:35Z</updated>
+    <content type="html">&lt;p&gt;Adam Hamilton, a Democratic pastor, won the U.S. Senate race in Kansas, defeating Republican incumbent Roger Marshall. The victory makes Hamilton the state&amp;#x27;s first Democratic senator since 1932.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/us-news/2026/nov/03/adam-hamilton-roger-marshall-kansas-senate"&gt;Adam Hamilton wins in Kansas to become state’s first Democrat in Senate since 1932&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss"&gt;Kansas elects first Democratic senator in almost a century&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-from-kansas-elected-to-us-senate-for-first-time-since-great-depres?traffic_source=rss"&gt;Democrat from Kansas elected to US Senate for first time since 1932&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>EU to lead talks on support for Ukraine with US, Nato, partners – Europe live</title>
     <id>urn:newsdigest:de8edaeea29b5ed6125cb1bdbc7689e57d108c2b</id>
@@ -164,8 +188,8 @@
     <id>urn:newsdigest:217e6b1416647e1bb47c20150eb970d58dc531e0</id>
     <link href="https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe" rel="alternate" />
     <published>2026-11-03T19:55:08Z</published>
-    <updated>2026-11-04T01:48:44Z</updated>
-    <content type="html">&lt;p&gt;The polar vortex over the northern hemisphere is weakening, potentially leading to colder weather across parts of Europe in the coming weeks. Scientists and meteorologists are monitoring the change. The event could alter weather patterns across Europe.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe"&gt;Europe could face colder weather as polar vortex weakens&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xn3110/"&gt;91 points, 24 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xn3110"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
+    <updated>2026-11-04T09:48:35Z</updated>
+    <content type="html">&lt;p&gt;The polar vortex over the northern hemisphere is weakening, potentially leading to colder weather across parts of Europe in the coming weeks. Scientists and meteorologists are monitoring the change. The event could alter weather patterns across Europe.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe"&gt;Europe could face colder weather as polar vortex weakens&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xn3110/"&gt;141 points, 31 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xn3110"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Syria says it foiled Hezbollah plot to target Homs oil refinery</title>
@@ -1582,29 +1606,5 @@
     <published>2026-10-30T07:01:12Z</published>
     <updated>2026-10-30T07:19:12Z</updated>
     <content type="html">&lt;p&gt;Amnesty International alleges that Cambodian police and military officers served as private security guards at scam compounds where thousands were forced to work in the online fraud industry. Survivors reported to the rights group that these officers administered electric shocks and beatings while guarding the facilities.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international"&gt;Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xj4eqr/"&gt;91 points, 3 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xj4eqr"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>North Korea fires missiles as row over landmine blast intensifies</title>
-    <id>urn:newsdigest:3c79eeb5ff6efc149abe7ddf01b8ebdce7db531f</id>
-    <link href="https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss" rel="alternate" />
-    <published>2026-10-30T07:01:12Z</published>
-    <updated>2026-10-30T07:01:12Z</updated>
-    <content type="html">&lt;p&gt;North Korea fired missiles amid escalating tensions following a landmine explosion at the military border that injured three South Korean soldiers. South Korea accused Pyongyang of causing the blast—an accusation North Korea denied—and stated it will respond firmly to protect the border, while Pyongyang claimed it was conducting operations on its side of the line.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss"&gt;North Korea fires missiles as row over landmine blast intensifies&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.reuters.com/world/asia-pacific/south-korea-respond-firmly-north-korean-breaches-border-security-aide-says-2026-10-30/"&gt;South Korea will respond firmly to ​protect the military border with North Korea ‌despite claims by Pyongyang that it is conducting operations on its side of the line, National ​Security adviser says&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xj6dhz/"&gt;1 comment&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xj6dhz"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Armenian parliament turns into a boxing ring, third time in a month</title>
-    <id>urn:newsdigest:d5c6ad91629d8e0eb7a64827310a55d42731027f</id>
-    <link href="https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss" rel="alternate" />
-    <published>2026-10-30T07:01:12Z</published>
-    <updated>2026-10-31T02:21:24Z</updated>
-    <content type="html">&lt;p&gt;Armenia’s parliament descended into fisticuffs after a ruling-party MP mocked the opposition leader’s family.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss"&gt;Armenian parliament turns into a boxing ring, third time in a month&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://tvpworld.com/96194901/-armenia-parliament-brawl-deputy-speaker-throws-chair"&gt;Deputy speaker throws chair as brawl erupts in Armenia’s parliament. An ambulance was called after an opposition lawmaker suffered a bleeding nose.&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xil2ie/"&gt;24 points, 5 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xil2ie"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Spain reckons with second deadly train crash of the year ahead of national election</title>
-    <id>urn:newsdigest:391d71d7ede3b2d2304d94d63032a45275af9eaa</id>
-    <link href="https://www.france24.com/en/video/20261029-spain-reckons-with-second-deadly-train-crash-of-the-year-ahead-of-national-election" rel="alternate" />
-    <published>2026-10-30T07:01:12Z</published>
-    <updated>2026-10-30T14:40:56Z</updated>
-    <content type="html">&lt;p&gt;A deadly train crash occurred in Spain, marking the country&amp;#x27;s second fatal rail accident of the year. The incident has prompted Prime Minister Pedro Sánchez to address the safety record of his government ahead of the upcoming national election.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/video/20261029-spain-reckons-with-second-deadly-train-crash-of-the-year-ahead-of-national-election"&gt;Spain reckons with second deadly train crash of the year ahead of national election&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox"&gt;Battle lines redrawn in Spain’s snap election after latest train disaster&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"&gt;Spain continues to investigate causes of deadly Toledo train crash – Europe live&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/video/20261030-spain-demands-answers-as-train-disaster-toll-rises"&gt;Spain demands answers as train disaster toll rises&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections?traffic_source=rss"&gt;Spain’s deadly train crash redraws electoral battle lines&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez"&gt;Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/video/20261030-spanish-transport-minister-faces-calls-to-quit-after-deadly-train-crash"&gt;Spanish transport minister faces calls to quit after deadly train crash&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
