@@ -6,6 +6,18 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>I was getting on board with passkeys. Now this.</title>
+      <link>https://dataval.tplinkdns.com/tldr/ZjEG-LLAOIo</link>
+      <guid isPermaLink="false">yt-tldr-1793925268</guid>
+      <pubDate>Fri, 06 Nov 2026 00:34:28 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Passkeys: Security Upgrade or Ecosystem Lock-in?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video analyzes a Hacker News article claiming passkeys are a trap for vendor lock-in. It explains that while passkeys are inherently more secure than passwords, a specific feature called "attestation" allows sites to verify the device and software used. The creator argues this feature is currently limited to managed corporate environments, not consumer sites. While the FIDO Alliance’s lack of consumer advocacy raises valid concerns about future restrictions, the video concludes that passkeys remain a superior, practical security solution for most users today.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Accurate technical explanation of passkey attestation; balanced view acknowledging both security benefits and potential future lock-in risks.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ZjEG-LLAOIo" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,148 tokens • Output: 212 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Astronomers Have Now Spotted Galaxies So Far Away, It Raises Troubling Questions</title>
       <link>https://dataval.tplinkdns.com/tldr/ZUuQMJ5O3XM</link>
       <guid isPermaLink="false">yt-tldr-1793675376</guid>
