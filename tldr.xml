@@ -6,6 +6,19 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>What Claude Code Can Do That You Haven't Tried - Gui Ferreira - NDC Oslo 2026</title>
+      <link>https://dataval.tplinkdns.com/tldr/P3TCZ2xrvbo</link>
+      <guid isPermaLink="false">yt-tldr-1793951157</guid>
+      <pubDate>Fri, 06 Nov 2026 07:45:57 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Unlocking Advanced Claude Code Features&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explains advanced techniques for Claude Code beyond basic prompt engineering, including setting up global user profiles, managing context windows efficiently, utilizing remote control and voice modes, creating custom skills, and applying the agent to non-coding tasks like note-taking and health tracking.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Accurate and practical; the speaker demonstrates real, built-in Claude Code commands and configurations for daily developer workflows.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Run /insights in Claude Code next week to discover personalized usage patterns and hidden features you are not yet utilizing.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=P3TCZ2xrvbo" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 12,344 tokens • Output: 185 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>I was getting on board with passkeys. Now this.</title>
       <link>https://dataval.tplinkdns.com/tldr/ZjEG-LLAOIo</link>
       <guid isPermaLink="false">yt-tldr-1793925268</guid>
