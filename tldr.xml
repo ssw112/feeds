@@ -6,6 +6,18 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>SSH situation is insane</title>
+      <link>https://dataval.tplinkdns.com/tldr/ErB1SRcksDc</link>
+      <guid isPermaLink="false">yt-tldr-1793984904</guid>
+      <pubDate>Fri, 06 Nov 2026 17:08:24 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Critical OpenSSH and Musl Libc Authentication Vulnerability&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video details a critical logic vulnerability in certain OpenSSH and Musl libc configurations (such as Alpine Linux) where entering a password exceeding 256 characters triggers a cascading error, matching a wildcard star hash and granting unauthorized root or shell access. This implies that millions of containerized and lightweight Linux deployments are vulnerable to trivial authentication bypasses unless patched immediately.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video accurately explains a real-world vulnerability combining Musl libc crypt error handling and SSH password hashing logic.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ErB1SRcksDc" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,143 tokens • Output: 173 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Датацентри НАРЕШТІ в космосі | Більше нових професій | Google і ботнети</title>
       <link>https://dataval.tplinkdns.com/tldr/GQcgYqSPwu4</link>
       <guid isPermaLink="false">yt-tldr-1793955384</guid>
