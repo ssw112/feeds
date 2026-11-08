@@ -6,6 +6,18 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Is This the End of LLMs? This Stanford Paper Could Make Nvidia's Memory Chips Unnecessary</title>
+      <link>https://dataval.tplinkdns.com/tldr/nv5_PH2uPVI</link>
+      <guid isPermaLink="false">yt-tldr-1794168069</guid>
+      <pubDate>Sun, 08 Nov 2026 20:01:09 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Stanford Paper Proposes Parallel AI Text Generation&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video reports a Stanford paper on Next Concept Modeling (NCM) that generates text in parallel layers instead of token by token. It says NCM may cut memory bandwidth needs and challenge Nvidia's expensive memory dominance, though it notes tradeoffs and uncertainty.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video claims NCM could make Nvidia memory unnecessary; this is early research reporting, not proven fact.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=nv5_PH2uPVI" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,767 tokens • Output: 1,787 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>What Was Watergate?</title>
       <link>https://dataval.tplinkdns.com/tldr/HU6biQoPBDk</link>
       <guid isPermaLink="false">yt-tldr-1794167450</guid>
