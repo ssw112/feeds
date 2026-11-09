@@ -6,6 +6,30 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>The UNTOLD Story About The Most PRIVATE Android OS</title>
+      <link>https://dataval.tplinkdns.com/tldr/8r_bWxUDMwA</link>
+      <guid isPermaLink="false">yt-tldr-1794226490</guid>
+      <pubDate>Mon, 09 Nov 2026 12:14:50 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] GrapheneOS: From Founder Fallout to Law‑Enforcement Nightmare&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; GrapheneOS emerged from a 2018 dispute where founder Daniel Micay deleted the company’s signing keys to prevent a partner from controlling updates. The loss halted updates for existing devices, forcing a hard reset and a year‑long gap before a new release. The OS, built on hardened Android, offers features like automatic reboot, USB restrictions, and app‑level network blocking, making it attractive to journalists and privacy advocates. However, its reliance on Google Pixel hardware and the absence of a master key also make it a thorn in law‑enforcement’s side, as seen in recent Canadian and French investigations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video asserts GrapheneOS blocks Cellebrite; independent data shows only older versions vulnerable, not all devices.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=8r_bWxUDMwA" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,911 tokens • Output: 847 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>You Need to Learn How to Use Uncensored AI Right Now</title>
+      <link>https://dataval.tplinkdns.com/tldr/LYYs_jIFPZ4</link>
+      <guid isPermaLink="false">yt-tldr-1794225881</guid>
+      <pubDate>Mon, 09 Nov 2026 12:04:41 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[AI] Tutorial on Running Local Uncensored Models for Security Audits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video demonstrates how to deploy "uncensored" AI models to perform offensive security tests on web applications, bypassing the refusal filters of mainstream providers like Claude or Codex. It outlines three methods: using hosted API providers, renting cloud VMs via RunPod, or running models locally. The creator argues that as mainstream AI becomes more restrictive, self-hosting is essential for developers to audit their own code for vulnerabilities without being blocked by safety guardrails.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The technical steps are plausible, but the video promotes specific paid services and a proprietary tool, introducing commercial bias.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=LYYs_jIFPZ4" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,013 tokens • Output: 202 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Claude Engineering Lead: "Stop Using Claude Like It’s 2024"</title>
       <link>https://dataval.tplinkdns.com/tldr/D-SVFneJ_Nk</link>
       <guid isPermaLink="false">yt-tldr-1794225270</guid>
