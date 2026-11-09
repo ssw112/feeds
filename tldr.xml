@@ -6,6 +6,18 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Claude Engineering Lead: "Stop Using Claude Like It’s 2024"</title>
+      <link>https://dataval.tplinkdns.com/tldr/D-SVFneJ_Nk</link>
+      <guid isPermaLink="false">yt-tldr-1794225270</guid>
+      <pubDate>Mon, 09 Nov 2026 11:54:30 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Claude Engineering Lead on Modern AI Workflows&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video features Anthropic engineering lead Felix Riesberg discussing how to use Claude effectively by moving beyond 2024 prompt engineering. Instead of micromanaging narrow tasks or role-playing, users should provide AI models with broad access to raw data and tools, letting them handle entire workflows and self-critique. The implication is that professionals must shift from rigid prompt templates to high-level system integration and trust AI agents with broader operational context.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video is an industry interview with a named engineering lead from Anthropic, presenting firsthand professional methods and insights rather than unverified clickbait, though some futuristic claims remain subjective opinions.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=D-SVFneJ_Nk" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 14,480 tokens • Output: 204 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Is This the End of LLMs? This Stanford Paper Could Make Nvidia's Memory Chips Unnecessary</title>
       <link>https://dataval.tplinkdns.com/tldr/nv5_PH2uPVI</link>
       <guid isPermaLink="false">yt-tldr-1794168069</guid>
