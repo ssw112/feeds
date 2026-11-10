@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-11-10T12:35:24Z</updated>
+  <updated>2026-11-10T12:52:45Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Ohio State fraternity suspended after viral video shows two men on fire</title>
+    <id>urn:newsdigest:22395099e291d6cf1887922ab84ad7c3f8be1b50</id>
+    <link href="https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension" rel="alternate" />
+    <published>2026-11-10T12:52:45Z</published>
+    <updated>2026-11-10T12:52:45Z</updated>
+    <content type="html">&lt;p&gt;The university and local police are conducting investigations into Sigma Alpha Epsilon and have placed them on interim suspension A fraternity at Ohio State University has been temporarily suspended while authorities investigate a video that appears to show two panicked men engulfed in flames.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension"&gt;Ohio State fraternity suspended after viral video shows two men on fire&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/11/10/ohio-state-suspends-fraternity-after-video-shows-two-people-on-fire?traffic_source=rss"&gt;Ohio State suspends fraternity after video shows two people on fire&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>US reportedly evacuated aircraft from RAF Mildenhall over Iran threat</title>
     <id>urn:newsdigest:afee55117619a948877ba8466b559f4cd7d0119a</id>
@@ -1598,13 +1606,5 @@
     <published>2026-11-05T08:47:19Z</published>
     <updated>2026-11-05T08:47:19Z</updated>
     <content type="html">&lt;p&gt;Democrat Scott Colom and Republican incumbent Cindy Hyde-Smith are competing in the Mississippi Senate race, while Alaska&amp;#x27;s Senate outcome may be determined by ranked-choice voting. Reports conflict on whether Colom is leading Hyde-Smith or whether the Mississippi race remains uncalled, and election calls in both states are delayed.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss"&gt;What’s delaying US midterm election calls in Mississippi and Alaska?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"&gt;US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>Champions League: Real Madrid seal late comeback as Liverpool lose to Fenerbahce</title>
-    <id>urn:newsdigest:9d962d33e231240008fc436c0eea099c553b2620</id>
-    <link href="https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce" rel="alternate" />
-    <published>2026-11-05T07:53:54Z</published>
-    <updated>2026-11-05T07:53:54Z</updated>
-    <content type="html">&lt;p&gt;Real Madrid scored a stoppage‑time goal to complete a 3‑2 comeback victory at AEK Athens. Liverpool were beaten 3‑2 by Fenerbahçe in Istanbul. The reports differ on whether the 3‑2 result at AEK Athens involved Real Madrid or Liverpool.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce"&gt;Champions League: Real Madrid seal late comeback as Liverpool lose to Fenerbahce&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss"&gt;Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
