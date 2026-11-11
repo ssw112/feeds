@@ -6,6 +6,18 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Your prompts kinda suck</title>
+      <link>https://dataval.tplinkdns.com/tldr/m-B3jIMMmUE</link>
+      <guid isPermaLink="false">yt-tldr-1794408974</guid>
+      <pubDate>Wed, 11 Nov 2026 14:56:14 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] How AI Prompts Replace Software Features&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video argues that engineers over-engineer AI prompts and waste time building software features that users can simply ask AI agents to generate on the fly. By shifting focus from writing rigid code to leveraging natural language prompts and building underlying system primitives (like MCPs), developers can unlock deeper technical problems and build more powerful, personalized tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video is an opinionated, promotional developer vlog for T3 Code and Macroscope tools; claims about prompt efficiency are subjective anecdotes rather than rigorous empirical data.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=m-B3jIMMmUE" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 8,831 tokens • Output: 174 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>It's Weird, But It Destroys Your Body Fat In 30 Days</title>
       <link>https://dataval.tplinkdns.com/tldr/z9cd8jJqELw</link>
       <guid isPermaLink="false">yt-tldr-1794408366</guid>
@@ -2372,18 +2384,6 @@
 &lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video accurately states many online peptides lack human data and may be contaminated; avoids exaggerating benefits.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=hQGvGkWIX94" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Nara/nemotron-3-super-free • Input: 4,615 tokens • Output: 1,184 tokens&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Moka Pot, But Actually Good</title>
-      <link>https://dataval.tplinkdns.com/tldr/wmvEInIdD8U</link>
-      <guid isPermaLink="false">yt-tldr-1791340656</guid>
-      <pubDate>Wed, 07 Oct 2026 02:37:36 GMT</pubDate>
-      <description>&lt;div&gt;
-&lt;h2&gt;[ACTION · FOOD] Brew Better Moka Pot Coffee Using Room‑Temp Water and Controlled Flow&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video shows that starting with room‑temperature water, lifting the pot to keep a steady ~1 g/s flow, and using a slightly coarser grind yields a smoother, more aromatic moka pot brew. This simple tweak lets you extract delicate volatiles without excess bitterness, improving everyday coffee.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video offers practical tips grounded in basic coffee physics; its temperature claims are plausible but lack direct citation.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=wmvEInIdD8U" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Nara/nemotron-3-super-free • Input: 8,419 tokens • Output: 1,457 tokens&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
