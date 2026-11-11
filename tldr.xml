@@ -6,6 +6,31 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>How Revolut Cut AI Coding Costs 90% With Self-Hosted Open Models - David Abitbol, Revolut</title>
+      <link>https://dataval.tplinkdns.com/tldr/Ok6QdZHCcI8</link>
+      <guid isPermaLink="false">yt-tldr-1794386668</guid>
+      <pubDate>Wed, 11 Nov 2026 08:44:28 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Revolut cuts AI coding costs 90%+ with self-hosted open models&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Revolut’s AI operations lead explains how self-hosting open-source GLM models on dedicated GPUs cut AI coding costs by over 90% versus cloud APIs. By optimizing quantization (FP4), cache hits, and tensor parallelism, they achieved 60-70% faster engineering cycles while keeping costs at just 30 cents per million tokens. The setup uses an OpenAI-compatible API with sandboxed, human-in-the-loop controls for compliance. The takeaway: well-optimized open models deliver enterprise AI at a fraction of the price, provided you invest in GPU tuning and governance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Fact-check: Revolut cuts AI costs 90%+ by self-hosting GLM on GPUs at 30c/M tokens, ~1/10 cloud price.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Ok6QdZHCcI8" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,089 tokens • Output: 4,544 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A $40 Billion Trading Firm Just Open-Sourced an AI Skill. I Tested It.</title>
+      <link>https://dataval.tplinkdns.com/tldr/kSILjd2cmY4</link>
+      <guid isPermaLink="false">yt-tldr-1794386011</guid>
+      <pubDate>Wed, 11 Nov 2026 08:33:31 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · AI] AI Skill Open‑Sourced by $40B Trader&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video shows Jane Street’s free AI tutoring skill on GitHub, which tests your knowledge, highlights gaps, and guides you through market‑making concepts. The presenter runs it with Claude Code to see how it teaches trading decisions, revealing its usefulness for learning without cost.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video claims a free Jane Street AI skill can teach market making; it’s on GitHub and works as described.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Download the GitHub repo, copy the tutor folder into your Claude skills directory, and ask the AI to teach you market making this week.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=kSILjd2cmY4" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,091 tokens • Output: 2,943 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Chillest Dictator of All Time</title>
       <link>https://dataval.tplinkdns.com/tldr/8TtZtTA6cTU</link>
       <guid isPermaLink="false">yt-tldr-1794385367</guid>
@@ -2358,18 +2383,6 @@
 &lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video presents a practical AI workflow; claims are plausible and demonstrated, though sponsored by Dropbox, which may bias emphasis.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=peP_o66u-vM" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Nara/nemotron-3-super-free • Input: 3,984 tokens • Output: 1,429 tokens&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Це кінець для Банкової. Злито деталі співпраці нашої влади з Росією.  Захід шокований</title>
-      <link>https://dataval.tplinkdns.com/tldr/1FGUbAxCAh8</link>
-      <guid isPermaLink="false">yt-tldr-1791338740</guid>
-      <pubDate>Wed, 07 Oct 2026 02:05:40 GMT</pubDate>
-      <description>&lt;div&gt;
-&lt;h2&gt;[NEWS-UA] Звіт про можливу корупцію у СБУ та фінансування навчання дітей Галущенка санкціонованою особою&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Відео стверджує, що Віктор Артемов, що перебуває під американськими санкціями через зв’язки з Хезболлою, Іраном та тіневим флотоперевезеннями, заплатив приблизно 12,5 млн грн за навчання дітей колишнього міністра юстиції Галущенка у швейцарському коледжі, причому СБУ, за словами автора, не виявило цього під час двічі призначення його на посади. Також згадується відмова суду затвердити угоду САП про переказ 3 млн грн фонду «Повернись живим» та скасування законопроєкту про перевірку застав. Це піднімає питання про ефективність надзору за безпекою та антикорупційними органами.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео надає твердження без показу незалежних доказів; факти про санкції Артемова публічні, але зв’язок з оплатой навчання не підтверджений.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=1FGUbAxCAh8" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Nara/nemotron-3-super-free • Input: 5,408 tokens • Output: 2,183 tokens&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
