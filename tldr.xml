@@ -6,6 +6,19 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic</title>
+      <link>https://dataval.tplinkdns.com/tldr/vlfCjWuv4es</link>
+      <guid isPermaLink="false">yt-tldr-1794487303</guid>
+      <pubDate>Thu, 12 Nov 2026 12:41:43 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Shift from manual steering to automated verification in Claude Code&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Lydia Hallie from Anthropic explains that as AI models improve, developers must stop micromanaging every step. Instead of approving commands, use "auto mode" and strict deny rules. The focus shifts to setting up robust verification: use hooks to run tests automatically and configure CI to catch errors. This allows developers to run dozens of parallel sessions safely, acting as managers rather than operators, significantly increasing throughput while maintaining code quality.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video presents internal Anthropic workflows and specific tool features; claims are consistent with current Claude Code documentation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Replace manual command approvals with auto mode and add deny rules for sensitive files to safely run parallel sessions.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=vlfCjWuv4es" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,906 tokens • Output: 225 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Vanguard's New Data is a Reality Check for Investors</title>
       <link>https://dataval.tplinkdns.com/tldr/RNxPk-AylGg</link>
       <guid isPermaLink="false">yt-tldr-1794486692</guid>
@@ -2373,18 +2386,6 @@
 &lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video accurately cites plan closures and model gaps; its token‑value math is optimistic but overall reliable.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3R7yba577uA" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Nara/nemotron-3-super-free • Input: 5,190 tokens • Output: 1,217 tokens&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>НОВИНИ AI: OpenAI показала Dots — агентів, які працюють 24/7</title>
-      <link>https://dataval.tplinkdns.com/tldr/dklUOU9BF2s</link>
-      <guid isPermaLink="false">yt-tldr-1791341935</guid>
-      <pubDate>Wed, 07 Oct 2026 02:58:55 GMT</pubDate>
-      <description>&lt;div&gt;
-&lt;h2&gt;[ACTION · AI] OpenAI продемонструвала агенти Dots, що працюють 24/7&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; У відео розповідається про OpenAI Devday 2026, де представлено агенти Dots – віртуальні помічники, які можуть працювати безперервно та інтегруватися у робочий інтерфейс. Згадані нові моделі GBT6.1 Astra, Sol, ultra‑fast режим за 500 $, покращене розпізнавання зображень, голосовий режим та Decision API. Також зазначено плани Google про орбітальний дата‑центр та можливий IPO Anthropic. Для читача це означає, що можна спробувати створити власного агента Dots для автоматизації задач у своєму workflow.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео змішує підтверджені новини OpenAI з неперевіреними чутками та перебільшеними tvrдженнями; джерел не наведено.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=dklUOU9BF2s" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Nara/nemotron-3-super-free • Input: 10,619 tokens • Output: 1,976 tokens&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
