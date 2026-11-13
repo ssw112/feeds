@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-11-13T17:28:24Z</updated>
+  <updated>2026-11-13T17:45:55Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal</title>
+    <id>urn:newsdigest:d8ccb4fd2881b99b173c6ab81277758e0091be41</id>
+    <link href="https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1" rel="alternate" />
+    <published>2026-11-13T17:45:55Z</published>
+    <updated>2026-11-13T17:45:55Z</updated>
+    <content type="html">&lt;p&gt;EU leaders met in Dublin for the first-ever AI summit to address challenges related to artificial intelligence. William Hilderbrandt and Fabrice Pothier, CEO of Rasmussen Global, were involved in the summit. One account said the summit was overshadowed by Russia’s war on Ukraine and the search for a Ukraine-Russia peace deal, while the other did not include that detail.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1"&gt;As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.reuters.com/world/china/eu-leaders-seek-tackle-challenges-first-ever-ai-summit-2026-11-13/"&gt;EU leaders seek to tackle challenges at first ever AI summit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xv0c5h/"&gt;13 points, 4 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xv0c5h"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>UK ministers look at quick ways to limit NDAs after Walliams allegations</title>
     <id>urn:newsdigest:27f364f371219f953e82e937ff99e79f7311026c</id>
@@ -68,8 +76,8 @@
     <id>urn:newsdigest:ab32845c3362b5cacfddfa1c1c73d64fa6b80bac</id>
     <link href="https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements" rel="alternate" />
     <published>2026-11-13T14:32:59Z</published>
-    <updated>2026-11-13T14:32:59Z</updated>
-    <content type="html">&lt;p&gt;Ukrainian President Volodymyr Zelensky and EU foreign policy chief Kaja Kallas warned European leaders on Thursday to be wary of discussions between the United States and Russia regarding European security arrangements. Meanwhile, US envoy Jared Kushner confirmed that Russia and Ukraine agreed to expand the next round of talks to include European nations and that Washington is working toward a major prisoner exchange.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements"&gt;Zelensky warns Europe over US-Russia talks on broader security arrangements&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks"&gt;Live: Zelensky and Kushner confirm that Europe will join next round of Russia-Ukraine talks&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"&gt;Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <updated>2026-11-13T17:45:55Z</updated>
+    <content type="html">&lt;p&gt;Ukrainian President Volodymyr Zelensky and EU foreign policy chief Kaja Kallas warned European leaders on Thursday to be wary of discussions between the United States and Russia regarding European security arrangements. Meanwhile, US envoy Jared Kushner confirmed that Russia and Ukraine agreed to expand the next round of talks to include European nations and that Washington is working toward a major prisoner exchange.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements"&gt;Zelensky warns Europe over US-Russia talks on broader security arrangements&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks"&gt;Live: Zelensky and Kushner confirm that Europe will join next round of Russia-Ukraine talks&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"&gt;Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DW: &lt;a href="https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-world-4025-rdf"&gt;The dangers of revising Europe&amp;#x27;s security architecture&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <title>China warns against fresh US chip curbs</title>
@@ -1598,13 +1606,5 @@
     <published>2026-11-09T11:15:52Z</published>
     <updated>2026-11-09T18:31:30Z</updated>
     <content type="html">&lt;p&gt;Heavy rains have caused flooding in Gaza, submerging tents used by displaced Palestinians. Hundreds of thousands of Palestinians are vulnerable to flooding as Israel continues to block entry of mobile homes. The incident underscores the difficulties faced by displaced residents in the area.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss"&gt;‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/video/20261109-tents-entirely-submerged-has-heavy-rains-hit-gaza"&gt;Tents &amp;#x27;entirely submerged&amp;#x27; has heavy rains hit Gaza&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/life-in-gaza-simply-miserable-amid-flooding-lack-of-aid-conditions-worsen-for-palestinians"&gt;&amp;#x27;Life in Gaza simply miserable&amp;#x27;: Amid flooding, lack of aid, conditions &amp;#x27;worsen&amp;#x27; for Palestinians&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>Israeli opposition leader warns of ‘point of no return’ for democracy</title>
-    <id>urn:newsdigest:86142bb4306cbe606774dfa02087999c8fcee77e</id>
-    <link href="https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss" rel="alternate" />
-    <published>2026-11-09T10:41:16Z</published>
-    <updated>2026-11-09T10:41:16Z</updated>
-    <content type="html">&lt;p&gt;Israeli President Isaac Herzog has tasked opposition leader Gadi Eisenkot with forming a new government, giving him six weeks to assemble a coalition that could replace Prime Minister Benjamin Netanyahu. The decision was made on Sunday evening in Israel.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss"&gt;Israeli opposition leader warns of ‘point of no return’ for democracy&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/video/20261109-israel-s-opposition-leader-gadi-eisenkot-has-six-weeks-to-form-a-government"&gt;Israel&amp;#x27;s opposition leader Gadi Eisenkot has six weeks to form a government&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
