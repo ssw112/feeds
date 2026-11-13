@@ -6,6 +6,19 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Apple's Local AI App for Mac Is Coming (Harbor)</title>
+      <link>https://dataval.tplinkdns.com/tldr/y9YXhEEwAwc</link>
+      <guid isPermaLink="false">yt-tldr-1794605425</guid>
+      <pubDate>Fri, 13 Nov 2026 21:30:25 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · AI] Apple’s Private Local AI Server App Harbor Explained&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video reviews Apple’s private local AI app Harbor, which could turn a Mac into a private AI server for teams. It examines privacy, model limits, clustering, and benchmarks. The host says Harbor may help offices with data restrictions, but many claims remain unverified. For solo users, the practical step is to try free local AI today.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video claims Harbor screenshots and benchmarks, but private preview, model support, and cluster claims remain unverified.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Install LM Studio today: it is free, runs local AI models, and batches requests for faster replies.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=y9YXhEEwAwc" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 6,070 tokens • Output: 4,053 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic</title>
       <link>https://dataval.tplinkdns.com/tldr/vlfCjWuv4es</link>
       <guid isPermaLink="false">yt-tldr-1794487303</guid>
@@ -2374,18 +2387,6 @@
 &lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Відео належить думкам та спекуляциям; конкретних доказів для тверджень про майбутнє виборче поведінку або зміни політики не наведено.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=f1lCdgsU3_M" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Nara/nemotron-3-super-free • Input: 20,309 tokens • Output: 2,068 tokens&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Can a Mac Mini Replace your $200 AI Subscription?</title>
-      <link>https://dataval.tplinkdns.com/tldr/3R7yba577uA</link>
-      <guid isPermaLink="false">yt-tldr-1791342566</guid>
-      <pubDate>Wed, 07 Oct 2026 03:09:26 GMT</pubDate>
-      <description>&lt;div&gt;
-&lt;h2&gt;[ACTION · TECH] Mac Mini cannot replace a $200 AI subscription; local model offers far less value&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explains that a $1,299 Mac Mini running the best local model (Qwen 3.8‑27B) produces at most $79‑$187 worth of AI tokens per month, far below the $200 subscription’s value, because the local model is weaker, slower on long prompts, and offers less usage volume. It recommends downgrading the AI plan or testing with cheap hosted tokens before buying hardware.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video accurately cites plan closures and model gaps; its token‑value math is optimistic but overall reliable.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3R7yba577uA" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Nara/nemotron-3-super-free • Input: 5,190 tokens • Output: 1,217 tokens&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
