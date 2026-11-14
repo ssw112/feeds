@@ -6,6 +6,19 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>There’s a Second App Store for Your Mac (And It’s Free) - How To Use Homebrew</title>
+      <link>https://dataval.tplinkdns.com/tldr/oy49gvlC4eE</link>
+      <guid isPermaLink="false">yt-tldr-1794642201</guid>
+      <pubDate>Sat, 14 Nov 2026 07:43:21 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Install Homebrew to Unlock a Free Mac App Store&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Homebrew is a command‑line package manager that lets Mac users install and update thousands of apps—both niche utilities and mainstream software—directly from the developer’s servers. By pasting a single command from brew.sh into Terminal, you add Homebrew, then use “brew install &lt;app&gt;” to get any app instantly, with built‑in SHA256 checks and Gatekeeper compliance. It expands the Mac ecosystem beyond the App Store, saving time and avoiding multiple download sites.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video claims Homebrew downloads official builds and verifies SHA256; this is true per Homebrew documentation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Run the install command from brew.sh in Terminal to add Homebrew, then type brew install &lt;app&gt; to get any Mac app instantly.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=oy49gvlC4eE" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,540 tokens • Output: 866 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Ideology of Gay Techno Fascism EXPLAINED</title>
       <link>https://dataval.tplinkdns.com/tldr/s4Vny1DZWeA</link>
       <guid isPermaLink="false">yt-tldr-1794641592</guid>
@@ -2375,18 +2388,6 @@
 &lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video cites benchmark data and Llama CPP thread; claims match measured results, no evident misinformation or clickbait.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=WoGwVXFmWzU" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Nara/nemotron-3-super-free • Input: 4,247 tokens • Output: 1,732 tokens&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The oil apocalypse is here</title>
-      <link>https://dataval.tplinkdns.com/tldr/OETnuwwsv9U</link>
-      <guid isPermaLink="false">yt-tldr-1791343828</guid>
-      <pubDate>Wed, 07 Oct 2026 03:30:28 GMT</pubDate>
-      <description>&lt;div&gt;
-&lt;h2&gt;[WORLD] Oil shock, shipping crisis and diesel shortage drive global fuel prices to record highs&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video claims that simultaneous oil supply shocks from Iran, Russia‑Ukraine conflict and Houthi attacks, combined with blocked shipping routes and damaged refineries, have slashed global diesel output and pushed the crack spread to historic highs, driving diesel prices above $200 per barrel. It warns that this will raise costs for trucking, agriculture, manufacturing and shipping, leading to higher food, goods and transport prices worldwide.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video cites real conflicts but extrapolates price spikes without citing sources; claims of $200/barrel diesel are unverified.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=OETnuwwsv9U" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Nara/nemotron-3-super-free • Input: 8,017 tokens • Output: 1,226 tokens&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
