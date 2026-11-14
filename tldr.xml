@@ -12,9 +12,9 @@
       <pubDate>Sat, 14 Nov 2026 07:43:21 GMT</pubDate>
       <description>&lt;div&gt;
 &lt;h2&gt;[ACTION · TECH] Install Homebrew to Unlock a Free Mac App Store&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Homebrew is a command‑line package manager that lets Mac users install and update thousands of apps—both niche utilities and mainstream software—directly from the developer’s servers. By pasting a single command from brew.sh into Terminal, you add Homebrew, then use “brew install &lt;app&gt;” to get any app instantly, with built‑in SHA256 checks and Gatekeeper compliance. It expands the Mac ecosystem beyond the App Store, saving time and avoiding multiple download sites.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Homebrew is a command‑line package manager that lets Mac users install and update thousands of apps—both niche utilities and mainstream software—directly from the developer’s servers. By pasting a single command from brew.sh into Terminal, you add Homebrew, then use “brew install &amp;lt;app&amp;gt;” to get any app instantly, with built‑in SHA256 checks and Gatekeeper compliance. It expands the Mac ecosystem beyond the App Store, saving time and avoiding multiple download sites.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video claims Homebrew downloads official builds and verifies SHA256; this is true per Homebrew documentation.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Run the install command from brew.sh in Terminal to add Homebrew, then type brew install &lt;app&gt; to get any Mac app instantly.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Run the install command from brew.sh in Terminal to add Homebrew, then type brew install &amp;lt;app&amp;gt; to get any Mac app instantly.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=oy49gvlC4eE" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,540 tokens • Output: 866 tokens&lt;/em&gt;&lt;/p&gt;</description>
     </item>
@@ -286,7 +286,7 @@
       <description>&lt;div&gt;
 &lt;h2&gt;[SCIENCE] The strongest El Niño in 1,000 years threatens global weather, crops, and food prices&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The current El Niño has reached 3.6°C above average Pacific temperatures, potentially the most intense in a millennium. The video details predicted worldwide impacts—wildfires, droughts, floods, coral bleaching, and rising food prices—disproportionately harming poorer regions. Climate change amplifies the event, with effects lasting into 2025 and beyond.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video accurately summarizes El Niño science &amp; impacts; claims align with peer-reviewed data; no major misinformation detected.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video accurately summarizes El Niño science &amp;amp; impacts; claims align with peer-reviewed data; no major misinformation detected.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=LFV15grLtzs" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 14,159 tokens • Output: 3,308 tokens&lt;/em&gt;&lt;/p&gt;</description>
     </item>
