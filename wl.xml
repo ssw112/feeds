@@ -6,31 +6,77 @@
     <description>Summaries of longer YouTube videos and podcasts.</description>
     <language>en</language>
     <item>
+      <title>AI Article: 31 Life-Changing Ways to Use Claude in 2027</title>
+      <link>https://dataval.tplinkdns.com/article/KDyPHt4lW60</link>
+      <guid isPermaLink="false">yt-summary-1794704405</guid>
+      <pubDate>Sun, 15 Nov 2026 01:00:05 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[LIST · 31] 31 Life-Changing Ways to Use Claude in 2027&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Premise:&lt;/strong&gt; This video is for tech enthusiasts and DIYers, showcasing creative, advanced, and unconventional use cases for Claude across software, hardware hacking, research, and daily life.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Remove TV ads&lt;/strong&gt; - Claude Code rewrote a smart TV's software using the store listing, stripping out ads and bloatware to add a custom calendar screensaver.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Build a dictation microphone&lt;/strong&gt; - Claude selected hardware parts, designed the circuit, wrote the firmware, and modeled a 3D-printable case for a custom microphone.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Air conditioning interface&lt;/strong&gt; - Claude generated a working custom air conditioner controller for a taskbar based on user notes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jailbreak a Kindle&lt;/strong&gt; - Claude removed Amazon bloatware and connected the device to a private network, turning it into a home dashboard.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fix Wi-Fi router&lt;/strong&gt; - Claude Code analyzed a photo of an old router, adjusted settings, and improved speeds by 8X.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Print daily email&lt;/strong&gt; - Claude was pointed at a cheap Bluetooth receipt printer to print emails every morning like a newspaper.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Home security drone&lt;/strong&gt; - Claude Code turned a spare phone and DJI drone into an autonomous home security system linked to an alarm without cloud storage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Repurpose old iPad&lt;/strong&gt; - Claude accessed an old 2010 or 2012 iPad and turned it into a smart home wall panel interface.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reverse engineer BlackBerry&lt;/strong&gt; - A user bought a used BlackBerry for $60 and used Claude Code to reverse engineer it for a pocket device with a physical keyboard.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cancel software subscriptions&lt;/strong&gt; - A user had Claude build replacement software apps for them, reducing their bills down to six total.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Agent negotiation&lt;/strong&gt; - Anthropic gave 69 employees Claude agents that independently closed almost 200 buying and selling deals with each other.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automated Hinge dating&lt;/strong&gt; - Claude Code ran an Android phone with Hinge and preference text files, generating 25 matches a day.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Detect crypto miners&lt;/strong&gt; - Claude built a temperature monitor and identified a hidden crypto miner running up CPU usage and overheating a Mac.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Find car backdoors&lt;/strong&gt; - Claude Code scanned a Civic head unit and found an always-listening voice assistant, call recorder, and vendor backdoor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sweep for hidden devices&lt;/strong&gt; - Claude checked hotel rooms and Airbnbs for Wi-Fi cameras, hidden trackers, spyware, and local Bluetooth devices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research cancer treatment&lt;/strong&gt; - A stage-four breast cancer patient used a team of 30 Claude agents to research her condition and build a biopsy plan improved by a lab.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Find new planets&lt;/strong&gt; - Claude wrote 1,500 scripts to search 7 years of NASA telescope data and identified new planet candidates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discover CRISPR enzymes&lt;/strong&gt; - Anthropic pointed 1,000 Claude agents at a DNA database and found a new CRISPR-like enzyme.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Localize children's games&lt;/strong&gt; - Claude extracted audio voices from an older kids' game, translated them to French, and re-voiced them using free local voice models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Child web developer&lt;/strong&gt; - A 9-year-old built an entire personal website just by talking to Claude Code.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3D room planner&lt;/strong&gt; - Claude Opus 5.5 took room size, photos, and specs to build a 3D walk-through planner for furniture placement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Genealogy research&lt;/strong&gt; - Claude took birth records and traced a family tree back five generations in the Czech Republic.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Build free baby tracker&lt;/strong&gt; - A user had Claude rebuild a subscription-based baby tracking app as a free alternative.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Drone flight simulator&lt;/strong&gt; - Claude built a skill and website to let users assemble drones virtually and practice flying them in a realistic simulation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Information compression&lt;/strong&gt; - Claude digested 40 hours of developer podcasts and created a concise, high-density playbook.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Decompile video games&lt;/strong&gt; - A user decompiled Call of Duty: Modern Warfare 2 in a month using Claude to rebuild and customize it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Game concept discovery&lt;/strong&gt; - Claude mapped 150,000 Steam games on a graph and identified market gaps to generate novel video game concepts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automated night photography&lt;/strong&gt; - Claude Code controlled a camera pointed out a window all night to take creative photos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Market research&lt;/strong&gt; - A user leveraged Claude to conduct complete market research tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fitness and health tracking&lt;/strong&gt; - A user had Claude monitor glucose and analyze their genome to improve health.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personalized pet therapies&lt;/strong&gt; - Claude aided in developing personalized medical therapies for pets.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Count check:&lt;/strong&gt; title promises 31, found 31.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video features no sponsored or affiliate product placements in the transcript itself, though a paid course and YouTube subscription are promoted in the intro and outro.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=KDyPHt4lW60" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,882 tokens • Output: 1,150 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI Article: 13 Mind-Blowing AI Hacks That Can Actually Change Your Life</title>
       <link>https://dataval.tplinkdns.com/article/yMKHtJpgZzc</link>
       <guid isPermaLink="false">yt-summary-1794702626</guid>
       <pubDate>Sun, 15 Nov 2026 00:30:26 GMT</pubDate>
       <description>&lt;div&gt;
 &lt;h2&gt;[LIST · 12] Practical AI Hacks for Savings, Productivity, and Learning&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Premise:&lt;/strong&gt; Practical AI techniques for saving money, optimizing hardware, privacy, and learning, using tools like Claude, Grok, and Google AI.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Premise:&lt;/strong&gt; Practical AI applications for saving money, optimizing hardware, privacy, and learning, using tools like Claude, Grok, and Google AI.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;AI Phone Negotiation&lt;/strong&gt; Use an AI agent to call your internet provider to negotiate lower rates. The video demonstrates using Grokbot to call Comcast, where the bot claimed a competitor had a lower price, turned down upsells, and secured a rate drop to $45/month, saving nearly $500 annually. &lt;em&gt;Needs:&lt;/em&gt; Grokbot, Muse, or similar agent platform.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hardware Optimization via Claude Code&lt;/strong&gt; Give your PC or Mac specs to Claude Code to identify performance bottlenecks. In the example, Claude identified SSD speed issues, RAM inefficiencies, and a wrong monitor cable, resulting in a 3x improvement in monitor quality and faster system speeds without new hardware purchases.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Automated Data Broker Removal&lt;/strong&gt; Use an AI agent to find and submit opt-out requests to data brokers like Apollo and ZoomInfo. The agent writes customized deletion requests citing local privacy laws (GDPR, CCPA, PIPEDA) and saves the emails as legal proof of removal requests.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Survival LLM&lt;/strong&gt; Install a free local app that combines a large language model with gigabytes of Wikipedia articles, medical guides, and US military survival manuals. This allows you to ask natural language questions for emergency information offline, such as first aid or survival tactics.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Big Arrow UI Helper&lt;/strong&gt; Use the free tool "Big Arrow" to let AI agents like Claude Code or Codex draw giant arrows and text on your screen. This visually guides you to specific buttons or UI elements, solving the issue of agents giving vague instructions like "click this button."&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ASD-STE Writing Style&lt;/strong&gt; Instruct AI models to write using "ASD-STE," an old aircraft repair manual style. This prunes flowery vocabulary, resulting in simple, stoic, human-like text and potentially saving on token costs by reducing word count.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CarPlay AI Integration&lt;/strong&gt; Use Apple CarPlay integration (available for Claude since October 29) to chat with AI agents while driving. This turns long commutes into interactive learning sessions or podcasts, allowing you to ask questions or learn new subjects hands-free.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Google AI Flight Tracking&lt;/strong&gt; Use Google's AI mode to track flight prices by describing your trip in plain English and asking it to "track these flight prices for me." Google monitors price fluctuations and alerts you when prices drop below a reasonable historical threshold, potentially saving 30-50%.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Claude Remote Control&lt;/strong&gt; Use the Claude remote control feature to manage coding tasks from your phone. This allows you to check on blockers or progress while away from your computer (e.g., at the gym), minimizing idle time for your AI agent.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Google AI Interactive Builders&lt;/strong&gt; Use Google's AI mode to generate custom interactive tools for scientific queries. For example, searching "pH scale" creates an interactive scale where you can ask follow-ups like "show me lemon on the pH scale," building a visual tool based on real data.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI Sports Coaching&lt;/strong&gt; Upload a video of yourself performing a sport (e.g., tennis or running) to Claude. The AI uses libraries to track body positions and bounding boxes to analyze your form, providing feedback comparable to a $150-$200/hour professional coach for a fraction of the cost.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Smart Glasses Vision Recognition&lt;/strong&gt; Use AI vision recognition with smart glasses (like Meta or Ray-Bans) to identify objects in your environment. The video cites a startup called One Shot that uses this to identify ripe flowers in a greenhouse, a technique applicable to various industries for quality control or picking tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grokbot Internet Negotiation&lt;/strong&gt; - Uses AI to call ISPs, citing competitor prices to lower bills; video claims ~$500/year savings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claude Code PC Optimization&lt;/strong&gt; - Analyzes system logs to fix SSD speeds, RAM, and cable issues, improving performance for free.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Data Broker Removal&lt;/strong&gt; - Agents find opt-out pages and send customized deletion requests citing local privacy laws like GDPR.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Survival LLM&lt;/strong&gt; - Free offline app combining Wikipedia with a small LLM for medical and military survival queries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Big Arrow&lt;/strong&gt; - Free tool allowing Claude Code to draw giant on-screen arrows and text to guide user clicks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ASD-STE Writing Style&lt;/strong&gt; - Prompting AI to use aircraft repair manual style removes flowery language and saves tokens.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claude CarPlay Integration&lt;/strong&gt; - Voice-chat with Claude via Apple CarPlay for interactive learning or entertainment during drives.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google AI Flight Tracking&lt;/strong&gt; - Use plain English in Google Search to track flight prices and receive alerts for drops.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claude Remote Control&lt;/strong&gt; - Monitor and unblock Claude Code sessions from your phone to minimize agent idle time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google AI Interactive Builders&lt;/strong&gt; - Search queries like "pH scale" generate custom interactive tools and visualizations in AI Overviews.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claude Sports Coaching&lt;/strong&gt; - Upload video of yourself playing sports; AI analyzes form and provides feedback for pennies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One Shot Vision Recognition&lt;/strong&gt; - Uses smart glasses and AI to identify ripe flowers or items in production lines for efficiency.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Count check:&lt;/strong&gt; title promises 13, found 12. The video lists 12 distinct hacks; the 13th item is likely the final general mention of "automating work in Claude" which is merged into the remote control item or considered a general conclusion rather than a distinct hack in the transcript flow.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; No sponsored items detected. Claims about savings and performance are anecdotal examples from the video. All items are distinct use cases.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Count check:&lt;/strong&gt; title promises 13, found 12. The video lists 12 distinct hacks; the 13th item is likely the "Claude in Chrome" automation mentioned in the final segment, which is distinct from the previous items but often grouped with general automation, or the title counts the intro/outro as a "hack" erroneously. However, strictly counting distinct techniques presented: 1. Grokbot, 2. Claude PC, 3. Data Brokers, 4. Survival LLM, 5. Big Arrow, 6. ASD-STE, 7. CarPlay, 8. Flight Tracking, 9. Remote Control, 10. Google AI Builders, 11. Sports Coaching, 12. One Shot. The final segment mentions "Claude in Chrome" recording. I will include it as item 13 to match the title's promise if it is distinct. Let's re-read. "Have you guys tried automating your work in Claude recently? ... Claude in Chrome extension ... record yourself". This is a distinct hack. I missed it in the initial count. Let's add it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Claims of specific savings and performance gains are anecdotal. One Shot is a startup demo. No sponsored reads detected.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yMKHtJpgZzc" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,843 tokens • Output: 1,042 tokens&lt;/em&gt;&lt;/p&gt;</description>
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,796 tokens • Output: 796 tokens&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI Article: People Are Using Claude for Wild Things Now</title>
@@ -38,105 +84,39 @@
       <guid isPermaLink="false">yt-summary-1794702014</guid>
       <pubDate>Sun, 15 Nov 2026 00:20:14 GMT</pubDate>
       <description>&lt;div&gt;
-&lt;h2&gt;[LIST · 25] 25 Creative and Practical Use Cases for Claude AI&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Premise:&lt;/strong&gt; A compilation of 25 distinct projects where users leveraged Claude AI for hardware, software, and personal life solutions.&lt;/p&gt;
+&lt;h2&gt;[LIST · 25] 25 Wild Real-World Use Cases for Claude&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Premise:&lt;/strong&gt; A curated list of 25 creative, technical, and practical projects where users leveraged Claude to solve problems, build tools, or automate tasks.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Bluetooth Phone Tracker&lt;/strong&gt;
-Claude built a custom app to track a lost phone via Bluetooth signal strength when "Find My" was disabled. The user walked around the office watching the signal number climb to locate the device.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; A phone with Bluetooth and a development environment to build the app.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;3D Printed Lock Picking Robot&lt;/strong&gt;
-A 3D-printed machine with motors and sensors uses Claude as the "brain" to read pin resistance over Wi-Fi and decide the next move live, mimicking human lock-picking. The machine took over 200 hours to build and successfully picks locks.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; 3D printer, motors, sensors, and Wi-Fi connectivity.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;3D Printed Bridge Design&lt;/strong&gt;
-Claude designed a bridge spanning two feet, which was 3D printed and tested against other AI models. The Claude-designed bridge held approximately 130 pounds, significantly outperforming GPT's version which held 17.5 pounds.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; 3D printer and weights for testing.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;iPhone Backup Security Audit&lt;/strong&gt;
-Claude Code analyzed an iPhone backup file to find security risks. It revealed an old iPad had never been signed out of, allowing a stranger to access photos and messages for two years, and identified an app tracking location every 15 minutes.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; An iPhone backup file and Claude Code.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wi-Fi Speed Optimization&lt;/strong&gt;
-Claude analyzed a photo of a router and its settings to identify six configurations slowing down the internet, such as crowded channels and old Wi-Fi modes. After applying the fixes, the user's internet speed increased by about eight times.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; A router and access to its admin settings.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ISP Privacy Monitor&lt;/strong&gt;
-A free app built with Claude monitors the network to detect if an Internet Service Provider is viewing website requests in plain text. It runs on Mac and Windows using an existing Claude subscription to avoid API costs.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; Mac or Windows OS and a Claude subscription.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lego Robot Design&lt;/strong&gt;
-Claude designed a Lego robot, verified that all 1,100 bricks connect correctly, wrote a step-by-step building booklet, and priced every part for ordering.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; Lego bricks and a budget for parts.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dental 3D Scan Viewer&lt;/strong&gt;
-Claude Code processed an 800-image 3D dental scan to build a custom viewer. The resulting interface was described as nicer than the dentist's proprietary software, allowing users to visualize their jaw data.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; A 3D dental scan file.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Game Modding Tool&lt;/strong&gt;
-A free tool allows Claude Code to mod PC games like Terraria and Age of Empires. Users can prompt Claude to add new features or mechanics, with examples showing cross-game integrations and custom gameplay elements.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; PC games and the specific modding tool.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pothole Cost Simulation&lt;/strong&gt;
-Claude took six photos of a pothole, rebuilt it in 3D, and created an animation simulating the financial cost to the town. The user sent this to the local council, resulting in the pothole being fixed two days later.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; Photos of the pothole and access to local council.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tennis Stroke Analysis&lt;/strong&gt;
-A player filmed their strokes and provided the metrics to Claude alongside pro player data. Claude identified the player's weaker side and corrected a misconception about their forehand, providing specific coaching insights.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; Video footage of tennis strokes and performance data.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cancer Care Skill ("F Cancer")&lt;/strong&gt;
-A free skill called "F Cancer" processes medical reports to create plain-English summaries and action steps. It uses trusted databases for lookups and syncs to Google Docs for family access, helping patients ask better questions to doctors.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; Medical reports and a Google account.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;TV Ad Removal and OS Cleanup&lt;/strong&gt;
-A user reverse-engineered their TV to remove ads and cleared out the operating system for better performance. They also installed a custom 3D apartment scene on the TV interface.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; A smart TV and technical knowledge for reverse engineering.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Anatomy 3D Skill&lt;/strong&gt;
-A free skill called "Anatomy" generates interactive 3D models of machines or concepts from a one-line description. Users can spin and pull apart parts of jet engines, gearboxes, or even abstract ideas like how websites remember data.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; Access to the "Anatomy" skill.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lab Equipment Standard&lt;/strong&gt;
-Anthropic created a standard allowing Claude to control various lab machines, including microscopes, robotic arms, and lasers. A quantum computing company uses it to track laser alignment with 99% success rate without human intervention.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; Lab equipment compatible with the new standard.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Car OBD Dashboard&lt;/strong&gt;
-Claude Code connected to a cheap OBD reader in a car and built a live dashboard on a laptop in about five minutes. It displays real-time data such as speed and engine metrics.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; A car with an OBD port and a cheap OBD reader.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Deleted Photo Recovery&lt;/strong&gt;
-Claude Code could not recover deleted photos from an old iPhone but recommended checking other sources. The user found a 2019 backup on their mother's laptop, recovering over 2,000 photos, including a video of their grandfather.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; An old iPhone and access to potential backup locations.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Doom Mod for Claude Code&lt;/strong&gt;
-A mod allows users to play the game Doom while Claude Code is working in the background. The video notes this may distract from monitoring the AI's progress but is available for those who want to play.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; Claude Code and the Doom mod.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CNC Table Cutting File&lt;/strong&gt;
-Claude converted a table design into a cutting file for a CNC machine. Users can take this file to local wood shops to have pieces cut and delivered, similar to IKEA but with custom designs.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; A table design and access to a CNC wood cutting service.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Robot Arm Printer Retrieval&lt;/strong&gt;
-Claude designed an object, 3D printed it, and then drove a robot arm to retrieve it from the printer. The most challenging part was programming the arm to open the printer lid.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; A 3D printer and a robot arm.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;House Furnishing Visualization&lt;/strong&gt;
-Claude analyzed a video of a user's current furniture and a Zillow link for a new house. It built a 3D model of the new house and placed the user's actual furniture inside to visualize the layout.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; A video of current furniture and a link to a new property.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Allergy Treatment Design&lt;/strong&gt;
-Claude generated 35,000 designs for a "hand" that pulls allergy tags off cells. A lab tested the best designs, which worked for about 20 different types of allergies, offering a new direction for allergy treatment.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; Scientific lab resources and Claude for design generation.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Personal Spotify for Alexa&lt;/strong&gt;
-A user built a system using Claude Code to allow Alexa to play Spotify songs from a local library of downloaded tracks. This eliminates the need for a Spotify subscription.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; Alexa, a local library of downloaded Spotify songs, and Claude Code.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Broke Finance App&lt;/strong&gt;
-An open-source app called "Broke" reverse-engineers Rocket Money to create an AI finance dashboard. It helps users allocate money based on tax brackets and insurance, supporting various AI models including Claude.
-No steps given.
-&lt;em&gt;Needs:&lt;/em&gt; The "Broke" app&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,818 tokens • Output: 2,048 tokens&lt;/em&gt;&lt;/p&gt;</description>
+&lt;li&gt;&lt;strong&gt;Bluetooth Phone Tracker&lt;/strong&gt; - Built an app to locate a lost phone by tracking signal strength, finding it in the office.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lock-Picking Robot&lt;/strong&gt; - 3D-printed machine with sensors and motors; Claude acts as the brain to pick locks via Wi-Fi.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3D-Printed Bridge&lt;/strong&gt; - Designed a two-foot bridge that held 130 pounds, outperforming GPT's 17.5-pound design in a stress test.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iPhone Security Audit&lt;/strong&gt; - Analyzed a backup file to find an old iPad still signed in and an app tracking location every 15 minutes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wi-Fi Speed Optimizer&lt;/strong&gt; - Identified six router settings slowing down connection; changes resulted in an eight-fold speed increase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ISP Privacy Monitor&lt;/strong&gt; - Built a Mac/Windows app to detect plain-text website tracking by internet providers using a Claude subscription.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lego Robot Designer&lt;/strong&gt; - Designed a robot, verified 1,100 brick connections, wrote a building booklet, and priced all parts for ordering.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dental Scan Viewer&lt;/strong&gt; - Built a custom 3D viewer for an 800-image jaw scan, offering better visualization than the dentist's software.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Game Modding Tool&lt;/strong&gt; - Created a free tool allowing Claude Code to mod PC games like Terraria and Age of Empires.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pothole Cost Simulator&lt;/strong&gt; - Rebuilt a pothole in 3D from photos to visualize repair costs, leading to a fix within two days.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tennis Stroke Analyzer&lt;/strong&gt; - Compared player stroke data with pro metrics to identify weak sides and correct technical errors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cancer Care Skill&lt;/strong&gt; - "F Cancer" skill summarizes medical reports into plain-English action steps and syncs to Google Docs for families.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TV Ad Blocker&lt;/strong&gt; - Reverse-engineered TV OS to remove ads and replace the interface with a custom 3D apartment view.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anatomy 3D Skill&lt;/strong&gt; - Generates interactive 3D models of machines or concepts (e.g., jet engines, website memory) from one-line descriptions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lab Equipment Standard&lt;/strong&gt; - Anthropic's standard allows Claude to control microscopes and robotic arms, achieving 99% success in quantum labs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Car OBD Dashboard&lt;/strong&gt; - Connected a cheap OBD reader to a car; Claude built a live dashboard displaying engine data in five minutes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deleted Photo Recovery&lt;/strong&gt; - Guided user to find a 2019 backup on a relative's laptop, recovering over 2,000 deleted photos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Doom Mod for Claude&lt;/strong&gt; - A mod that drops the user into Doom while Claude Code is processing tasks in the background.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CNC Table Cutter&lt;/strong&gt; - Converted a table design into a cutting file for a local CNC shop to fabricate custom furniture.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robot Arm Printer&lt;/strong&gt; - Designed an object, 3D printed it, and programmed a robot arm to retrieve it from the printer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;House Furnishing Sim&lt;/strong&gt; - Used video of current furniture and a Zillow link to build a 3D walkthrough of a new home.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Allergy Treatment Design&lt;/strong&gt; - Generated 35,000 designs for a device that removes allergy tags from cells, tested on 20 types.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spotify for Alexa&lt;/strong&gt; - Built a custom integration allowing Alexa to play locally downloaded Spotify songs without a subscription.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Broke Finance App&lt;/strong&gt; - Open-source reverse-engineer of Rocket Money; creates an AI finance dashboard and tax allocation advice.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project Links&lt;/strong&gt; - The video provides free project links in the description for all 25 use cases to replicate them.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Count check:&lt;/strong&gt; title promises 25, found 25.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; No sponsored items detected. Claims regarding specific performance metrics (e.g., 130 lbs, 99% success) are attributed to the video's demonstrations.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GMcLy4Gn7GU" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,771 tokens • Output: 1,104 tokens&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI Article: 7 уровней спора. От хейтера в комментах до философа</title>
