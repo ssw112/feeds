@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-11-15T09:50:05Z</updated>
+  <updated>2026-11-15T10:07:24Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>SpaceX’s Starship captured by launchpad arms in dramatic first</title>
+    <id>urn:newsdigest:6048bb24b8ab18ea382a6f501f14e531bfd88371</id>
+    <link href="https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss" rel="alternate" />
+    <published>2026-11-15T10:07:24Z</published>
+    <updated>2026-11-15T10:07:24Z</updated>
+    <content type="html">&lt;p&gt;SpaceX’s Starship returned to Earth and was caught by mechanical arms at a launchpad. The operation involved the reusable rocketship and marked the first such catch, according to the reports. One report said SpaceX had failed to catch a booster the previous day before recapturing Starship.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss"&gt;SpaceX’s Starship captured by launchpad arms in dramatic first&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss"&gt;SpaceX’s Starship nails a smooth return with historic catch&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/spacex-makes-rocketry-history-by-recapturing-massive-reusable-rocketship"&gt;SpaceX makes rocketry history by recapturing massive reusable rocketship&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>US nationwide flight ground stop: "Our routers got overloaded with data"</title>
     <id>urn:newsdigest:c519b187be0a030977a1aae3a1ebbeb8063b6b65</id>
@@ -1598,13 +1606,5 @@
     <published>2026-11-10T14:40:24Z</published>
     <updated>2026-11-10T14:40:24Z</updated>
     <content type="html">&lt;p&gt;Dana White, CEO of the Ultimate Fighting Championship, appeared at the White House in Washington. He met with President Donald Trump and was offered the position of White House press secretary. White declined the offer.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss"&gt;UFC CEO Dana White takes the White House podium during Washington visit&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/video/20261110-dana-white-ufc-chief-declines-trump-s-white-house-job-offer"&gt;Dana White: UFC chief declines Trump’s White House job offer&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>Can the Republican Party survive Trump?</title>
-    <id>urn:newsdigest:b5c039ff3c77c0fdece011269cba86dcb22dc462</id>
-    <link href="https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss" rel="alternate" />
-    <published>2026-11-10T14:22:36Z</published>
-    <updated>2026-11-10T14:22:36Z</updated>
-    <content type="html">&lt;p&gt;The U.S. midterm elections have prompted questions about the future of the Republican Party, with Trump and Democrats playing key roles. The results are expected to have worldwide ripple effects.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss"&gt;Can the Republican Party survive Trump?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.straitstimes.com/world/from-iran-to-trade-how-the-us-midterms-impact-the-rest-of-the-world"&gt;Worldwide ripple effects of midterms&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xsnqp5/"&gt;1 comment (removed)&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xsnqp5"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
   </entry>
 </feed>
