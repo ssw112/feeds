@@ -6,6 +6,30 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Forget RAG &amp; Memory.MD: Build A Temporal Graph as AI Memory</title>
+      <link>https://dataval.tplinkdns.com/tldr/MPlg31ZhrQo</link>
+      <guid isPermaLink="false">yt-tldr-1794703862</guid>
+      <pubDate>Sun, 15 Nov 2026 00:51:02 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[AI] Temporal Graph Memory Outperforms Standard RAG&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video reviews a 2026 academic preprint from top universities introducing MedGraph, a temporal graph-based memory system designed for LLM agents handling long-horizon interactions like medical consultations. Standard RAG and memory tools often fail because they mix up patient records, lose track of historical timelines, or rely on aggressive summarization that discards vital data. MedGraph preserves raw dialogues, builds a structured clinical fact graph with temporal chains, and maintains a dedicated patient profile for safety facts. Testing on the Med Memory Bench shows MedGraph achieves up to 60% accuracy, outperforming older vector-based RAG baselines. However, the video notes that a 60% ceiling proves current AI memory is still unreliable for high-stakes professional fields.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video accurately summarizes a specific research preprint on temporal graph memory, noting its benchmark gains while honestly highlighting its 60% failure rate.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=MPlg31ZhrQo" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 7,243 tokens • Output: 260 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hack Your Things</title>
+      <link>https://dataval.tplinkdns.com/tldr/HlvMP6J0uUQ</link>
+      <guid isPermaLink="false">yt-tldr-1794703239</guid>
+      <pubDate>Sun, 15 Nov 2026 00:40:39 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Customizing Mobile Devices and E-Readers with Personal Software Hacks&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video showcases three personal hardware modding projects: an Angry Birds-inspired custom phone launcher, a workaround to run Facebook Messenger on a locked-down Punkt MP02 dumbphone, and open-source firmware modifications on an XTE Ink X3 e-reader. By flashing CrossPoint firmware, the creator added a custom menu button that sends HTTP POST requests to trigger GitHub Actions, automatically publishing completed books to a personal website reading list. The creator advocates for consumer rights to modify owned hardware, contrasting open devices with restrictive manufacturer ecosystems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video demonstrates working custom code on the e-reader, though the Punkt phone mod remains an unreleased claim.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HlvMP6J0uUQ" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,127 tokens • Output: 212 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Anti-Life or How Capitalism Will Die (with Math)</title>
       <link>https://dataval.tplinkdns.com/tldr/M-_W1qVE9Ks</link>
       <guid isPermaLink="false">yt-tldr-1794697888</guid>
