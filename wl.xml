@@ -6,6 +6,149 @@
     <description>Summaries of longer YouTube videos and podcasts.</description>
     <language>en</language>
     <item>
+      <title>AI Article: People Are Using Claude for Wild Things Now</title>
+      <link>https://dataval.tplinkdns.com/article/GMcLy4Gn7GU</link>
+      <guid isPermaLink="false">yt-summary-1794702014</guid>
+      <pubDate>Sun, 15 Nov 2026 00:20:14 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[LIST · 25] 25 Creative and Practical Use Cases for Claude AI&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Premise:&lt;/strong&gt; A compilation of 25 distinct projects where users leveraged Claude AI for hardware, software, and personal life solutions.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Bluetooth Phone Tracker&lt;/strong&gt;
+Claude built a custom app to track a lost phone via Bluetooth signal strength when "Find My" was disabled. The user walked around the office watching the signal number climb to locate the device.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; A phone with Bluetooth and a development environment to build the app.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3D Printed Lock Picking Robot&lt;/strong&gt;
+A 3D-printed machine with motors and sensors uses Claude as the "brain" to read pin resistance over Wi-Fi and decide the next move live, mimicking human lock-picking. The machine took over 200 hours to build and successfully picks locks.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; 3D printer, motors, sensors, and Wi-Fi connectivity.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3D Printed Bridge Design&lt;/strong&gt;
+Claude designed a bridge spanning two feet, which was 3D printed and tested against other AI models. The Claude-designed bridge held approximately 130 pounds, significantly outperforming GPT's version which held 17.5 pounds.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; 3D printer and weights for testing.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iPhone Backup Security Audit&lt;/strong&gt;
+Claude Code analyzed an iPhone backup file to find security risks. It revealed an old iPad had never been signed out of, allowing a stranger to access photos and messages for two years, and identified an app tracking location every 15 minutes.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; An iPhone backup file and Claude Code.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wi-Fi Speed Optimization&lt;/strong&gt;
+Claude analyzed a photo of a router and its settings to identify six configurations slowing down the internet, such as crowded channels and old Wi-Fi modes. After applying the fixes, the user's internet speed increased by about eight times.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; A router and access to its admin settings.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ISP Privacy Monitor&lt;/strong&gt;
+A free app built with Claude monitors the network to detect if an Internet Service Provider is viewing website requests in plain text. It runs on Mac and Windows using an existing Claude subscription to avoid API costs.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; Mac or Windows OS and a Claude subscription.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lego Robot Design&lt;/strong&gt;
+Claude designed a Lego robot, verified that all 1,100 bricks connect correctly, wrote a step-by-step building booklet, and priced every part for ordering.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; Lego bricks and a budget for parts.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dental 3D Scan Viewer&lt;/strong&gt;
+Claude Code processed an 800-image 3D dental scan to build a custom viewer. The resulting interface was described as nicer than the dentist's proprietary software, allowing users to visualize their jaw data.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; A 3D dental scan file.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Game Modding Tool&lt;/strong&gt;
+A free tool allows Claude Code to mod PC games like Terraria and Age of Empires. Users can prompt Claude to add new features or mechanics, with examples showing cross-game integrations and custom gameplay elements.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; PC games and the specific modding tool.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pothole Cost Simulation&lt;/strong&gt;
+Claude took six photos of a pothole, rebuilt it in 3D, and created an animation simulating the financial cost to the town. The user sent this to the local council, resulting in the pothole being fixed two days later.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; Photos of the pothole and access to local council.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tennis Stroke Analysis&lt;/strong&gt;
+A player filmed their strokes and provided the metrics to Claude alongside pro player data. Claude identified the player's weaker side and corrected a misconception about their forehand, providing specific coaching insights.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; Video footage of tennis strokes and performance data.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cancer Care Skill ("F Cancer")&lt;/strong&gt;
+A free skill called "F Cancer" processes medical reports to create plain-English summaries and action steps. It uses trusted databases for lookups and syncs to Google Docs for family access, helping patients ask better questions to doctors.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; Medical reports and a Google account.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TV Ad Removal and OS Cleanup&lt;/strong&gt;
+A user reverse-engineered their TV to remove ads and cleared out the operating system for better performance. They also installed a custom 3D apartment scene on the TV interface.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; A smart TV and technical knowledge for reverse engineering.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anatomy 3D Skill&lt;/strong&gt;
+A free skill called "Anatomy" generates interactive 3D models of machines or concepts from a one-line description. Users can spin and pull apart parts of jet engines, gearboxes, or even abstract ideas like how websites remember data.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; Access to the "Anatomy" skill.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lab Equipment Standard&lt;/strong&gt;
+Anthropic created a standard allowing Claude to control various lab machines, including microscopes, robotic arms, and lasers. A quantum computing company uses it to track laser alignment with 99% success rate without human intervention.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; Lab equipment compatible with the new standard.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Car OBD Dashboard&lt;/strong&gt;
+Claude Code connected to a cheap OBD reader in a car and built a live dashboard on a laptop in about five minutes. It displays real-time data such as speed and engine metrics.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; A car with an OBD port and a cheap OBD reader.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deleted Photo Recovery&lt;/strong&gt;
+Claude Code could not recover deleted photos from an old iPhone but recommended checking other sources. The user found a 2019 backup on their mother's laptop, recovering over 2,000 photos, including a video of their grandfather.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; An old iPhone and access to potential backup locations.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Doom Mod for Claude Code&lt;/strong&gt;
+A mod allows users to play the game Doom while Claude Code is working in the background. The video notes this may distract from monitoring the AI's progress but is available for those who want to play.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; Claude Code and the Doom mod.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CNC Table Cutting File&lt;/strong&gt;
+Claude converted a table design into a cutting file for a CNC machine. Users can take this file to local wood shops to have pieces cut and delivered, similar to IKEA but with custom designs.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; A table design and access to a CNC wood cutting service.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robot Arm Printer Retrieval&lt;/strong&gt;
+Claude designed an object, 3D printed it, and then drove a robot arm to retrieve it from the printer. The most challenging part was programming the arm to open the printer lid.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; A 3D printer and a robot arm.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;House Furnishing Visualization&lt;/strong&gt;
+Claude analyzed a video of a user's current furniture and a Zillow link for a new house. It built a 3D model of the new house and placed the user's actual furniture inside to visualize the layout.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; A video of current furniture and a link to a new property.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Allergy Treatment Design&lt;/strong&gt;
+Claude generated 35,000 designs for a "hand" that pulls allergy tags off cells. A lab tested the best designs, which worked for about 20 different types of allergies, offering a new direction for allergy treatment.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; Scientific lab resources and Claude for design generation.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personal Spotify for Alexa&lt;/strong&gt;
+A user built a system using Claude Code to allow Alexa to play Spotify songs from a local library of downloaded tracks. This eliminates the need for a Spotify subscription.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; Alexa, a local library of downloaded Spotify songs, and Claude Code.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Broke Finance App&lt;/strong&gt;
+An open-source app called "Broke" reverse-engineers Rocket Money to create an AI finance dashboard. It helps users allocate money based on tax brackets and insurance, supporting various AI models including Claude.
+No steps given.
+&lt;em&gt;Needs:&lt;/em&gt; The "Broke" app&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,818 tokens • Output: 2,048 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Article: 7 уровней спора. От хейтера в комментах до философа</title>
+      <link>https://dataval.tplinkdns.com/article/v2_IiIDItLo</link>
+      <guid isPermaLink="false">yt-summary-1794701998</guid>
+      <pubDate>Sun, 15 Nov 2026 00:19:58 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;Семь уровней спора: от субъективного наблюдения до философских ценностей&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; Автор разбирает семь уровней аргументации — от личных наблюдений до метамоделей и ценностей. Объясняет, почему спор с «уровнем наблюдений» бессмыслен, и как переходить к анализу причин, стимулов, систем и философских посылок.&lt;/p&gt;
+
+&lt;h3&gt;Почему большинство споров в интернете заканчиваются ничем&lt;/h3&gt;
+&lt;p&gt;Автор выстраивает концепцию как матрёшку: каждый следующий уровень закрывает предыдущий. На первом уровне — уровне наблюдений — люди оперируют субъективными фактами. «Я не люблю изюм», «мой дед курил и дожил до ста», «вируса не существует, я не болел». Это не объективная истина, а личный опыт, который оппонент воспринимает как аксиому. Автор приводит примеры Дональда Трампа и типичных комментариев под видео, где один пользователь выражает недовольство, а другой пытается его переубедить. По словам автора, на этом уровне победа невозможна, потому что у субъективного наблюдения нет логического обоснования, с которым можно поспорить. Рекомендуемая стратегия — просто «дропнуть» дискуссию.&lt;/p&gt;
+
+&lt;h3&gt;Уровень механизмов: причинно-следственные связи&lt;/h3&gt;
+&lt;p&gt;Чтобы выйти из тупика, автор предлагает перейти ко второму уровню — анализу механизмов. Вместо спора о том, курил ли дед до ста лет, нужно показать контрпримеры: люди с раком лёгких, одышкой, повышенным давлением. Позиция перестаёт быть бинарной и становится спектральной. На этом уровне, по утверждению автора, спорит Бен Шапиро, выстраивая логические цепочки и заставляя оппонента отвечать на вопросы «почему» и «откуда». Пример с ковидными ограничениями показывает, что локдауны не были направлены на полное побеждение вируса, а на то, чтобы система здравоохранения не рухнула под наплывом пациентов.&lt;/p&gt;
+
+&lt;h3&gt;Уровень стимулов: почему люди выбирают не то, что полезно&lt;/h3&gt;
+&lt;p&gt;Третий уровень отвечает на вопрос, почему люди, зная факты, всё равно принимают «неправильные» решения. Автор ссылается на концепцию предсказуемой иррациональности Дэна Ариели и многофакторную модель принятия решений. Здоровье — лишь один из многих стимулов. Люди обменивают долгосрочное здоровье на краткосрочный комфорт: курят, едят вредную пищу, сидят на эскалаторе вместо прогулки. Автор упоминает принцип Парето, убывающую полезность и когнитивное искажение «предвзятость оптимизма», из-за которого человек считает, что с ним рак или ковид случатся с меньшей вероятностью, чем со среднестатистическим человеком.&lt;/p&gt;
+
+&lt;h3&gt;Уровень систем: габитус и культурные парадигмы&lt;/h3&gt;
+&lt;p&gt;Четвёртый уровень — системы воспитания и культуры. Автор использует термин Пиэра Бурдьё «габитус»: набор привычек и оценок, который человек воспринимает как здравый смысл. Пример с бабушкой в автобусе показывает, что в одной культуре уступка места кажется естественной, в другой — проявлением индивидуализма, в третье — унижением пожилого человека. Каждый участник спора уверен в своей правоте, потому что его позиция встроена в его социальную систему.&lt;/p&gt;
+
+&lt;h3&gt;Уровень моделей: капитализм, рациональный выбор и нудж&lt;/h3&gt;
+&lt;p&gt;Пятый уровень — модели, на которых строятся системы. Автор противопоставляет капитализм и коммунизм как разные модели перераспределения ресурсов, а также модель рационального выбора и теорию подталкивания (nudge theory). Если человек — рациональный агент, достаточно дать ему информацию; если решение зависит от среды, нужно менять саму среду: акцизы на табак, ограничения на кальянные, пропаганда ЗОЖ. «Бытие определяет сознание», — резюмирует автор.&lt;/p&gt;
+
+&lt;h3&gt;Метамодели и патернализм: кто должен принимать решения&lt;/h3&gt;
+&lt;p&gt;Шестой уровень — метамодели, то есть критерии, по которым мы выбираем саму модель. Автор затрагивает патернализм государства, которое считает себя родителем, а граждан — детьми, и поэтому ограничивает их в курении, алкоголе или донорстве органов. Это «тирания знания над незнанием». Автор отмечает, что дискуссии о цензах на выборах или ограничениях во время ковида часто упираются в неосознанные критерии выбора модели, а не в саму модель.&lt;/p&gt;
+
+&lt;h3&gt;Седьмой уровень: философия, безопасность и свобода&lt;/h3&gt;
+&lt;p&gt;На последнем, философском уровне спор ведётся о рамках и ценностях. Безопасность или свобода? Жизнь или достоинство? Автор приводит дилемму пьяного водителя (моральное везение), вопрос об эвтаназии и пример с родителями, откармливающими ребёнка. По его словам, философскую позицию нельзя доказать, можно только аргументировать. Здесь важно не качество логики, а количество и глубина обоснования. Автор завершает, что на этом уровне каждый, вероятно, останется при своём.&lt;/p&gt;
+
+&lt;h3&gt;Проверка реальности&lt;/h3&gt;
+&lt;p&gt;Вердикт по кликбейту: заголовок немного преувеличивает, представляя обучающую концепцию как буквальный путь «от хейтера до философа», хотя сама иерархия уровней представлена последовательно. Достоверность: идеи о когнитивных искажениях, габитусе Бурдьё, биовласти Фуко и модели рационального выбора являются авторской интерпретацией известных концепций, а не независимо подтверждёнными фактами. Контекст: видео не содержит академических критических обзоров этих теорий и альтернативных эпистемологических подходов.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=v2_IiIDItLo" target="_blank"&gt;🎥 Watch the original video on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 26,373 tokens • Output: 4,827 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI Article: This is How We Win</title>
       <link>https://dataval.tplinkdns.com/article/QaDtAOWgKdQ</link>
       <guid isPermaLink="false">yt-summary-1794699615</guid>
