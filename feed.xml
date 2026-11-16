@@ -6,6 +6,39 @@
     <description>Summaries of longer YouTube videos and podcasts.</description>
     <language>en</language>
     <item>
+      <title>AI Article: My FULL Hermes Agent Setup (HermesOS)</title>
+      <link>https://dataval.tplinkdns.com/article/1CLc-VeEivk</link>
+      <guid isPermaLink="false">yt-summary-1794842905</guid>
+      <pubDate>Mon, 16 Nov 2026 15:28:25 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;Inside HermesOS: A Practical Guide to Building a Multi‑Agent Productivity Suite&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; The video walks through setting up HermesOS, a multi‑agent system that builds software, coaches productivity, and manages operations. It shows how to use Discord commands to trigger Coder for app updates, Lifebot for health insights, and Taco Bot for team coordination, all running on a local Mac or a Hostinger VPS.&lt;/p&gt;
+
+&lt;h3&gt;What HermesOS Is and Why It Matters&lt;/h3&gt;
+&lt;p&gt;The author claims HermesOS is a “multi‑agent system that autonomously builds software, acts as a COO of my company, assistant, and my personal productivity and health coach.” It runs on a local Mac Studio with a Quen 3.6 35B model and can also be deployed on a Hostinger VPS. The system is built around three core agents: &lt;strong&gt;Coder&lt;/strong&gt;, &lt;strong&gt;Lifebot&lt;/strong&gt;, and &lt;strong&gt;Taco Bot&lt;/strong&gt;, each handling a distinct domain.&lt;/p&gt;
+
+&lt;h3&gt;Using Coder to Extend a Pomodoro App&lt;/h3&gt;
+&lt;p&gt;In a live demo, the author instructs Hermes via Discord: “Hermes bot, draft me a spec to add on to my Pomodoro app the ability to switch skins.” The bot replies with a PRD that outlines adding three new skins—cat, dog, tomato—to the Electron app. After approving, Coder builds the changes, and the updated app appears in the build channel. The author then runs the app locally, confirming the new skins appear, noting the tomato skin looks “a little bit creepy.” This illustrates how Coder translates natural‑language requests into code, using Claude Code to generate the spec and Quen to orchestrate the build.&lt;/p&gt;
+
+&lt;h3&gt;Lifebot: A Personal Health and Productivity Coach&lt;/h3&gt;
+&lt;p&gt;Lifebot is accessed through Telegram. The author asks, “How is my productivity so far today?” and receives a summary of three 27‑minute sessions logged in Obsidian. When queried about steps, Lifebot reports “no data yet” until the author syncs iCloud data. A follow‑up question about yesterday’s steps yields “11,502 steps.” The bot then offers tailored advice: “Your strongest windows by session count is around 12:00 p.m.” and recommends using the 9:00‑11:00 a.m. slot for deep work. The author also tests a fatigue query, and Lifebot advises a 10‑minute break, citing prior experiments with 5‑ and 15‑minute breaks. Lifebot’s insights are powered by DeepSeek V4 Pro, with data sourced from Pomodoro logs, a custom Typewriter to‑do app, and Apple Health.&lt;/p&gt;
+
+&lt;h3&gt;Taco Bot: Automating Operations and Team Coordination&lt;/h3&gt;
+&lt;p&gt;Hosted on the Lonely Octopus Discord server, Taco Bot can set reminders, scan channel activity, and draft operational guides. The author demonstrates asking Taco Bot to “draft me an ops guide for how our team releases internal software.” The bot pulls information from Discord, Notion, and Slack to produce a checklist that includes PR reviews, automated tests, and release protocols. Taco Bot also handles reminders for workshop demos and can reschedule them. The author notes that Taco Bot effectively serves as a “COO” by documenting processes and ensuring consistency across the team.&lt;/p&gt;
+
+&lt;h3&gt;Running Hermes 24/7 on a VPS&lt;/h3&gt;
+&lt;p&gt;The video explains that Hermes can be hosted on a virtual private server. Hostinger sponsors this portion, offering a pre‑built Hermes Docker template at &lt;a href="https://hostinger.com/tinahermes" target="_blank"&gt;hostinger.com/tinahermes&lt;/a&gt;. The author highlights that the VPS keeps API keys, data, and logs on private infrastructure, with weekly backups. He encourages viewers to use the discount code “TinaHuang” for an exclusive offer.&lt;/p&gt;
+
+&lt;h3&gt;Future Directions and Community Engagement&lt;/h3&gt;
+&lt;p&gt;The author hints at a more advanced agentic system that will autonomously scrape the internet for AI and tech research, potentially generating content ideas and software prototypes. He invites viewers to comment “Hermes workshop” if they’re interested in a deeper dive. The video concludes with a call to action: “What have you built in your Hermes? What do you want to be building now?”&lt;/p&gt;
+
+&lt;h3&gt;Reality check&lt;/h3&gt;
+&lt;p&gt;Clickbait verdict: The title “My FULL Hermes Agent Setup (HermesOS)” accurately reflects the content; it does not overpromise. Credibility: The claims about Hermes’ capabilities are plausible, given the described architecture, but the author’s assertions about performance (“has genuinely changed my life”) are anecdotal. Context: Readers should note that the system relies on multiple commercial APIs (Claude, DeepSeek) and local models, which may incur costs and require technical expertise. Open‑source alternatives exist, but the author’s setup is proprietary.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=1CLc-VeEivk" target="_blank"&gt;🎥 Watch the original video on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 5,363 tokens • Output: 1,329 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI Article: this video will find you when you need it the most*</title>
       <link>https://dataval.tplinkdns.com/article/7ZR1GTRWEfg</link>
       <guid isPermaLink="false">yt-summary-1794839278</guid>
