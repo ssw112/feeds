@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-11-16T16:13:47Z</updated>
+  <updated>2026-11-16T16:31:04Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians</title>
+    <id>urn:newsdigest:29450e8918e021cc7e52c2fd3e3957d987dcc655</id>
+    <link href="https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians" rel="alternate" />
+    <published>2026-11-16T16:31:04Z</published>
+    <updated>2026-11-16T16:31:04Z</updated>
+    <content type="html">&lt;p&gt;The Israeli military uploaded roughly 3.5 million photographs to Amazon’s cloud‑based facial‑recognition platform to identify Palestinians. The transfer was part of Israel’s expanded use of Amazon Web Services for its operations in the Gaza Strip.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians"&gt;Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xxohaz/"&gt;1276 points, 104 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xxohaz"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Iraq PM targets powerful militia stronghold in $30m oil smuggling probe</title>
     <id>urn:newsdigest:33994fe50b0262563d9479ce88c89737805e435c</id>
@@ -1598,13 +1606,5 @@
     <published>2026-11-11T12:35:40Z</published>
     <updated>2026-11-11T23:33:25Z</updated>
     <content type="html">&lt;p&gt;A coalition of ten northern European countries, led by the United Kingdom and including the Netherlands and several Baltic and Nordic states, announced a joint defence framework aimed at countering Russian naval activity. The initiative was prompted by a reported 41% rise in Russian naval movements around the United Kingdom in the first nine months of the year, according to a British defence minister. The agreement was made in northern Europe.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations"&gt;Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/11/whats-northern-europes-new-drones-and-warships-plan-to-counter-russia?traffic_source=rss"&gt;What is northern Europe’s new drone and warship plan to counter Russia?&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xtnk8d/"&gt;64 points, 6 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xtnk8d"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge</title>
-    <id>urn:newsdigest:7dbbbc1b07693e055fa5f6cf4285669d2cd55c43</id>
-    <link href="https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel" rel="alternate" />
-    <published>2026-11-11T12:35:40Z</published>
-    <updated>2026-11-11T12:35:40Z</updated>
-    <content type="html">&lt;p&gt;Dr. Hussam Abu Safiya, a prominent Gaza physician, has been held in an Israeli prison for approximately 23 months without charge. An independent Israeli professor reviewing his medical records warned that his health is at risk without proper treatment, and the Palestinian Human Rights Institute said his detention violates individual rights and undermines Gaza’s healthcare system. The reports differ on the spelling of the doctor’s surname.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel"&gt;Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza?traffic_source=rss"&gt;Rights group raises concerns about jailed Dr Abu Safia amid strikes on Gaza&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
