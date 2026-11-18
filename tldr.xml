@@ -6,6 +6,19 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>n8n Just Released a FREE + Open Source Version of Claude Duet, Grokbot, Dots, &amp; Muse</title>
+      <link>https://dataval.tplinkdns.com/tldr/ynEEbqKQSaY</link>
+      <guid isPermaLink="false">yt-tldr-1795039811</guid>
+      <pubDate>Wed, 18 Nov 2026 22:10:11 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · AI] n8n Releases Nodd, a Free Open-Source Local AI Agent&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video says n8n launched Nodd, a free, open-source personal AI agent similar to Claude Duet, ChatGPT Dots, Grokbot and Muse. Unlike those cloud services, Nodd runs on your own computer in a local Linux VM, so it stops when your PC does, and it works with any LLM — a local Ollama model, OpenRouter, or your existing ChatGPT subscription. A built-in vault enters passwords so credentials never reach the model, and the code can be forked and customized. The catch: no native mobile app (remote access runs through Telegram or WhatsApp) and it targets technical users. Implication: if you want a private, customizable agent and don't mind self-hosting, Nodd is a free alternative worth testing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video's claims match n8n's public GitHub release; star counts and "free" status are video-reported, not independently verified.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Download Nodd from nod.n8n.io, install it, and connect a local or existing model to run a private, free AI agent.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ynEEbqKQSaY" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,210 tokens • Output: 2,972 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The World Depends on Random Numbers That Aren't Really Random</title>
       <link>https://dataval.tplinkdns.com/tldr/uXuQF_PPg5U</link>
       <guid isPermaLink="false">yt-tldr-1795036128</guid>
