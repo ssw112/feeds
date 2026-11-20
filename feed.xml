@@ -6,6 +6,49 @@
     <description>Summaries of longer YouTube videos and podcasts.</description>
     <language>en</language>
     <item>
+      <title>AI Article: Mac Terminal is Actually Insane</title>
+      <link>https://dataval.tplinkdns.com/article/GraUbDjQNWM</link>
+      <guid isPermaLink="false">yt-summary-1795216003</guid>
+      <pubDate>Fri, 20 Nov 2026 23:06:43 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[LIST · 28] 28 Essential macOS Terminal Tricks You Can Use Today&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Premise:&lt;/strong&gt; For macOS users who want to harness the built‑in Terminal, these tips show quick commands for automation, info, and fun tricks.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Terminal theme&lt;/strong&gt; – Change appearance to a translucent dark profile via Settings → Profiles → Clear Dark.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display dialog&lt;/strong&gt; – Show a macOS alert box using AppleScript. &lt;code&gt;osascript -e 'display dialog "Your text"'&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Convert docs to txt&lt;/strong&gt; – Transform a .docx file to plain text. &lt;code&gt;textutil -convert txt document.docx&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zip single file&lt;/strong&gt; – Compress a file into a .zip archive. &lt;code&gt;zip archive.zip file&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zip folder recursively&lt;/strong&gt; – Archive an entire directory. &lt;code&gt;zip -r folder.zip folder&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;List open files&lt;/strong&gt; – Reveal which processes use a specific file. &lt;code&gt;lsof /path/to/file&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Top CPU processes&lt;/strong&gt; – Live view of processes sorted by CPU usage. &lt;code&gt;top -o cpu&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Network quality test&lt;/strong&gt; – Run macOS’s built‑in internet speed check. &lt;code&gt;network quality&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Uptime&lt;/strong&gt; – See how long the Mac has been running and load average. &lt;code&gt;uptime&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hardware info&lt;/strong&gt; – Detailed specs including model, chip, and memory. &lt;code&gt;system_profiler SPHardwareDataType&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;macOS version&lt;/strong&gt; – Display the current operating system version. &lt;code&gt;sw_vers&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Battery details&lt;/strong&gt; – Get cycle count, capacity, and status. &lt;code&gt;system_profiler SPPowerDataType&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Text‑to‑speech&lt;/strong&gt; – Make the Mac speak or save audio. &lt;code&gt;say "Hello"&lt;/code&gt; or &lt;code&gt;say -o hello.aiff "Hello"&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Play audio file&lt;/strong&gt; – Output an audio file directly from Terminal. &lt;code&gt;afplay file.mp3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quick Look preview&lt;/strong&gt; – Open Finder‑style preview for any file. &lt;code&gt;qlmanage -p photo.jpg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resize image&lt;/strong&gt; – Change image width without an editor. &lt;code&gt;sips --resampleWidth 1200 image.jpg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;File metadata&lt;/strong&gt; – List attributes like size and dates. &lt;code&gt;mdls photo.jpg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Directory size summary&lt;/strong&gt; – Show each item’s size in the current folder. &lt;code&gt;du -sh *&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spotlight search&lt;/strong&gt; – Find files by name or content via indexing. &lt;code&gt;mdfind "filename"&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Locate executable&lt;/strong&gt; – Reveal the full path of a command. &lt;code&gt;which python3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kill app&lt;/strong&gt; – Force‑quit a running application. &lt;code&gt;killall Spotify&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear screen&lt;/strong&gt; – Remove all previous output; Ctrl L works too. &lt;code&gt;clear&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Manual pages&lt;/strong&gt; – Read a command’s documentation. &lt;code&gt;man say&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Command history&lt;/strong&gt; – Review previously entered commands. &lt;code&gt;history&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prevent sleep&lt;/strong&gt; – Keep Mac awake indefinitely or for a set time. &lt;code&gt;caffeinate&lt;/code&gt; or &lt;code&gt;caffeinate -t 3600&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Save clipboard to file&lt;/strong&gt; – Write current clipboard contents into a text file. &lt;code&gt;pbpaste &amp;gt; clipboard.txt&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Take screenshot&lt;/strong&gt; – Capture the screen to a file via Terminal. &lt;code&gt;screencapture screenshot.png&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Search file contents&lt;/strong&gt; – Recursively grep for a term in the current directory. &lt;code&gt;grep -r "MacBook" .&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Count check:&lt;/strong&gt; title gives no number, found 28.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video includes a Tomtoc laptop‑sleeve sponsorship and mentions third‑party apps like Brisk without demonstrating them; all other items are native macOS commands.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GraUbDjQNWM" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,713 tokens • Output: 3,068 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI Article: The Darkest Internet Rabbit Holes</title>
       <link>https://dataval.tplinkdns.com/article/PHNcLMaYtsE</link>
       <guid isPermaLink="false">yt-summary-1795214165</guid>
