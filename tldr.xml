@@ -6,6 +6,26 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>It’s Time to Host Your Own RSS Reader</title>
+      <link>https://dataval.tplinkdns.com/tldr/CUXwAM5rtvs</link>
+      <guid isPermaLink="false">yt-tldr-1795214158</guid>
+      <pubDate>Fri, 20 Nov 2026 22:35:58 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Host Your Own Chronological RSS Feed Reader Using FreshRSS and Tailscale&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video claims that modern news websites and algorithms are bloated with ads, paywalls, and unwanted distractions. To fix this, the video demonstrates how to set up FreshRSS—a self-hosted, open-source RSS reader—combined with Tailscale via Docker. This creates a private, ad-free, chronological news feed accessible securely from any device without relying on third-party cloud services or algorithms. The consequence is a calmer, customizable news consumption habit that bypasses paywalls and algorithmic feeds.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video provides a genuine technical tutorial for self-hosting software using Docker and Tailscale, with no commercial deception or propaganda.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Install Docker and deploy FreshRSS using the Scaletail repository with a Tailscale sidecar to regain an ad-free, chronological news feed this week.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=CUXwAM5rtvs" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,537 tokens • Output: 250 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚠️ Not summarized: Ілюзія універсальної мови</title>
+      <link>https://dataval.tplinkdns.com/tldr/GtbLE9QU4-A</link>
+      <guid isPermaLink="false">yt-tldr-1795213547</guid>
+      <pubDate>Fri, 20 Nov 2026 22:25:47 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;⚠️ This video could not be summarized.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;No transcript available (no captions in any language).&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;▶️ &lt;a href="https://www.youtube.com/watch?v=GtbLE9QU4-A"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>I Checked What Claude &amp; ChatGPT. Are Really Sending Over the Network</title>
       <link>https://dataval.tplinkdns.com/tldr/shAxoFnjtRI</link>
       <guid isPermaLink="false">yt-tldr-1795164057</guid>
