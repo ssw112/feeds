@@ -6,6 +6,19 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>I Checked What Claude &amp; ChatGPT. Are Really Sending Over the Network</title>
+      <link>https://dataval.tplinkdns.com/tldr/shAxoFnjtRI</link>
+      <guid isPermaLink="false">yt-tldr-1795164057</guid>
+      <pubDate>Fri, 20 Nov 2026 08:40:57 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] AI Coding Tools Send More Than Telemetry: What You Need to Know&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video shows that AI coding assistants like Claude, Copilot, and Cursor send more than just telemetry. A study captured their network traffic and found that while telemetry accounts for about a quarter of the data, the bulk is the conversation (your code, terminal output, and commands) and the model’s own requests. These can leak secrets, email addresses, and even push sensitive data to public repos if you approve commands. The takeaway is that disabling telemetry alone isn’t enough; you must also keep secrets out of project folders, review training‑data settings, and consider network firewalls or sandboxing. Ignoring these steps can expose your code and personal info.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video’s claim that telemetry is only a quarter of traffic is supported by the captured data.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Set the Cloud Code environment variable DISABLE_NON_ESSENTIAL_TRAFFIC to true to cut telemetry by ~25% and protect your code.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=shAxoFnjtRI" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 6,146 tokens • Output: 1,352 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>n8n Just Released a FREE + Open Source Version of Claude Duet, Grokbot, Dots, &amp; Muse</title>
       <link>https://dataval.tplinkdns.com/tldr/ynEEbqKQSaY</link>
       <guid isPermaLink="false">yt-tldr-1795039811</guid>
