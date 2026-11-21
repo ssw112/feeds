@@ -6,6 +6,19 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Turn Any ESP32-C6 Into a Zigbee Smart Device!</title>
+      <link>https://dataval.tplinkdns.com/tldr/HacYNaRwcm4</link>
+      <guid isPermaLink="false">yt-tldr-1795276334</guid>
+      <pubDate>Sat, 21 Nov 2026 15:52:14 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Turn a cheap ESP32‑C6 board into a Zigbee smart switch&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video shows how any inexpensive ESP32‑C6 development board can be programmed with Arduino IDE’s built‑in Zigbee examples to act as a Zigbee end‑device—such as a on/off switch, temperature sensor, or touch‑controlled light. Once flashed, the board pairs with common Zigbee hubs (e.g., Sonoff NSPanel, Home Assistant) and can be controlled from your smart‑home app, giving you a DIY, low‑cost alternative to commercial Zigbee devices.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video accurately states ESP32‑C6 supports Zigbee and can be programmed via Arduino IDE examples.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Buy a $5 ESP32‑C6 board, flash the Arduino Zigbee on/off example, and add it to your Zigbee hub for a cheap smart switch.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HacYNaRwcm4" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,290 tokens • Output: 690 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>This App Fixes MacOS</title>
       <link>https://dataval.tplinkdns.com/tldr/s8dzlv4WuNk</link>
       <guid isPermaLink="false">yt-tldr-1795246770</guid>
