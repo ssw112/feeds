@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-11-22T14:00:43Z</updated>
+  <updated>2026-11-22T14:31:08Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis</title>
+    <id>urn:newsdigest:4951fe65e190f27b8936f519c163f9866ff13a7a</id>
+    <link href="https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai" rel="alternate" />
+    <published>2026-11-22T14:31:08Z</published>
+    <updated>2026-11-22T14:31:08Z</updated>
+    <content type="html">&lt;p&gt;Anthropic mathematician Levent Alpöge says he used the company’s Claude AI system to produce a proof of the Riemann hypothesis. The claim was made from the San Francisco‑based AI firm Anthropic. The proof, comprising about 17 million lines of code, has not yet been fully examined by human mathematicians.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"&gt;Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled"&gt;&amp;quot;It can take years&amp;quot;: Why the AI Riemann proof is far from settled&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>Endurance athlete swims in Hormuz Strait</title>
     <id>urn:newsdigest:1bad478394e8e7201e2c504a575d5f868a971cd8</id>
@@ -1598,13 +1606,5 @@
     <published>2026-11-17T11:30:23Z</published>
     <updated>2026-11-17T11:30:23Z</updated>
     <content type="html">&lt;p&gt;At the Cop31 UN climate summit, a draft text of a possible final outcome was delivered, and Australia’s president of the talks said it aims to draw out parties on areas of agreement and disagreement. Corporate interests also gained access to government delegations participating in the negotiations.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says"&gt;Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/cop31-corporate-interests-gain-access-to-govt-delegations-participating-in-climate-negotiations"&gt;COP31: Corporate interests gain access to govt delegations participating in climate negotiations&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care</title>
-    <id>urn:newsdigest:b1ec986667e62f0befcd3f00420d922947aa32a7</id>
-    <link href="https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care?traffic_source=rss" rel="alternate" />
-    <published>2026-11-17T11:13:17Z</published>
-    <updated>2026-11-17T11:13:17Z</updated>
-    <content type="html">&lt;p&gt;Former Pakistani prime minister Imran Khan, currently in custody, has written to the chief justice requesting urgent medical assistance. He claims that court orders regarding his care have been ignored and expresses concern that he may not survive. The letter was sent from his detention facility in Pakistan.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care?traffic_source=rss"&gt;Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://thewire.in/south-asia/jailed-ex-pakistan-pm-imran-khan-writes-to-chief-justice"&gt;&amp;#x27;I May Not Return Alive&amp;#x27;: Jailed Ex-Pakistan PM Imran Khan Writes to Chief Justice, Appeals For Urgent Medical Help&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xyhptp/"&gt;57 points, 0 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xyhptp"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
   </entry>
 </feed>
