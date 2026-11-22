@@ -3,10 +3,18 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-11-22T20:33:07Z</updated>
+  <updated>2026-11-22T20:50:27Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank</title>
+    <id>urn:newsdigest:fe52db3bc042d3c8a12e841f569487879c5c8622</id>
+    <link href="https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank" rel="alternate" />
+    <published>2026-11-22T20:50:27Z</published>
+    <updated>2026-11-22T20:50:27Z</updated>
+    <content type="html">&lt;p&gt;Israeli settlers attacked multiple Palestinian villages in the West Bank, setting fire to vehicles and homes. Gadi Eisenkot condemned the attacks.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank"&gt;Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss"&gt;Israeli settlers attack multiple Palestinian villages as pogroms surge&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1y2y1zg/"&gt;0 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1y2y1zg"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Mexican special forces arrest drug kingpin 'Chapo Isidro'</title>
     <id>urn:newsdigest:d746ab5eed8a864189bdd498f3de4c8441855247</id>
@@ -1598,13 +1606,5 @@
     <published>2026-11-17T17:10:44Z</published>
     <updated>2026-11-17T22:06:56Z</updated>
     <content type="html">&lt;p&gt;Jensen Huang, founder and former chief executive of Nvidia, resigned from the company on Thursday and said he would be willing to return as CEO, while the board indicated it was not considering reinstating him. He also transferred billions of Nvidia shares to his heirs months before his resignation.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement"&gt;Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss"&gt;Jensen Huang agrees to testify before US House, says can resume CEO role&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/tv-shows/truth-or-fake/20261117-deepfakes-memes-and-misinformation-ai-turns-against-nvidia-s-jensen-huang"&gt;Nvidia&amp;#x27;s AI irony: Jensen Huang targeted by memes and misinformation&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/tv-shows/business/20261117-jensen-huang-says-he-d-be-honoured-to-return-to-nvidia-as-ceo"&gt;Jensen Huang says he&amp;#x27;d be honoured to return to Nvidia as CEO&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"&gt;Nvidia doubles quarterly revenue in first earnings since Jensen Huang’s resignation&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.barrons.com/articles/jensen-huang-nvidia-stock-trust-grat-estate-tax-357c1fd3"&gt;Jensen Huang Passed Billions in Nvidia Stock to His Heirs Months Before His Downfall&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xy2y2t/"&gt;0 comments (removed)&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xy2y2t"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>US officially loses measles-free status after 26 years amid outbreak</title>
-    <id>urn:newsdigest:6ed555d35ce3d9f1d4c82008c4fd74939d684d60</id>
-    <link href="https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss" rel="alternate" />
-    <published>2026-11-17T16:35:12Z</published>
-    <updated>2026-11-17T21:49:47Z</updated>
-    <content type="html">&lt;p&gt;Global health authorities announced that the US has lost its measles elimination status, recognizing the disease as endemic in the country after it had been eliminated for 26 years. The decision comes amid ongoing measles outbreaks in the US.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss"&gt;US officially loses measles-free status after 26 years amid outbreak&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status"&gt;US loses measles elimination status amid worst outbreak since 1991&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/americas/20261117-us-mexico-and-bolivia-lose-measles-free-status-as-deaths-mount"&gt;US, Mexico and Bolivia lose measles-free status as deaths mount&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"&gt;U.S. officially loses measles elimination status amid ongoing outbreaks&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920"&gt;U.S. loses measles-elimination status, erasing decades of progress&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xyolh8/"&gt;1033 points, 88 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xyolh8"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
   </entry>
 </feed>
