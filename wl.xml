@@ -6,6 +6,30 @@
     <description>Summaries of longer YouTube videos and podcasts.</description>
     <language>en</language>
     <item>
+      <title>AI Article: Free Mac Apps That Embarrass Apple</title>
+      <link>https://dataval.tplinkdns.com/article/Pk_ZXL3fNeY</link>
+      <guid isPermaLink="false">yt-summary-1795444401</guid>
+      <pubDate>Mon, 23 Nov 2026 14:33:21 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[LIST · 9] Nine Free, Open-Source Mac Apps That Replace Paid Utilities&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Premise:&lt;/strong&gt; For Mac users who don't want to pay for utilities: nine free, open-source apps that replace paid tools for file shrinking, audio, files, video, AI and dictation.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Clop&lt;/strong&gt; — Shrinks files the instant you copy them; drag a file to the screen corner to shrink or scale it, or point it at a folder to auto-shrink everything. Pro plan is €15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Voila Saint&lt;/strong&gt; — Menu bar app the video says does the job of six paid apps: per-app volume sliders and per-app speaker routing (SoundSource costs $49), CPU/battery/temperature monitor, window snapping, app switcher with previews, clipboard history, better screenshot annotation, a lid-closed keep-awake toggle instead of caffeinate, and a dynamic island showing agent progress and context-window use; ~35,000 GitHub stars.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Local Send&lt;/strong&gt; — AirDrop fix that works across Mac, Android, Windows and iPhone; open it on both devices on the same Wi-Fi and send, with no account needed; over 100,000 GitHub stars.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inner&lt;/strong&gt; — Video player built on the same engine as MPV that opens nearly everything QuickTime refuses; adds picture-in-picture, a music mode, scrubbable thumbnails, online subtitle search and matching, plus custom trackpad gestures.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Farrow&lt;/strong&gt; — Rule-based folder tidier: pick a folder, set rules, and new files get renamed, tagged and moved automatically; reads text and images so receipts sort themselves, with a dry run to preview. Free version of Hazel (~$42).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Text Stream&lt;/strong&gt; — Teleprompter that sits in the notch beside the camera so you look like you're looking at the lens; scrolls at a set speed or follows your voice and stops when you stop. Paste script, hit done; also runs on iPhone and iPad.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ollama&lt;/strong&gt; — Runs open-source AI models locally with &lt;code&gt;ollama run&lt;/code&gt;, so it works offline on a plane; the video says models are smaller and less smart than ChatGPT or Claude, but suit private or sensitive data. More Mac memory runs bigger models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frame&lt;/strong&gt; — Converts video, audio or images into any format locally, with presets for GIFs, TikTok and YouTube; nothing is uploaded, unlike CloudConvert, and it pairs with Clop. Not yet notarized by Apple, so settings need configuring on first launch.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Handy&lt;/strong&gt; — Open-source answer to Whisper.cpp and Super Whisper: hold a keyboard shortcut and speak instead of typing, working without Wi-Fi, with a choice of models. The video recommends Nvidia's Parakeet for speed and low memory; misheard words can be added to the dictionary.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Count check:&lt;/strong&gt; title gives no number, found 9.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; No sponsors or affiliate links; the video links its own free setup guides. The claim that Voila Saint replaces six paid apps is asserted, not tested.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Pk_ZXL3fNeY" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,181 tokens • Output: 2,501 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI Article: Чому люди вірять? Що відбувається в мозку віруючої людини</title>
       <link>https://dataval.tplinkdns.com/article/a6b0nbufgt8</link>
       <guid isPermaLink="false">yt-summary-1795310143</guid>
