@@ -6,6 +6,30 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Google Just Killed the Chatbot Reply (A2UI)</title>
+      <link>https://dataval.tplinkdns.com/tldr/qFAbevIeJN0</link>
+      <guid isPermaLink="false">yt-tldr-1795438320</guid>
+      <pubDate>Mon, 23 Nov 2026 12:52:00 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Google's A2UI Protocol Replaces Chatbot Text with Native UI&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video introduces Google’s A2UI, an open-source protocol that allows AI agents to render native interface components—like buttons, forms, and cards—directly within an application instead of relying on plain text chat. By sending a JSON description of the UI rather than raw code, the agent instructs the app to display pre-registered, brand-consistent components. This approach improves user experience by providing interactive elements, enhances security by preventing malicious script injection, and reduces token costs through a compact "Express" format that expands into full UI components on the server side. The video demonstrates this by building a cross-platform incident management tool that updates across web and mobile simultaneously.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video accurately explains Google's A2UI protocol. It is a technical demonstration for developers, not consumer-facing news or propaganda.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=qFAbevIeJN0" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 2,499 tokens • Output: 247 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Did Mercedes Cheat in 2026?</title>
+      <link>https://dataval.tplinkdns.com/tldr/L0r25e1yfck</link>
+      <guid isPermaLink="false">yt-tldr-1795437687</guid>
+      <pubDate>Mon, 23 Nov 2026 12:41:27 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] F1 2026: Did Mercedes Exploit a Thermal Expansion Loophole?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video investigates claims that Mercedes’ 2026 F1 engine exploited a rule loophole by using thermal expansion to increase compression ratio during races, despite passing cold static tests. While rivals alleged a 10-25hp advantage, data analysis shows the performance gap narrowed after a mid-season rule change requiring hot engine tests. However, top-speed data suggests the engine’s power remained consistent, implying the car’s aerodynamics, not the engine, drove the championship win. The video concludes Mercedes did not cheat under the written rules, though the technical ambiguity remains unresolved.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video presents speculative engineering theories as fact without independent proof, relying on unverified reports and its own data interpretation.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=L0r25e1yfck" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 3,574 tokens • Output: 235 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>I Tried a Non-Invasive Blood Sugar Ring. Miracle or Scam?</title>
       <link>https://dataval.tplinkdns.com/tldr/V_cBmFoRO84</link>
       <guid isPermaLink="false">yt-tldr-1795437076</guid>
