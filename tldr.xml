@@ -6,6 +6,18 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Run 400B+ LLM Models on Your 4GB Laptop AirLLM</title>
+      <link>https://dataval.tplinkdns.com/tldr/BhhEhfJ4ao0</link>
+      <guid isPermaLink="false">yt-tldr-1795443156</guid>
+      <pubDate>Mon, 23 Nov 2026 14:12:36 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] AirLLM Allows Running Huge LLMs on Low VRAM Devices&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video examines AirLLM, a tool that lets users run massive 400B+ parameter AI models (like Llama 405B or Kimi K3) on modest GPUs by streaming model layers one by one from storage. While the memory claims are mathematically true, the video warns that the setup is severely disk-bound. Because every single word generated requires reading the entire model file from the hard drive, generation speeds plummet to minutes per token—turning a simple 500-word response into a 40-hour wait on standard hardware. Consequently, users are advised to verify whether their model fits into system RAM or if their hardware supports optimized local runtimes like llama.cpp or DeltaFin before downloading massive model weights.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video relies on verified technical mechanics and user benchmarks. Claim: AirLLM runs giant models on small VRAM. Fact: True, via layer-by-layer streaming, but at extreme time costs.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=BhhEhfJ4ao0" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 7,173 tokens • Output: 278 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Google Just Killed the Chatbot Reply (A2UI)</title>
       <link>https://dataval.tplinkdns.com/tldr/qFAbevIeJN0</link>
       <guid isPermaLink="false">yt-tldr-1795438320</guid>
