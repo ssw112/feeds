@@ -6,6 +6,17 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>The Free 32GB VRAM Server You Didn't Know Existed</title>
+      <link>https://dataval.tplinkdns.com/tldr/c9xCBROqB2E</link>
+      <guid isPermaLink="false">yt-tldr-1795435253</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:53 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] The Hidden Cost of Free AI Cloud Servers&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explains that viral tutorials showing how to use free Google Kaggle servers (with 32GB VRAM) to run AI models like Qwen 27B are misleading. While technically functional, free cloud tiers come with severe hidden costs: sessions timeout after 20 minutes of inactivity, forcing users to constantly reinstall Ollama, redownload massive models, and update dynamic Cloudflare tunnel addresses. Consequently, users spend more time on setup than actual work, burning limited weekly GPU hours. Furthermore, such usage may violate terms of service, and public tunnels lack authentication. The video concludes that free tiers are great for data science learning or testing memory requirements before buying hardware, but for daily coding, users should instead rely on paid cloud credits (like Modal), cheap open-source token hosts, or local MoE models running on standard hardware.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; The video is an honest, firsthand tech critique. Claims about Kaggle idle limits, setup friction, and the inefficiencies of single-user inference buses match technical reality.&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 6,317 tokens • Output: 242 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Чому диво-вітряки не працюють, але продаються</title>
       <link>https://dataval.tplinkdns.com/tldr/Mm75J1Rhjhk</link>
       <guid isPermaLink="false">yt-tldr-1795422583</guid>
