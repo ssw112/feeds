@@ -6,6 +6,19 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>The Secret App Big Tech Hates</title>
+      <link>https://dataval.tplinkdns.com/tldr/NWANo9BRz6Y</link>
+      <guid isPermaLink="false">yt-tldr-1795435865</guid>
+      <pubDate>Mon, 23 Nov 2026 12:11:05 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[ACTION · TECH] Morph lets Android users strip ads and unwanted features from apps&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video demonstrates Morph, a free open‑source Android tool that sideloads community‑made patches to modify installed apps. By downloading the Morph APK, installing it, and choosing patches (e.g., Instagram, Reddit, X), users can instantly disable ads, remove reels, restore old UI elements, and unlock hidden features without paying for premium versions. The process takes seconds, and updates are handled with a single tap. This gives Android owners more control over their apps, though it requires sideloading and may conflict with app‑provider terms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Describes Morph’s real functionality; ad‑removal works, but patching may breach individual app TOS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Download the Morph APK from morph.app, sideload it, then patch Instagram by selecting its community patch to remove ads and reels.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=NWANo9BRz6Y" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,154 tokens • Output: 1,014 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Free 32GB VRAM Server You Didn't Know Existed</title>
       <link>https://dataval.tplinkdns.com/tldr/c9xCBROqB2E</link>
       <guid isPermaLink="false">yt-tldr-1795435253</guid>
