@@ -6,6 +6,45 @@
     <description>Summaries of longer YouTube videos and podcasts.</description>
     <language>en</language>
     <item>
+      <title>AI Article: The Labour Theory of Value on Trial</title>
+      <link>https://dataval.tplinkdns.com/article/s2-5qEsX62M</link>
+      <guid isPermaLink="false">yt-summary-1795621855</guid>
+      <pubDate>Wed, 25 Nov 2026 15:50:55 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;The Labour Theory of Value on Trial: Why the Statistical Evidence Falls Short&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; The author argues that most statistical evidence for Marx's labor theory of value fails modern causal standards. Using simulations and re-analyzed data, he shows high correlations between labor and prices can arise even when the theory is assumed false.&lt;/p&gt;
+
+&lt;h3&gt;A jury room for economic theory&lt;/h3&gt;
+&lt;p&gt;The author frames the debate through the film "12 Angry Men." Juror 8 demands reasonable doubt; juror 3 clings to a pre-ordained conclusion out of emotion; juror 4 evaluates evidence analytically and changes his mind when the facts shift. "I'm the annoying correlation isn't causation guy that I used to hate," the author says, casting himself as juror 8. His claim is not that the labor theory of value (LTV) is definitely false, but that the evidence offered for it does not meet the bar required to convict.&lt;/p&gt;
+
+&lt;h3&gt;What the simulation shows&lt;/h3&gt;
+&lt;p&gt;The author's central demonstration is a model of 200 industries in which labor and capital enter production symmetrically, so the LTV is false by assumption. Prices follow a simple cost-plus markup. Despite this, total labor hours correlate with total profit at 0.95. The explanation is statistical, not theoretical: larger industries have more of everything, so multiplying two variables by industry size produces a strong correlation. He compares this to the classic "stalks and babies" fallacy—counting both across districts yields a correlation without implying that stalks deliver babies.&lt;/p&gt;
+
+&lt;p&gt;He applies the same logic to published studies. Paul Cockshott and Allin Cottrell's 1997 multiple regression found that labor's coefficient stayed close to one, but they never tested capital as such, omitting obvious candidates such as machines and buildings. Their approach treated labor as one lumped input while splitting capital into a handful of candidates, leaving out machines and buildings entirely. When the author reruns the test using the World Input Output Database, which covers 43 countries from 2000 to 2014, capital adds to output value in 65 percent of cases, and labor's coefficient falls to about two-thirds. Capital clearly matters in 23 of the 43 countries, including the UK and the US.&lt;/p&gt;
+
+&lt;p&gt;Other measures fare no better. Anwar Shaikh's vector-angle method addresses industry size but still reflects the fact that labor is a large, evenly required cost across industries. In the author's simulation, Shaikh's angle is 8.5 degrees even though the LTV is false. Likewise, the Schwarz test—the observation that relative prices remain stable during business cycles—is reproduced in the simulation without any labor theory of value.&lt;/p&gt;
+
+&lt;h3&gt;The falling rate of profit&lt;/h3&gt;
+&lt;p&gt;The author then examines the tendency of the rate of profit to fall (TRPF), which Andrew Kliman treats as a stronger test of the LTV. Reviewing Basu and Manolakos's careful econometrics, he runs 328 different specifications on US data going back to 1869. Only 33 show a significant fall; 124 show a significant rise, and 171 are insignificant. "The better the data, the more inconclusive the results," he concludes. UK data show a small fall almost entirely before 1945, while European data show a rise since 1960. The clearest falls appear in lower-quality global data, which he argues undermines the theory's robustness.&lt;/p&gt;
+
+&lt;p&gt;He also notes that simple trend lines are highly sensitive to start dates. On Duménil and Lévy's US data, a line from 1948 to 2007 shows a fall of 0.35 percent per year, but extending back to 1869 turns that into a rise of 0.4 percent annually. Even Basu and Manolakos's preferred model finds a fall of only 0.16 percent per year, which barely survives a corrected test at a p-value of 0.04 and disappears when eight more years are added.&lt;/p&gt;
+
+&lt;h3&gt;A better test that has not been tried&lt;/h3&gt;
+&lt;p&gt;The author finds Ian Wright's argument more compelling: labor may be the unique source of changes in profit, not its level, because humans possess "universal causal powers" while machines have particular ones. Wright's own example imagines replacing a human taxi driver with a robot hidden in a box: profits would remain the same, yet Marxist theory concerns changes in profit over time, not static levels. But Wright's quantitative evidence cannot distinguish his theory from alternatives. The author built three simulated economies—one where only labor innovates, one where machines innovate, and one where nobody innovates—and all three produce the familiar high correlations between labor and profit. He proposes a difference-in-differences design—randomly assigning some industries more workers and others more materials—to test whether labor shocks produce disproportionate profit gains. "As far as I know, nobody on the Marxist side has tried anything like this," he says.&lt;/p&gt;
+
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;The author stresses that he is not anti-Marxism and names Marxist economists whose work he respects. His narrower point is methodological: existing quantitative evidence for the LTV is not good enough, and more correlations will not persuade anyone outside the already convinced. Whether the theory is true or not, he argues, does not substantially change his broader worldview.&lt;/p&gt;
+
+&lt;h3&gt;Reality check&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Clickbait verdict:&lt;/strong&gt; The trial framing is a metaphor; the video is a technical econometric critique, not a literal courtroom proceeding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Credibility:&lt;/strong&gt; The simulation results and re-analysis are the author's own claims, illustrative rather than established fact; he states the code and data are public, but the conclusions represent one interpretation. The citation of Basu and Manolakos and the World Input Output Database appears consistent with real research, though the author's specific counts of significant specifications are his own calculations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; The video omits that several Marxist economists already acknowledge the limits of simple correlation evidence, and it does not engage deeply with non-quantitative philosophical defenses of the LTV.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=s2-5qEsX62M" target="_blank"&gt;🎥 Watch the original video on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 13,179 tokens • Output: 7,053 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI Article: Skills Spies Learn That Normal People Never Try</title>
       <link>https://dataval.tplinkdns.com/article/fOnK8EaOAH0</link>
       <guid isPermaLink="false">yt-summary-1795473441</guid>
