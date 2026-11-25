@@ -3,10 +3,34 @@
   <title>World News Digest</title>
   <id>https://ssw112.github.io/feeds/worldnews.xml</id>
   <link href="https://ssw112.github.io/feeds/worldnews.xml" rel="self" />
-  <updated>2026-11-25T18:10:19Z</updated>
+  <updated>2026-11-25T18:27:30Z</updated>
   <author>
     <name>World News Digest</name>
   </author>
+  <entry>
+    <title>The rising cost of Thanksgiving</title>
+    <id>urn:newsdigest:351c3686d2dd4ab10a7ae426e1af749e1a7659ec</id>
+    <link href="https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss" rel="alternate" />
+    <published>2026-11-25T18:27:30Z</published>
+    <updated>2026-11-25T18:27:30Z</updated>
+    <content type="html">&lt;p&gt;Consumers in the United States are spending more on Thanksgiving food, prompting many to scale back gatherings and travel plans. The higher prices for food, drinks, household goods, and air travel are affecting households across the country. The holiday may look different for some Americans this year.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss"&gt;The rising cost of Thanksgiving&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices"&gt;High prices force many across the US to scale back for Thanksgiving: ‘We can’t afford the food’&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>Catalan separatist Puigdemont to return to Spain on December 12</title>
+    <id>urn:newsdigest:5d4f0bf001c512ed5832a2c1350e6294eea366db</id>
+    <link href="https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss" rel="alternate" />
+    <published>2026-11-25T18:27:30Z</published>
+    <updated>2026-11-25T18:27:30Z</updated>
+    <content type="html">&lt;p&gt;Former Catalan regional leader Carles Puigdemont announced he will end nearly a decade of self-imposed exile in Belgium and return to Spain on December 12. The Catalan separatist stated that his return will occur following a national election. He also plans to unveil a proposal for a renewed Catalan independence push on December 17.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss"&gt;Catalan separatist Puigdemont to return to Spain on December 12&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/video/20261125-exiled-catalan-separatist-puigdemont-to-return-to-spain-after-election"&gt;Exiled Catalan separatist Puigdemont to return to Spain after election&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1y56uvw/"&gt;8 points, 2 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1y56uvw"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Israeli MPs advance bill for inquiry into security failings that led to October 7 Hamas attack</title>
+    <id>urn:newsdigest:8d3ce0faed907d3293716f2f26db3b880859d799</id>
+    <link href="https://www.france24.com/en/middle-east/20261125-israeli-mps-advance-bill-for-inquiry-into-security-failings-that-led-to-october-7-hamas-attack" rel="alternate" />
+    <published>2026-11-25T18:27:30Z</published>
+    <updated>2026-11-25T18:27:30Z</updated>
+    <content type="html">&lt;p&gt;Israeli lawmakers in the Knesset gave initial approval to advance a proposed state inquiry into the security failures that led to the October 7, 2023, Hamas attack. The vote moves the proposal forward in Israel’s parliament.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/middle-east/20261125-israeli-mps-advance-bill-for-inquiry-into-security-failings-that-led-to-october-7-hamas-attack"&gt;Israeli MPs advance bill for inquiry into security failings that led to October 7 Hamas attack&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/11/25/knesset-advances-october-7-probe-despite-netanyahus-objections?traffic_source=rss"&gt;Knesset advances October 7 probe despite Netanyahu’s objections&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>California beaches close as record-breaking tides and major flooding loom</title>
     <id>urn:newsdigest:61e1d29781b1972b4191ddee7f230fba266bc9ca</id>
@@ -1582,29 +1606,5 @@
     <published>2026-11-20T07:03:44Z</published>
     <updated>2026-11-20T17:39:46Z</updated>
     <content type="html">&lt;p&gt;Iraq has reached a compromise with the Kataib Hezbollah militia over a stronghold. The agreement will see Iraqi security forces, including brigades from the Popular Mobilisation Forces, stationed in the area. The move follows a standoff in which Iraqi forces surrounded the militia&amp;#x27;s territory.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss"&gt;Iraq reaches compromise with Kataib Hezbollah over armed group stronghold&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DW: &lt;a href="https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-rdf"&gt;Iraq&amp;#x27;s risky standoff: The state vs. Iran-allied militias&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal"&gt;Iraqi security forces to deploy in Hezbollah stronghold under compromise deal&lt;/a&gt;&lt;/li&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/video/20261120-iraqi-forces-strike-compromise-with-powerful-pro-iran-militia"&gt;Iraqi forces strike compromise with powerful pro-Iran militia&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss"&gt;Kataib Hezbollah faces deadline to leave Iraqi stronghold&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss"&gt;Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.iranintl.com/en/202611200850"&gt;Iraq begins taking back town held for a decade by Iran’s strongest militia ally&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.reuters.com/world/middle-east/iraqi-forces-strike-compromise-with-powerful-pro-iran-militia-security-officials-2026-11-19/"&gt;Iraqi forces strike compromise with powerful pro-Iran militia, security officials say&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1y115cb/"&gt;96 points, 2 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1y115cb"&gt;archive&lt;/a&gt;) | also: &lt;a href="https://www.reddit.com/r/worldnews/comments/1y0rfaf/"&gt;1 comment&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1y0rfaf"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Senate Republicans rejects war powers bill to halt fighting in Iran</title>
-    <id>urn:newsdigest:1e8bb41ce86a8a35ae5293fb759c0ef972596b87</id>
-    <link href="https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected" rel="alternate" />
-    <published>2026-11-20T07:03:44Z</published>
-    <updated>2026-11-20T13:46:34Z</updated>
-    <content type="html">&lt;p&gt;The US Senate rejected a war powers resolution aimed at limiting military engagement with Iran, with Republicans opposing the measure. Vote counts are reported inconsistently as 48-51 or 51-48 across sources. This occurs as President Trump considers new military strikes on Iran.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected"&gt;Senate Republicans rejects war powers bill to halt fighting in Iran&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss"&gt;Senate Republicans in US reject measure to limit Trump’s war powers in Iran&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.yahoo.com/news/politics/articles/trump-weighs-fresh-military-strikes-005152655.html"&gt;Trump weighs fresh military strikes on Iran, NYT reports&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.jpost.com/international/article-915391"&gt;Netanyahu presses Trump for four-to-seven-day Iran strike campaign - report&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1xzwylc/"&gt;319 points, 109 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1xzwylc"&gt;archive&lt;/a&gt;) | also: &lt;a href="https://www.reddit.com/r/worldnews/comments/1y02rbf/"&gt;43 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1y02rbf"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Macron urges Ukraine's allies to 'reopen the question' of NATO membership</title>
-    <id>urn:newsdigest:964d9eaeda5cf91ec1a2c6cef4ee49f6e534fc49</id>
-    <link href="https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership" rel="alternate" />
-    <published>2026-11-20T07:03:44Z</published>
-    <updated>2026-11-20T10:33:01Z</updated>
-    <content type="html">&lt;p&gt;French President Emmanuel Macron called for Ukraine&amp;#x27;s allies to expedite the delivery of air defense systems and to reconsider the country&amp;#x27;s potential NATO membership during talks in Berlin. Reports differ on whether Macron explicitly urged allies to &amp;quot;reopen the question&amp;quot; of membership or characterized the topic as &amp;quot;relevant&amp;quot; for European security.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;France 24: &lt;a href="https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership"&gt;Macron urges Ukraine&amp;#x27;s allies to &amp;#x27;reopen the question&amp;#x27; of NATO membership&lt;/a&gt;&lt;/li&gt;&lt;li&gt;via r/worldnews: &lt;a href="https://www.reuters.com/world/ukraines-nato-membership-is-relevant-european-security-macron-says-2026-11-19/"&gt;The question of NATO membership for Ukraine is &amp;quot;relevant&amp;quot; for ​European security, given the country&amp;#x27;s ​strong and well equipped army, says French President Macron&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/worldnews/comments/1y0jyc0/"&gt;707 points, 20 comments&lt;/a&gt; (&lt;a href="https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1y0jyc0"&gt;archive&lt;/a&gt;)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Three arrested during Anthropic IPO protest outside Nasdaq</title>
-    <id>urn:newsdigest:b53b5bf247c1cc6255aaf8dd5fbda433c15084de</id>
-    <link href="https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss" rel="alternate" />
-    <published>2026-11-20T07:03:44Z</published>
-    <updated>2026-11-20T07:03:44Z</updated>
-    <content type="html">&lt;p&gt;Police arrested three people in New York during a demonstration outside the Nasdaq exchange as the artificial intelligence startup Anthropic made its stock market debut. Anti-AI groups also rallied in front of Anthropic&amp;#x27;s headquarters in San Francisco. Reports differ on whether the company&amp;#x27;s valuation was record-breaking or $2 trillion.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Al Jazeera: &lt;a href="https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss"&gt;Three arrested during Anthropic IPO protest outside Nasdaq&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The Guardian: &lt;a href="https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests"&gt;Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
