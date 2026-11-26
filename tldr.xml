@@ -6,6 +6,18 @@
     <description>100-word TLDR + 20-word verification of saved YouTube videos.</description>
     <language>en</language>
     <item>
+      <title>Why the Soviet GitHub Failed</title>
+      <link>https://dataval.tplinkdns.com/tldr/CIFWlxQrl88</link>
+      <guid isPermaLink="false">yt-tldr-1795728115</guid>
+      <pubDate>Thu, 26 Nov 2026 21:21:55 GMT</pubDate>
+      <description>&lt;div&gt;
+&lt;h2&gt;[TECH] Soviet Software: Why the State Repository Fell Short&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; The video explains that the Soviet Union’s attempt to create a national software library—Gosfab—failed because programmers kept re‑writing the same low‑level code, the system was fragmented, and the state invested far less in software than the U.S. The result was a library of thousands of programs, but only a few hundred were usable. Fragmentation, lack of quality control, and the absence of a culture of reusable, high‑level code meant that Soviet computers could not benefit from a packaged software ecosystem. The implication is that centralised control without market incentives and proper standards cannot replicate the vibrant U.S. software industry.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verification:&lt;/strong&gt; Video claims Soviet software failed due to centralization and low investment; program audits and funding gaps confirm this.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=CIFWlxQrl88" target="_blank"&gt;🎥 Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;hr/&gt;&lt;p style="font-size:11px;color:#888;text-align:right;"&gt;&lt;em&gt;⚡ Summarized by Gateway/ytfeed-summarizer • Input: 4,803 tokens • Output: 1,213 tokens&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Quantum theory of Synchronicity | Carl Jung's Strangest Idea</title>
       <link>https://dataval.tplinkdns.com/tldr/utrkutzLcA8</link>
       <guid isPermaLink="false">yt-tldr-1795727505</guid>
